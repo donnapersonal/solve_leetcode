@@ -34,7 +34,7 @@
 
   集合中的数据元素是无序的，且每个数据元素都是唯一的，很像数学意义上的集合
 
-  ![Alt text](images/set.png)
+  ![set](https://github.com/donnapersonal/solve_leetcode/blob/d10c2f872668a02f85ac3f9d94635711fb9c0e6e/images/set.png)
 
 - 
 
