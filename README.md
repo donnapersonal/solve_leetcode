@@ -6,3 +6,5 @@ Solutions to LeetCode by Java, JS, and Python
 
 - [数据结构与算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/data_structure_and_algorithm.md)
 - [算法的衡量](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/time_space_complexity.md)
+- [数组](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/array.md)
+- [栈和队列](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/stack_and_queue.md)
