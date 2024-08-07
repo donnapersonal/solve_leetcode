@@ -9,6 +9,7 @@ Solutions to LeetCode by Java, JS, and Python
 - [数组](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/array.md)
 - [栈和队列](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/stack_and_queue.md)
 - [哈希表](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/hash_table.md)
+- [双指针](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/two_pointer.md)
 
 ### LeetCode
 
@@ -16,4 +17,5 @@ Solutions to LeetCode by Java, JS, and Python
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
-|	0001 | Two Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0001.two_sum.md) | Array、哈希表 | Easy |
+|	0001 | Two Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0001.two_sum.md) | 数组、哈希表 | Easy |
+|	0015 | 3Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0015.3sum.md) | 数组、哈希表、双指针、排序 | Medium |
