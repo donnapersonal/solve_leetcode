@@ -8,3 +8,12 @@ Solutions to LeetCode by Java, JS, and Python
 - [算法的衡量](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/time_space_complexity.md)
 - [数组](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/array.md)
 - [栈和队列](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/stack_and_queue.md)
+- [哈希表](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/hash_table.md)
+
+### LeetCode
+
+#### 数组
+
+|	No. |	Title |	Solution | Tags | Difficulty |
+|	--- |	--- | --- | --- | --- |
+|	0001 | Two Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0001.two_sum.md) | Array、哈希表 | Easy |
