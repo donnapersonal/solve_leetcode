@@ -17,5 +17,9 @@ Solutions to LeetCode by Java, JS, and Python
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
-|	0001 | Two Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0001.two_sum.md) | 数组、哈希表 | Easy |
-|	0015 | 3Sum | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0015.3sum.md) | 数组、哈希表、双指针、排序 | Medium |
+|	/ | Merge Two Order Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/merge_two_order_array.md) | 数组、双指针 | / |
+|	0001 | Two Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0001.two_sum.md) | 数组、哈希表 | Easy |
+|	0015 | 3Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0015.3sum.md) | 数组、哈希表、双指针、排序 | Medium |
+|	0018 | 4Sum| [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0018.4sum.md) | 数组、双指针 | Medium |
+|	0026 | Remove Duplicates from Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0026.remove_duplicates_from_sorted_array.md) | 数组、双指针 | Easy |
+|	0027 | Remove Element | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0027.remove_element.md) | 数组、双指针 | Easy |
