@@ -23,3 +23,13 @@ Solutions to LeetCode by Java, JS, and Python
 |	0018 | 4Sum| [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0018.4sum.md) | 数组、双指针 | Medium |
 |	0026 | Remove Duplicates from Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0026.remove_duplicates_from_sorted_array.md) | 数组、双指针 | Easy |
 |	0027 | Remove Element | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0027.remove_element.md) | 数组、双指针 | Easy |
+|	0088 | Merge Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0088.merge_sorted_array.md) | 数组、双指针 | Easy |
+|	0283 | Move Zeroes | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0283.move_zeroes.md) | 数组、双指针 | Easy |
+|	0870 | Advantage Shuffle | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0870.advantage_shuffle.md) | 数组、双指针 | Medium |
+|	0977 | Squares of a Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0977.squares_of_a_sorted_array.md) | 数组、双指针 | Easy |
+
+#### 二维数组
+
+|	No. |	Title |	Solution | Tags | Difficulty |
+|	--- |	--- | --- | --- | --- |
+|	1260 | Shift 2D Grid | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1260.shift_2D_grid.md) | 二维数组、双指针 | Easy |
