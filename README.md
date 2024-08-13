@@ -8,8 +8,11 @@ Solutions to LeetCode by Java, JS, and Python
 - [算法的衡量](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/time_space_complexity.md)
 - [数组](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/array.md)
 - [栈和队列](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/stack_and_queue.md)
+- [链表](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/linked_list.md)
+- [字符串](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/string.md)
 - [哈希表](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/hash_table.md)
 - [双指针](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/two_pointer.md)
+- [二分查找](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/binary_search.md)
 
 ### LeetCode
 
@@ -33,3 +36,10 @@ Solutions to LeetCode by Java, JS, and Python
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	1260 | Shift 2D Grid | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1260.shift_2D_grid.md) | 二维数组、双指针 | Easy |
+
+#### 字符串
+
+|	No. |	Title |	Solution | Tags | Difficulty |
+|	--- |	--- | --- | --- | --- |
+|	/ | Replace Number | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/replace_number.md) | 字符串、双指针 | / |
+|	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
