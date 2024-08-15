@@ -11,8 +11,12 @@ Solutions to LeetCode by Java, JS, and Python
 - [链表](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/linked_list.md)
 - [字符串](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/string.md)
 - [哈希表](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/hash_table.md)
+- [单调栈](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/monotone_stack.md)
+- [单调队列](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/monotone_queue.md)
 - [双指针](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/two_pointer.md)
 - [二分查找](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/binary_search.md)
+- [滑动窗口](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/sliding_window.md)
+- [Brute Force 算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/brute_force.md)
 
 ### LeetCode
 
