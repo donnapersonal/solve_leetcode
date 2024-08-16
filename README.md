@@ -17,6 +17,7 @@ Solutions to LeetCode by Java, JS, and Python
 - [二分查找](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/binary_search.md)
 - [滑动窗口](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/sliding_window.md)
 - [Brute Force 算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/brute_force.md)
+- [KMP 算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/kmp.md)
 
 ### LeetCode
 
