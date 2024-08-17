@@ -13,11 +13,18 @@ Solutions to LeetCode by Java, JS, and Python
 - [哈希表](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/hash_table.md)
 - [单调栈](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/monotone_stack.md)
 - [单调队列](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/monotone_queue.md)
+- [树](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/tree_basics.md)
+- [图](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/graphic.md)
 - [双指针](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/two_pointer.md)
 - [二分查找](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/binary_search.md)
 - [滑动窗口](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/sliding_window.md)
 - [Brute Force 算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/brute_force.md)
 - [KMP 算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/kmp.md)
+- [Rabin Karp 算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/rabin_karp.md)
+
+### Templates
+
+- [一个方法解决 nSum 问题](https://github.com/donnapersonal/solve_leetcode/blob/main/template/n_sum.md)
 
 ### LeetCode
 
