@@ -134,3 +134,5 @@ var nSumTarget = function(nums, n, start, target) {
     return res;
 };
 ```
+
+注意：调用这个 `nSumTarget` 函数前一定要先给 `nums` 数组排序
