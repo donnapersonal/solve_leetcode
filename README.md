@@ -26,6 +26,7 @@ Solutions to LeetCode by Java, JS, and Python
 
 - [一个方法解决 nSum 问题](https://github.com/donnapersonal/solve_leetcode/blob/main/template/n_sum.md)
 - [滑动窗口](https://github.com/donnapersonal/solve_leetcode/blob/main/template/sliding_window.md)
+- [差分数组](https://github.com/donnapersonal/solve_leetcode/blob/main/template/difference.md)
 
 ### LeetCode
 
