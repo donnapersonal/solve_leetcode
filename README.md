@@ -34,26 +34,14 @@ Solutions to LeetCode by Java, JS, and Python
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
-|	/ | Merge Two Order Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/merge_two_order_array.md) | 数组、双指针 | / |
-|	0001 | Two Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0001.two_sum.md) | 数组、哈希表 | Easy |
-|	0015 | 3Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0015.3sum.md) | 数组、哈希表、双指针、排序 | Medium |
-|	0018 | 4Sum| [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0018.4sum.md) | 数组、双指针 | Medium |
-|	0026 | Remove Duplicates from Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0026.remove_duplicates_from_sorted_array.md) | 数组、双指针 | Easy |
-|	0027 | Remove Element | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0027.remove_element.md) | 数组、双指针 | Easy |
-|	0088 | Merge Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0088.merge_sorted_array.md) | 数组、双指针 | Easy |
-|	0283 | Move Zeroes | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0283.move_zeroes.md) | 数组、双指针 | Easy |
-|	0870 | Advantage Shuffle | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0870.advantage_shuffle.md) | 数组、双指针 | Medium |
-|	0977 | Squares of a Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0977.squares_of_a_sorted_array.md) | 数组、双指针 | Easy |
+|	0001 | Two Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0001.2sum.md) | 数组、哈希表 | Easy |
 
 #### 二维数组
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
-|	1260 | Shift 2D Grid | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/1260.shift_2D_grid.md) | 二维数组、双指针 | Easy |
 
 #### 字符串
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
-|	/ | Replace Number | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/replace_number.md) | 字符串、双指针 | / |
-|	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
