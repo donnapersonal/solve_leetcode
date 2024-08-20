@@ -35,6 +35,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0001 | Two Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0001.2sum.md) | 数组、哈希表 | Easy |
+|	0015 | 3Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0015.3sum.md) | 数组、哈希表、双指针、排序 | Medium |
 
 #### 二维数组
 
