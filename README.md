@@ -30,6 +30,12 @@ Solutions to LeetCode by Java, JS, and Python
 
 ### LeetCode
 
+#### 数学
+
+|	No. |	Title |	Solution | Tags | Difficulty |
+|	--- |	--- | --- | --- | --- |
+|	0069 | Sqrt(x) | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0069.sqrt(x).md) | 数学、Brute Force 算法、二分查找 | Easy |
+
 #### 数组
 
 |	No. |	Title |	Solution | Tags | Difficulty |
@@ -47,11 +53,15 @@ Solutions to LeetCode by Java, JS, and Python
 |	0162 | Find Peak Element | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0162.find_peak_element.md) | 数组、二分查找 | Medium |
 |	0704 | Binary Search | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0704.binary_search.md) | 数组、二分查找 | Easy |
 |	0852 | Peak Index in a Mountain Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0852.peak_index_in_a_mountain_array.md) | 数组、二分查找 | Medium |
+|	0875 | Koko Eating Bananas | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0875.koko_eating_bananas.md) | 数组、二分查找 | Medium |
+|	1011 | Capacity To Ship Packages Within D Days | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1011.capacity_to_ship_packages_within_d_days.md) | 数组、二分查找 | Medium |
 
 #### 二维数组
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0074 | Search a 2D Matrix | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0074.search_a_2D_matrix.md) | 数组、矩阵、二分查找 | Medium |
+|	0240 | Search a 2D Matrix II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0240.search_a_2D_matrix_II.md) | 数组、矩阵、二分查找、双指针 | Medium |
 
 #### 字符串
 
