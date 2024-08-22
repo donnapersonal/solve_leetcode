@@ -46,6 +46,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0081 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0081.search_in_rotated_sorted_array_II.md) | 数组、二分查找 | Medium |
 |	0162 | Find Peak Element | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0162.find_peak_element.md) | 数组、二分查找 | Medium |
 |	0704 | Binary Search | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0704.binary_search.md) | 数组、二分查找 | Easy |
+|	0852 | Peak Index in a Mountain Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0852.peak_index_in_a_mountain_array.md) | 数组、二分查找 | Medium |
 
 #### 二维数组
 
