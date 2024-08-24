@@ -36,6 +36,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	--- |	--- | --- | --- | --- |
 |	0069 | Sqrt(x) | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0069.sqrt(x).md) | 数学、Brute Force 算法、二分查找 | Easy |
 |	0202 | Happy Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0202.happy_number.md) | 数学、哈希表、双指针 | Easy |
+|	0367 | Valid Perfect Square | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0367.valid_perfect_square.md) | 数学、Brute Force 算法、二分查找 | Easy |
 
 #### 数组
 
@@ -52,6 +53,8 @@ Solutions to LeetCode by Java, JS, and Python
 |	0035 | Search Insert Position | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0035.search_insert_position.md) | 数组、二分查找 | Easy |
 |	0081 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0081.search_in_rotated_sorted_array_II.md) | 数组、二分查找 | Medium |
 |	0162 | Find Peak Element | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0162.find_peak_element.md) | 数组、二分查找 | Medium |
+|	0217 | Contains Duplicate | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0217.contains_duplicate.md) | 数组、哈希表、排序 | Easy |
+|	0442 | Find All Duplicates in an Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0442.find_all_duplicates_in_an_array.md) | 数组、哈希表 | Easy |
 |	0704 | Binary Search | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0704.binary_search.md) | 数组、二分查找 | Easy |
 |	0852 | Peak Index in a Mountain Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0852.peak_index_in_a_mountain_array.md) | 数组、二分查找 | Medium |
 |	0875 | Koko Eating Bananas | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0875.koko_eating_bananas.md) | 数组、二分查找 | Medium |
