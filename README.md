@@ -52,9 +52,12 @@ Solutions to LeetCode by Java, JS, and Python
 |	0034 | Find First and Last Position of Element in Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0034.find_first_and_last_position_of_element_in_sorted_array.md) | 数组、二分查找 | Medium |
 |	0035 | Search Insert Position | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0035.search_insert_position.md) | 数组、二分查找 | Easy |
 |	0081 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0081.search_in_rotated_sorted_array_II.md) | 数组、二分查找 | Medium |
+|	0088 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0088.merge_sorted_array.md) | 数组、双指针 | Medium |
 |	0162 | Find Peak Element | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0162.find_peak_element.md) | 数组、二分查找 | Medium |
 |	0217 | Contains Duplicate | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0217.contains_duplicate.md) | 数组、哈希表、排序 | Easy |
+|	0360 | Sort Transformed Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0360.sort_transformed_array.md) | 数组、数学、双指针 | Medium |
 |	0442 | Find All Duplicates in an Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0442.find_all_duplicates_in_an_array.md) | 数组、哈希表 | Easy |
+|	0448 | Find All Numbers Disappeared in an Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0448.find_all_numbers_disappeared_in_an_array.md) | 数组、哈希表 | Easy |
 |	0704 | Binary Search | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0704.binary_search.md) | 数组、二分查找 | Easy |
 |	0852 | Peak Index in a Mountain Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0852.peak_index_in_a_mountain_array.md) | 数组、二分查找 | Medium |
 |	0875 | Koko Eating Bananas | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0875.koko_eating_bananas.md) | 数组、二分查找 | Medium |
@@ -71,3 +74,4 @@ Solutions to LeetCode by Java, JS, and Python
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
