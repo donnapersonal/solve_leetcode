@@ -55,6 +55,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0088 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0088.merge_sorted_array.md) | 数组、双指针 | Medium |
 |	0162 | Find Peak Element | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0162.find_peak_element.md) | 数组、二分查找 | Medium |
 |	0217 | Contains Duplicate | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0217.contains_duplicate.md) | 数组、哈希表、排序 | Easy |
+|	0283 | Move Zeroes | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0283.move_zeroes.md) | 数组、双指针 | Easy |
 |	0360 | Sort Transformed Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0360.sort_transformed_array.md) | 数组、数学、双指针 | Medium |
 |	0442 | Find All Duplicates in an Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0442.find_all_duplicates_in_an_array.md) | 数组、哈希表 | Easy |
 |	0448 | Find All Numbers Disappeared in an Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0448.find_all_numbers_disappeared_in_an_array.md) | 数组、哈希表 | Easy |
