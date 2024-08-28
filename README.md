@@ -72,10 +72,14 @@ Solutions to LeetCode by Java, JS, and Python
 |	--- |	--- | --- | --- | --- |
 |	0074 | Search a 2D Matrix | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0074.search_a_2D_matrix.md) | 数组、矩阵、二分查找 | Medium |
 |	0240 | Search a 2D Matrix II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0240.search_a_2D_matrix_II.md) | 数组、矩阵、二分查找、双指针 | Medium |
+|	0519 | Random Flip Matrix | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0519.random_flip_matrix.md) | 数组、数学、哈希表 | Medium |
 |	1260 | Shift 2D Grid | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1260.shift_2D_grid.md) | 数组、矩阵、双指针 | Easy |
+
 
 #### 字符串
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	/ | Replace Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/replace_number.md) | 字符串、双指针 | / |
 |	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
+|	0383 | Ransom Note | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0383.ransom_note.md) | 字符串、哈希表 | Easy |
