@@ -83,3 +83,9 @@ Solutions to LeetCode by Java, JS, and Python
 |	/ | Replace Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/replace_number.md) | 字符串、双指针 | / |
 |	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
 |	0383 | Ransom Note | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0383.ransom_note.md) | 字符串、哈希表 | Easy |
+
+#### 链表
+
+|	No. |	Title |	Solution | Tags | Difficulty |
+|	--- |	--- | --- | --- | --- |
+|	0138 | Copy List with Random Pointer | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0138.copy_list_with_random_pointer.md) | 链表、哈希表、迭代、递归 | Medium |
