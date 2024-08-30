@@ -91,3 +91,5 @@ Solutions to LeetCode by Java, JS, and Python
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0138 | Copy List with Random Pointer | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0138.copy_list_with_random_pointer.md) | 链表、哈希表、迭代、递归 | Medium |
+|	0021 | Merge Two Sorted Lists | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0021.merge_two_sorted_lists.md) | 链表、双指针 | Easy |
+|	0083 | Remove Duplicates from Sorted List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0083.remove_duplicates_from_sorted_list.md) | 链表、双指针 | Easy |
