@@ -55,17 +55,21 @@ Solutions to LeetCode by Java, JS, and Python
 |	0088 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0088.merge_sorted_array.md) | 数组、双指针 | Medium |
 |	0162 | Find Peak Element | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0162.find_peak_element.md) | 数组、二分查找 | Medium |
 |	0217 | Contains Duplicate | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0217.contains_duplicate.md) | 数组、哈希表、排序 | Easy |
+|	0219 | Contains Duplicate II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0219.contains_duplicate_II.md) | 数组、哈希表、滑动窗口 | Easy |
 |	0283 | Move Zeroes | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0283.move_zeroes.md) | 数组、双指针 | Easy |
 |	0360 | Sort Transformed Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0360.sort_transformed_array.md) | 数组、数学、双指针 | Medium |
 |	0349 | Intersection of Two Arrays | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0349.intersection_of_two_arrays.md) | 数组、哈希表、双指针 | Easy |
+|	0380 | Insert Delete GetRandom O(1) | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0380.insert_delete_getRandom_O(1).md) | 数组、数学、设计、哈希表 | Medium |
 |	0442 | Find All Duplicates in an Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0442.find_all_duplicates_in_an_array.md) | 数组、哈希表 | Easy |
 |	0448 | Find All Numbers Disappeared in an Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0448.find_all_numbers_disappeared_in_an_array.md) | 数组、哈希表 | Easy |
 |	0658 | Find K Closest Elements | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0658.find_K_closest_elements.md) | 数组、双指针、二分查找 | Medium |
 |	0704 | Binary Search | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0704.binary_search.md) | 数组、二分查找 | Easy |
+|	0713 | Subarray Product Less Than K | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0713.subarray_product_less_than_K.md) | 数组、滑动窗口 | Medium |
 |	0852 | Peak Index in a Mountain Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0852.peak_index_in_a_mountain_array.md) | 数组、二分查找 | Medium |
 |	0870 | Advantage Shuffle | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0870.advantage_shuffle.md) | 数组、双指针 | Medium |
 |	0875 | Koko Eating Bananas | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0875.koko_eating_bananas.md) | 数组、二分查找 | Medium |
 |	0977 | Squares of a Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0977.squares_of_a_sorted_array.md) | 数组、双指针 | Easy |
+|	1004 | Max Consecutive Ones III | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1004.max_consecutive_ones_III.md) | 数组、滑动窗口 | Medium |
 |	1011 | Capacity To Ship Packages Within D Days | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1011.capacity_to_ship_packages_within_d_days.md) | 数组、二分查找 | Medium |
 
 #### 二维数组
@@ -83,8 +87,10 @@ Solutions to LeetCode by Java, JS, and Python
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	/ | Replace Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/replace_number.md) | 字符串、双指针 | / |
+|	0003 | Longest Substring Without Repeating Characters | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0003.longest_substring_without_repeating_characters.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
 |	0242 | Valid Anagram | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0242.valid_anagram.md) | 字符串、哈希表 | Easy |
+|	0340 | Longest Substring with At Most K Distinct Characters | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0340.longest_substring_with_at_most_K_distinct_characters.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0383 | Ransom Note | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0383.ransom_note.md) | 字符串、哈希表 | Easy |
 
 #### 链表
