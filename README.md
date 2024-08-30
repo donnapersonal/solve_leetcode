@@ -92,4 +92,9 @@ Solutions to LeetCode by Java, JS, and Python
 |	--- |	--- | --- | --- | --- |
 |	0138 | Copy List with Random Pointer | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0138.copy_list_with_random_pointer.md) | 链表、哈希表、迭代、递归 | Medium |
 |	0021 | Merge Two Sorted Lists | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0021.merge_two_sorted_lists.md) | 链表、双指针 | Easy |
+|	0061 | Rotate List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0061.rotate_list.md) | 链表、双指针 | Medium |
+|	0082 | Remove Duplicates from Sorted List II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0082.remove_duplicates_from_sorted_list_II.md) | 链表、双指针 | Medium |
 |	0083 | Remove Duplicates from Sorted List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0083.remove_duplicates_from_sorted_list.md) | 链表、双指针 | Easy |
+|	0086 | Partition List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0086.partition_list.md) | 链表、双指针 | Medium |
+|	0141 | Linked List Cycle | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0141.linked_list_cycle.md) | 链表、哈希表、双指针 | Easy |
+|	0142 | Linked List Cycle II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0142.linked_list_cycle_II.md) | 链表、双指针 | Medium |
