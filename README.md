@@ -84,6 +84,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	--- |	--- | --- | --- | --- |
 |	/ | Replace Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/replace_number.md) | 字符串、双指针 | / |
 |	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
+|	0242 | Valid Anagram | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0242.valid_anagram.md) | 字符串、哈希表 | Easy |
 |	0383 | Ransom Note | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0383.ransom_note.md) | 字符串、哈希表 | Easy |
 
 #### 链表
@@ -98,3 +99,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0086 | Partition List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0086.partition_list.md) | 链表、双指针 | Medium |
 |	0141 | Linked List Cycle | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0141.linked_list_cycle.md) | 链表、哈希表、双指针 | Easy |
 |	0142 | Linked List Cycle II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0142.linked_list_cycle_II.md) | 链表、双指针 | Medium |
+|	0160 | Intersection of Two Linked Lists | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0160.intersection_of_two_linked_lists.md) | 链表、双指针 | Easy |
+|	0234 | Palindrome Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0234.palindrome_linked_list.md) | 链表、双指针 | Easy |
+|	0876 | Middle of the Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0876.middle_of_the_linked_list.md) | 链表、双指针 | Medium |
+|	1836 | Remove Duplicates From an Unsorted Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1836.remove_duplicates_from_an_unsorted_linked_list.md) | 链表、链表双指针 | Medium |
