@@ -88,10 +88,14 @@ Solutions to LeetCode by Java, JS, and Python
 |	--- |	--- | --- | --- | --- |
 |	/ | Replace Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/replace_number.md) | 字符串、双指针 | / |
 |	0003 | Longest Substring Without Repeating Characters | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0003.longest_substring_without_repeating_characters.md) | 字符串、哈希表、滑动窗口 | Medium |
+|	0076 | Minimum Window Substring | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0076.minimum_window_substring.md) | 字符串、哈希表、滑动窗口 | Hard |
 |	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
 |	0242 | Valid Anagram | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0242.valid_anagram.md) | 字符串、哈希表 | Easy |
 |	0340 | Longest Substring with At Most K Distinct Characters | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0340.longest_substring_with_at_most_K_distinct_characters.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0383 | Ransom Note | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0383.ransom_note.md) | 字符串、哈希表 | Easy |
+|	0424 | Longest Repeating Character Replacement | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0424.longest_repeating_character_replacement.md) | 字符串、哈希表、滑动窗口 | Medium |
+|	0438 | Find All Anagrams in a String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0438.find_all_anagrams_in_a_string.md) | 字符串、哈希表、滑动窗口 | Medium |
+|	0567 | Permutation in String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0567.permutation_in_string.md) | 字符串、哈希表、滑动窗口 | Medium |
 
 #### 链表
 
