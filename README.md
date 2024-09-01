@@ -92,10 +92,13 @@ Solutions to LeetCode by Java, JS, and Python
 |	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
 |	0242 | Valid Anagram | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0242.valid_anagram.md) | 字符串、哈希表 | Easy |
 |	0340 | Longest Substring with At Most K Distinct Characters | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0340.longest_substring_with_at_most_K_distinct_characters.md) | 字符串、哈希表、滑动窗口 | Medium |
+|	0344 | Reverse String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0344.reverse_string.md) | 字符串、栈、递归、双指针 | Easy |
 |	0383 | Ransom Note | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0383.ransom_note.md) | 字符串、哈希表 | Easy |
 |	0424 | Longest Repeating Character Replacement | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0424.longest_repeating_character_replacement.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0438 | Find All Anagrams in a String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0438.find_all_anagrams_in_a_string.md) | 字符串、哈希表、滑动窗口 | Medium |
+|	0541 | Reverse String II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0541.reverse_string_II.md) | 字符串、双指针、递归 | Easy |
 |	0567 | Permutation in String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0567.permutation_in_string.md) | 字符串、哈希表、滑动窗口 | Medium |
+|	1047 | Remove All Adjacent Duplicates In String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1047.remove_all_adjacent_duplicates_in_string.md) | 字符串、栈、双指针 | Easy |
 
 #### 链表
 
@@ -107,6 +110,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0082 | Remove Duplicates from Sorted List II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0082.remove_duplicates_from_sorted_list_II.md) | 链表、双指针 | Medium |
 |	0083 | Remove Duplicates from Sorted List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0083.remove_duplicates_from_sorted_list.md) | 链表、双指针 | Easy |
 |	0086 | Partition List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0086.partition_list.md) | 链表、双指针 | Medium |
+|	0092 | Reverse Linked List II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0092.reverse_linked_list_II.md) | 链表、双指针、递归 | Medium |
 |	0141 | Linked List Cycle | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0141.linked_list_cycle.md) | 链表、哈希表、双指针 | Easy |
 |	0142 | Linked List Cycle II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0142.linked_list_cycle_II.md) | 链表、双指针 | Medium |
 |	0160 | Intersection of Two Linked Lists | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0160.intersection_of_two_linked_lists.md) | 链表、双指针 | Easy |
