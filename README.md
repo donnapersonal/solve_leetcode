@@ -67,7 +67,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0704 | Binary Search | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0704.binary_search.md) | 数组、二分查找 | Easy |
 |	0713 | Subarray Product Less Than K | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0713.subarray_product_less_than_K.md) | 数组、滑动窗口 | Medium |
 |	0852 | Peak Index in a Mountain Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0852.peak_index_in_a_mountain_array.md) | 数组、二分查找 | Medium |
-|	0870 | Advantage Shuffle | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0870.advantage_shuffle.md) | 数组、双指针 | Medium |
+|	0870 | Advantage Shuffle | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0870.advantage_shuffle.md) | 数组、双指针、排序 | Medium |
 |	0875 | Koko Eating Bananas | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0875.koko_eating_bananas.md) | 数组、二分查找 | Medium |
 |	0977 | Squares of a Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0977.squares_of_a_sorted_array.md) | 数组、双指针 | Easy |
 |	1004 | Max Consecutive Ones III | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1004.max_consecutive_ones_III.md) | 数组、滑动窗口 | Medium |
@@ -80,9 +80,9 @@ Solutions to LeetCode by Java, JS, and Python
 |	--- |	--- | --- | --- | --- |
 |	0074 | Search a 2D Matrix | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0074.search_a_2D_matrix.md) | 数组、矩阵、二分查找 | Medium |
 |	0240 | Search a 2D Matrix II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0240.search_a_2D_matrix_II.md) | 数组、矩阵、二分查找、双指针 | Medium |
+|	0378 | Kth Smallest Element in a Sorted Matrix | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0378.Kth_smallest_element_in_a_sorted_matrix.md) | 数组、矩阵、链表双指针、二分查找、堆（优先队列）| Medium |
 |	0519 | Random Flip Matrix | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0519.random_flip_matrix.md) | 数组、数学、哈希表 | Medium |
 |	1260 | Shift 2D Grid | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1260.shift_2D_grid.md) | 数组、矩阵、双指针 | Easy |
-
 
 #### 字符串
 
@@ -107,16 +107,18 @@ Solutions to LeetCode by Java, JS, and Python
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0019 | Remove Nth Node From End of List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0019.remove_Nth_node_from_end_of_list.md) | 链表、双指针、递归 | Medium |
-|	0138 | Copy List with Random Pointer | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0138.copy_list_with_random_pointer.md) | 链表、哈希表、迭代、递归 | Medium |
 |	0021 | Merge Two Sorted Lists | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0021.merge_two_sorted_lists.md) | 链表、双指针 | Easy |
 |	0024 | Swap Nodes in Pairs | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0024.swap_nodes_in_pairs.md) | 链表、双指针、递归、迭代 | Medium |
+|	0025 | Reverse Nodes in k-Group | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0025.reverse_nodes_in_k-Group.md) | 链表、递归、迭代 | Hard |
 |	0061 | Rotate List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0061.rotate_list.md) | 链表、双指针 | Medium |
 |	0082 | Remove Duplicates from Sorted List II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0082.remove_duplicates_from_sorted_list_II.md) | 链表、双指针 | Medium |
 |	0083 | Remove Duplicates from Sorted List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0083.remove_duplicates_from_sorted_list.md) | 链表、双指针 | Easy |
 |	0086 | Partition List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0086.partition_list.md) | 链表、双指针 | Medium |
 |	0092 | Reverse Linked List II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0092.reverse_linked_list_II.md) | 链表、双指针、递归 | Medium |
+|	0138 | Copy List with Random Pointer | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0138.copy_list_with_random_pointer.md) | 链表、哈希表、迭代、递归 | Medium |
 |	0141 | Linked List Cycle | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0141.linked_list_cycle.md) | 链表、哈希表、双指针 | Easy |
 |	0142 | Linked List Cycle II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0142.linked_list_cycle_II.md) | 链表、双指针 | Medium |
+|	0143 | Reorder List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0143.reorder_list.md) | 链表、栈、双指针 | Medium |
 |	0160 | Intersection of Two Linked Lists | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0160.intersection_of_two_linked_lists.md) | 链表、双指针 | Easy |
 |	0206 | Reverse Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0206.reverse_linked_list.md) | 链表、多指针、递归 | Easy |
 |	0234 | Palindrome Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0234.palindrome_linked_list.md) | 链表、双指针 | Easy |
