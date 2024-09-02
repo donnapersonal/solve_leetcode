@@ -59,6 +59,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0283 | Move Zeroes | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0283.move_zeroes.md) | 数组、双指针 | Easy |
 |	0360 | Sort Transformed Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0360.sort_transformed_array.md) | 数组、数学、双指针 | Medium |
 |	0349 | Intersection of Two Arrays | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0349.intersection_of_two_arrays.md) | 数组、哈希表、双指针 | Easy |
+|	0373 | Find K Pairs with Smallest Sums | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0373.find_K_pairs_with_smallest_sums.md) | 数组、链表双指针、堆（优先队列） | Medium |
 |	0380 | Insert Delete GetRandom O(1) | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0380.insert_delete_getRandom_O(1).md) | 数组、数学、设计、哈希表 | Medium |
 |	0442 | Find All Duplicates in an Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0442.find_all_duplicates_in_an_array.md) | 数组、哈希表 | Easy |
 |	0448 | Find All Numbers Disappeared in an Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0448.find_all_numbers_disappeared_in_an_array.md) | 数组、哈希表 | Easy |
@@ -71,6 +72,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0977 | Squares of a Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0977.squares_of_a_sorted_array.md) | 数组、双指针 | Easy |
 |	1004 | Max Consecutive Ones III | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1004.max_consecutive_ones_III.md) | 数组、滑动窗口 | Medium |
 |	1011 | Capacity To Ship Packages Within D Days | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1011.capacity_to_ship_packages_within_d_days.md) | 数组、二分查找 | Medium |
+|	1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1438.longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.md) | 数组、单调队列、双指针、滑动窗口 | Medium |
 
 #### 二维数组
 
@@ -104,8 +106,10 @@ Solutions to LeetCode by Java, JS, and Python
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0019 | Remove Nth Node From End of List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0019.remove_Nth_node_from_end_of_list.md) | 链表、双指针、递归 | Medium |
 |	0138 | Copy List with Random Pointer | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0138.copy_list_with_random_pointer.md) | 链表、哈希表、迭代、递归 | Medium |
 |	0021 | Merge Two Sorted Lists | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0021.merge_two_sorted_lists.md) | 链表、双指针 | Easy |
+|	0024 | Swap Nodes in Pairs | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0024.swap_nodes_in_pairs.md) | 链表、双指针、递归、迭代 | Medium |
 |	0061 | Rotate List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0061.rotate_list.md) | 链表、双指针 | Medium |
 |	0082 | Remove Duplicates from Sorted List II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0082.remove_duplicates_from_sorted_list_II.md) | 链表、双指针 | Medium |
 |	0083 | Remove Duplicates from Sorted List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0083.remove_duplicates_from_sorted_list.md) | 链表、双指针 | Easy |
@@ -114,6 +118,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0141 | Linked List Cycle | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0141.linked_list_cycle.md) | 链表、哈希表、双指针 | Easy |
 |	0142 | Linked List Cycle II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0142.linked_list_cycle_II.md) | 链表、双指针 | Medium |
 |	0160 | Intersection of Two Linked Lists | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0160.intersection_of_two_linked_lists.md) | 链表、双指针 | Easy |
+|	0206 | Reverse Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0206.reverse_linked_list.md) | 链表、多指针、递归 | Easy |
 |	0234 | Palindrome Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0234.palindrome_linked_list.md) | 链表、双指针 | Easy |
 |	0876 | Middle of the Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0876.middle_of_the_linked_list.md) | 链表、双指针 | Medium |
 |	1836 | Remove Duplicates From an Unsorted Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1836.remove_duplicates_from_an_unsorted_linked_list.md) | 链表、链表双指针 | Medium |
