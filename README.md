@@ -55,7 +55,9 @@ Solutions to LeetCode by Java, JS, and Python
 |	0088 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0088.merge_sorted_array.md) | 数组、双指针 | Medium |
 |	0162 | Find Peak Element | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0162.find_peak_element.md) | 数组、二分查找 | Medium |
 |	0217 | Contains Duplicate | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0217.contains_duplicate.md) | 数组、哈希表、排序 | Easy |
+|	0209 | Minimum Size Subarray Sum| [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0209.minimum_size_subarray_sum.md) | 数组、滑动窗口 | Medium |
 |	0219 | Contains Duplicate II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0219.contains_duplicate_II.md) | 数组、哈希表、滑动窗口 | Easy |
+	0252 | Meeting Rooms | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0252.meeting_rooms.md) | 数组、排序 | Easy |
 |	0283 | Move Zeroes | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0283.move_zeroes.md) | 数组、双指针 | Easy |
 |	0360 | Sort Transformed Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0360.sort_transformed_array.md) | 数组、数学、双指针 | Medium |
 |	0349 | Intersection of Two Arrays | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0349.intersection_of_two_arrays.md) | 数组、哈希表、双指针 | Easy |
@@ -90,6 +92,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	--- |	--- | --- | --- | --- |
 |	/ | Replace Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/replace_number.md) | 字符串、双指针 | / |
 |	0003 | Longest Substring Without Repeating Characters | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0003.longest_substring_without_repeating_characters.md) | 字符串、哈希表、滑动窗口 | Medium |
+|	0028 | Find the Index of the First Occurrence in a String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0028.find_the_index_of_the_first_occurrence_in_a_string.md) | 字符串、滑动窗口、双指针、字符串匹配算法（BF/BM/KMP/RK/Horspool/Sunday） | Easy |
 |	0076 | Minimum Window Substring | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0076.minimum_window_substring.md) | 字符串、哈希表、滑动窗口 | Hard |
 |	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
 |	0242 | Valid Anagram | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0242.valid_anagram.md) | 字符串、哈希表 | Easy |
