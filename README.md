@@ -83,6 +83,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	1011 | Capacity To Ship Packages Within D Days | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1011.capacity_to_ship_packages_within_d_days.md) | 数组、二分查找 | Medium |
 |	1124 | 1124.Longest Well-Performing Interval | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1124.longest_well-performing_interval.md) | 数组、哈希表、前缀和 | Medium |
 |	1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1438.longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.md) | 数组、单调队列、双指针、滑动窗口 | Medium |
+|	1658 | Minimum Operations to Reduce X to Zero | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1658.minimum_operations_to_reduce_X_to_zero.md) | 数组、滑动窗口 | Medium |
 
 #### 二维数组
 
@@ -90,9 +91,11 @@ Solutions to LeetCode by Java, JS, and Python
 |	--- |	--- | --- | --- | --- |
 |	0074 | Search a 2D Matrix | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0074.search_a_2D_matrix.md) | 数组、矩阵、二分查找 | Medium |
 |	0240 | Search a 2D Matrix II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0240.search_a_2D_matrix_II.md) | 数组、矩阵、二分查找、双指针 | Medium |
+|	0304 | Range Sum Query 2D - Immutable | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0304.range_sum_query_2D-Immutable.md) | 数组、数学、矩阵、前缀和 | Medium |
 |	0378 | Kth Smallest Element in a Sorted Matrix | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0378.Kth_smallest_element_in_a_sorted_matrix.md) | 数组、矩阵、链表双指针、二分查找、堆（优先队列）| Medium |
 |	0519 | Random Flip Matrix | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0519.random_flip_matrix.md) | 数组、数学、哈希表 | Medium |
 |	1260 | Shift 2D Grid | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1260.shift_2D_grid.md) | 数组、矩阵、双指针 | Easy |
+|	1314 | Matrix Block Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1314.matrix_block_sum.md) | 数组、数学、矩阵、前缀和 | Medium |
 
 #### 字符串
 
