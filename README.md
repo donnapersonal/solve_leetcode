@@ -73,12 +73,15 @@ Solutions to LeetCode by Java, JS, and Python
 |	0658 | Find K Closest Elements | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0658.find_K_closest_elements.md) | 数组、双指针、二分查找 | Medium |
 |	0704 | Binary Search | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0704.binary_search.md) | 数组、二分查找 | Easy |
 |	0713 | Subarray Product Less Than K | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0713.subarray_product_less_than_K.md) | 数组、滑动窗口 | Medium |
+|	0724 | Find Pivot Index | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0724.find_pivot_index.md) | 数组、两次遍历、前缀和 | Easy |
 |	0852 | Peak Index in a Mountain Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0852.peak_index_in_a_mountain_array.md) | 数组、二分查找 | Medium |
 |	0870 | Advantage Shuffle | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0870.advantage_shuffle.md) | 数组、双指针、排序 | Medium |
 |	0875 | Koko Eating Bananas | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0875.koko_eating_bananas.md) | 数组、二分查找 | Medium |
+|	0974 | Subarray Sums Divisible by K | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0974.subarray_sums_divisible_by_K.md) | 数组、哈希表、前缀和 | Medium |
 |	0977 | Squares of a Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0977.squares_of_a_sorted_array.md) | 数组、双指针 | Easy |
 |	1004 | Max Consecutive Ones III | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1004.max_consecutive_ones_III.md) | 数组、滑动窗口 | Medium |
 |	1011 | Capacity To Ship Packages Within D Days | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1011.capacity_to_ship_packages_within_d_days.md) | 数组、二分查找 | Medium |
+|	1124 | 1124.Longest Well-Performing Interval | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1124.longest_well-performing_interval.md) | 数组、哈希表、前缀和 | Medium |
 |	1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1438.longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.md) | 数组、单调队列、双指针、滑动窗口 | Medium |
 
 #### 二维数组
