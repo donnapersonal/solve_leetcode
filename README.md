@@ -63,12 +63,14 @@ Solutions to LeetCode by Java, JS, and Python
 |	0325 | Maximum Size Subarray Sum Equals k | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0325.maximum_size_subarray_sum_equals_k.md) | 数组、前缀和、哈希表 | Medium |
 |	0360 | Sort Transformed Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0360.sort_transformed_array.md) | 数组、数学、双指针 | Medium |
 |	0349 | Intersection of Two Arrays | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0349.intersection_of_two_arrays.md) | 数组、哈希表、双指针 | Easy |
+|	0370 | Range Addition | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0370.range_addition.md) | 数组、差分数组 | Medium |
 |	0373 | Find K Pairs with Smallest Sums | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0373.find_K_pairs_with_smallest_sums.md) | 数组、链表双指针、堆（优先队列） | Medium |
 |	0380 | Insert Delete GetRandom O(1) | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0380.insert_delete_getRandom_O(1).md) | 数组、数学、设计、哈希表 | Medium |
 |	0442 | Find All Duplicates in an Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0442.find_all_duplicates_in_an_array.md) | 数组、哈希表 | Easy |
 |	0448 | Find All Numbers Disappeared in an Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0448.find_all_numbers_disappeared_in_an_array.md) | 数组、哈希表 | Easy |
 |	0523 | Continuous Subarray Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0523.continuous_subarray_sum.md) | 数组、哈希表、前缀和 | Medium |
 |	0525 | Contiguous Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0525.contiguous_array.md) | 数组、哈希表、前缀和 | Medium |
+|	0528 | Random Pick with Weight | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0528.random_pick_with_weight.md) | 数组、前缀和、二分查找 | Medium |
 |	0560 | Subarray Sum Equals K | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0560.subarray_sum_equals_K.md) | 数组、哈希表、前缀和 | Medium |
 |	0658 | Find K Closest Elements | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0658.find_K_closest_elements.md) | 数组、双指针、二分查找 | Medium |
 |	0704 | Binary Search | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0704.binary_search.md) | 数组、二分查找 | Easy |
@@ -81,6 +83,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0977 | Squares of a Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0977.squares_of_a_sorted_array.md) | 数组、双指针 | Easy |
 |	1004 | Max Consecutive Ones III | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1004.max_consecutive_ones_III.md) | 数组、滑动窗口 | Medium |
 |	1011 | Capacity To Ship Packages Within D Days | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1011.capacity_to_ship_packages_within_d_days.md) | 数组、二分查找 | Medium |
+|	1094 | Car Pooling | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1094.car_pooling.md) | 数组、差分数组 | Medium |
 |	1124 | 1124.Longest Well-Performing Interval | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1124.longest_well-performing_interval.md) | 数组、哈希表、前缀和 | Medium |
 |	1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1438.longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.md) | 数组、单调队列、双指针、滑动窗口 | Medium |
 |	1658 | Minimum Operations to Reduce X to Zero | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1658.minimum_operations_to_reduce_X_to_zero.md) | 数组、滑动窗口 | Medium |
