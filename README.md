@@ -84,6 +84,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	1004 | Max Consecutive Ones III | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1004.max_consecutive_ones_III.md) | 数组、滑动窗口 | Medium |
 |	1011 | Capacity To Ship Packages Within D Days | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1011.capacity_to_ship_packages_within_d_days.md) | 数组、二分查找 | Medium |
 |	1094 | Car Pooling | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1094.car_pooling.md) | 数组、差分数组 | Medium |
+|	1109 | Corporate Flight Bookings | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1109.corporate_flight_bookings.md) | 数组、差分数组 | Medium |
 |	1124 | 1124.Longest Well-Performing Interval | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1124.longest_well-performing_interval.md) | 数组、哈希表、前缀和 | Medium |
 |	1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1438.longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.md) | 数组、单调队列、双指针、滑动窗口 | Medium |
 |	1658 | Minimum Operations to Reduce X to Zero | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1658.minimum_operations_to_reduce_X_to_zero.md) | 数组、滑动窗口 | Medium |
