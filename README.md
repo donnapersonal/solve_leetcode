@@ -52,6 +52,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0034 | Find First and Last Position of Element in Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0034.find_first_and_last_position_of_element_in_sorted_array.md) | 数组、二分查找 | Medium |
 |	0035 | Search Insert Position | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0035.search_insert_position.md) | 数组、二分查找 | Easy |
 |	0081 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0081.search_in_rotated_sorted_array_II.md) | 数组、二分查找 | Medium |
+|	0084 | Largest Rectangle in Histogram | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0084.largest_rectangle_in_histogram.md) | 数组、双指针、栈、单调栈 | Hard |
 |	0088 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0088.merge_sorted_array.md) | 数组、双指针 | Medium |
 |	0162 | Find Peak Element | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0162.find_peak_element.md) | 数组、二分查找 | Medium |
 |	0217 | Contains Duplicate | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0217.contains_duplicate.md) | 数组、哈希表、排序 | Easy |
@@ -69,6 +70,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0380 | Insert Delete GetRandom O(1) | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0380.insert_delete_getRandom_O(1).md) | 数组、数学、设计、哈希表 | Medium |
 |	0442 | Find All Duplicates in an Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0442.find_all_duplicates_in_an_array.md) | 数组、哈希表 | Easy |
 |	0448 | Find All Numbers Disappeared in an Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0448.find_all_numbers_disappeared_in_an_array.md) | 数组、哈希表 | Easy |
+|	0496 | Next Greater Element I | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0496.next_greater_element_I.md) | 数组、栈、单调栈 | Easy |
 |	0503 | Next Greater Element II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0503.next_greater_element_II.md) | 数组、栈、单调栈 | Medium |
 |	0523 | Continuous Subarray Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0523.continuous_subarray_sum.md) | 数组、哈希表、前缀和 | Medium |
 |	0525 | Contiguous Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0525.contiguous_array.md) | 数组、哈希表、前缀和 | Medium |
@@ -146,4 +148,5 @@ Solutions to LeetCode by Java, JS, and Python
 |	0206 | Reverse Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0206.reverse_linked_list.md) | 链表、多指针、递归 | Easy |
 |	0234 | Palindrome Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0234.palindrome_linked_list.md) | 链表、双指针 | Easy |
 |	0876 | Middle of the Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0876.middle_of_the_linked_list.md) | 链表、双指针 | Medium |
+|	1019 | Next Greater Node In Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1019.next_greater_node_in_linked_list.md) | 链表、单调栈 | Easy |
 |	1836 | Remove Duplicates From an Unsorted Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1836.remove_duplicates_from_an_unsorted_linked_list.md) | 链表、链表双指针 | Medium |
