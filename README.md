@@ -94,6 +94,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1438.longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.md) | 数组、单调队列、双指针、滑动窗口 | Medium |
 |	1475 | Final Prices With a Special Discount in a Shop | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1475.final_prices_with_a_special_discount_in_a_shop.md) | 数组、单调栈 | Easy |
 |	1658 | Minimum Operations to Reduce X to Zero | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1658.minimum_operations_to_reduce_X_to_zero.md) | 数组、滑动窗口 | Medium |
+|	1944 | Number of Visible People in a Queue | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1944.number_of_visible_people_in_a_queue.md) | 数组、单调栈 | Hard |
 
 #### 二维数组
 
@@ -150,3 +151,9 @@ Solutions to LeetCode by Java, JS, and Python
 |	0876 | Middle of the Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0876.middle_of_the_linked_list.md) | 链表、双指针 | Medium |
 |	1019 | Next Greater Node In Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1019.next_greater_node_in_linked_list.md) | 链表、单调栈 | Easy |
 |	1836 | Remove Duplicates From an Unsorted Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1836.remove_duplicates_from_an_unsorted_linked_list.md) | 链表、链表双指针 | Medium |
+
+#### 栈/队列
+
+|	No. |	Title |	Solution | Tags | Difficulty |
+|	--- |	--- | --- | --- | --- |
+|	0901 | Online Stock Span | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0901.online_stock_span.md) | 设计、栈、单调栈 | Medium |
