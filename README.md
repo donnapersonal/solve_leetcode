@@ -14,7 +14,7 @@ Solutions to LeetCode by Java, JS, and Python
 - [单调栈](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/monotone_stack.md)
 - [单调队列](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/monotone_queue.md)
 - [二叉树](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/binary_tree.md)
-  - [BFS/DFS](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/bfs_dfs_md)
+  - [BFS/DFS](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/bfs_dfs.md)
   - [AVL 树](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/AVL_tree.md)
   - [红黑树](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/red_black_tree.md)
   - [B树/B+树](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/b_b+_tree.md)
