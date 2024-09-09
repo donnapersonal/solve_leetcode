@@ -122,6 +122,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0028 | Find the Index of the First Occurrence in a String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0028.find_the_index_of_the_first_occurrence_in_a_string.md) | 字符串、滑动窗口、双指针、字符串匹配算法（BF/BM/KMP/RK/Horspool/Sunday） | Easy |
 |	0076 | Minimum Window Substring | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0076.minimum_window_substring.md) | 字符串、哈希表、滑动窗口 | Hard |
 |	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
+|	0187 | Repeated DNA Sequences | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0187.repeated_DNA_sequences.md) | 字符串、RK 算法 | Medium |
 |	0242 | Valid Anagram | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0242.valid_anagram.md) | 字符串、哈希表 | Easy |
 |	0340 | Longest Substring with At Most K Distinct Characters | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0340.longest_substring_with_at_most_K_distinct_characters.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0344 | Reverse String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0344.reverse_string.md) | 字符串、栈、递归、双指针 | Easy |
@@ -157,6 +158,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0160 | Intersection of Two Linked Lists | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0160.intersection_of_two_linked_lists.md) | 链表、双指针 | Easy |
 |	0206 | Reverse Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0206.reverse_linked_list.md) | 链表、多指针、递归 | Easy |
 |	0234 | Palindrome Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0234.palindrome_linked_list.md) | 链表、双指针 | Easy |
+|	0707 | Design Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0707.design_linked_list.md) | 链表、设计 | Medium |
 |	0876 | Middle of the Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0876.middle_of_the_linked_list.md) | 链表、双指针 | Medium |
 |	1019 | Next Greater Node In Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1019.next_greater_node_in_linked_list.md) | 链表、单调栈 | Easy |
 |	1836 | Remove Duplicates From an Unsorted Linked List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1836.remove_duplicates_from_an_unsorted_linked_list.md) | 链表、链表双指针 | Medium |
