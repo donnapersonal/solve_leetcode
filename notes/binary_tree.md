@@ -219,3 +219,202 @@ function TreeNode(val, left, right) {
 `BFS` 一般使用`队列`来实现，即`队列先进先出`的特点所决定，因为需要先进先出的结构才能一层一层的来遍历二叉树
 - `BFS` 相对 `DFS` 的最主要的区别是：`BFS` 找到的路径`一定是最短的`，但代价就是空间复杂度可能比 `DFS` 大很多
 
+### 二叉树的重要性
+
+比如：`快速排序`就是个二叉树的`前序遍历`，`归并排序`就是个二叉树的`后序遍历`
+
+快速排序的逻辑：若要对 `nums[l..h]` 进行排序，先找一个分界点 `p`，通过交换元素使得 `nums[l..p-1]` 都小于等于 `nums[p]`，且 `nums[p+1..h]` 都大于 `nums[p]`，然后`递归`地去 `nums[l..p-1]` 和 `nums[p+1..h]` 中寻找新的分界点，最后整个数组就排序好了
+
+快速排序的代码框架如下：
+
+```python
+def quick_sort(nums: list, l: int, h: int):
+    if l >= h:
+        return
+    # ****** 前序遍历位置 ******
+    # 通过交换元素构建分界点 p
+    p = partition(nums, l, h)
+    # ************************
+    
+    sort(nums, l, p - 1)
+    sort(nums, p + 1, h)
+```
+
+归并排序的逻辑：若要对 `nums[l..h]` 进行排序，先对 `nums[l..mid]` 排序，再对 `nums[mid+1..h]` 排序，最后把这两个有序的子数组合并，整个数组就排序好了
+
+归并排序的代码框架如下：
+
+```python
+def merge_sort(nums: List[int], l: int, h: int) -> None:
+    mid = (l + h) // 2
+    # 排序 nums[lo..mid]
+    sort(nums, l, mid)
+    # 排序 nums[mid+1..h]
+    sort(nums, mid + 1, h)
+
+    # ****** 后序位置 ******
+    # 合并 nums[l..mid] 和 nums[mid+1..h]
+    merge(nums, l, mid, h)
+    # *********************
+```
+
+从二叉树遍历框架就能扩展出其他算法，由此可见，二叉树的算法思想的运用广泛，甚至可以说只要涉及递归，都可以抽象成二叉树的问题
+
+### 深入理解前中后序
+
+**前中后序是遍历二叉树过程中处理每个节点的三个特殊时间点，绝不仅仅是三个顺序不同的 `List`**
+- 前序位置的代码在刚刚进入一个二叉树节点时执行
+- 后序位置的代码在将要离开一个二叉树节点时执行
+- 中序位置的代码在一个二叉树节点左子树都遍历完，即将开始遍历右子树时执行
+
+![tree12]([tree12.png](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/images/tree12.png))
+
+> 为什么多叉树没有中序位置？因为二叉树的每个节点只会进行唯一一次左子树切换右子树，而多叉树节点可能有很多子节点，会多次切换子树去遍历，所以多叉树节点没有`「唯一」`的中序遍历位置
+
+因此，二叉树的所有问题都可以归结为：在`前中后序位置`使用巧妙的代码逻辑去达到自己的目的，只需单独思考每个节点应做什么，其他的不用管，抛给二叉树遍历框架，`递归`会在所有节点上做相同的操作
+
+![tree13]([image.png](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/images/tree13.png))
+
+**后序位置的特殊之处**
+
+有两个问题：
+- 若把根节点看做第 1 层，如何打印出每一个节点所在的层数？
+  ```python
+  def traverse(root, level):
+      if root is None:
+          return
+      # 前序位置
+      print(f"Node {root.val} at level {level}")
+      traverse(root.left, level + 1)
+      traverse(root.right, level + 1)
+
+  traverse(root, 1)
+  ```
+- 如何打印出每个节点的左右子树各有多少节点？
+  ```python
+  def count(root):
+      if root is None:
+          return 0
+      leftCount = count(root.left)
+      rightCount = count(root.right)
+      # 后序位置
+      print(f"节点 {root} 的左子树有 {leftCount} 个节点，右子树有 {rightCount} 个节点")
+      
+      return leftCount + rightCount + 1
+  ```
+
+这两个问题的根本区别在于：
+- 一个节点在第几层，从根节点遍历过来的过程就能顺带记录，用递归函数的参数就能传递下去；而以一个节点为根的整棵子树有多少个节点，必须遍历完子树后才能数清楚，然后通过递归函数的返回值拿到答案
+
+因此我们可知只有后序位置才能通过返回值获取子树的信息
+> 一旦发现题目和子树有关，那大概率要给函数设置合理的定义和返回值，就可以考虑在后序位置处理
+
+注意：利用`后序位置`的题目，一般都使用`「分解问题」`的思路 -- 因为当前节点接收并利用了子树返回的信息，这就意味着把原问题分解成了`当前节点 + 左右子树的子问题`
+
+
+### 两种解题思路
+
+二叉树题目的递归解法可以分成两类思路：
+- 第一类：遍历一遍二叉树得出答案，这类思路对应`回溯算法`
+- 第二类：通过分解问题计算出答案，这类思路对应`动态规划`
+
+**以树的视角看动归/回溯/DFS算法的区别和联系**
+
+`DFS` 算法和回溯算法非常类似，只是在细节上有所区别 --> `「做选择」`和`「撤销选择」`到底在 `for` 循环外面还是里面的区别，`DFS` 算法在外面，`回溯`算法在里面
+
+```python
+# DFS 算法把「做选择」「撤销选择」的逻辑放在 for 循环外面
+def dfs(root):
+    if root is None:
+        return
+    # 做选择
+    print("我已经进入节点 %s 啦" % root)
+    for child in root.children:
+        dfs(child)
+    # 撤销选择
+    print("我将要离开节点 %s 啦" % root)
+
+# 回溯算法把「做选择」「撤销选择」的逻辑放在 for 循环里面
+def backtrack(root):
+    if root is None:
+        return
+    for child in root.children:
+        # 做选择
+        print("我站在节点 %s 到节点 %s 的树枝上" % (root, child))
+        backtrack(child)
+        # 撤销选择
+        print("我将要离开节点 %s 到节点 %s 的树枝上" % (child, root))
+```
+
+动归/DFS/回溯算法都可看做二叉树问题的扩展，只是它们的关注点不同：
+- `DFS` 算法属于`遍历`的思路，它的关注点在`单个「节点」`
+  
+  有一棵二叉树，请写一个 `traverse` 函数，把这棵二叉树上的每个节点的值都加一
+
+  ```python
+  def traverse(root):
+    if root is None:
+        return
+    # 遍历过的每个节点的值加一
+    root.val += 1
+    traverse(root.left)
+    traverse(root.right)
+  ```
+
+  这就是 `DFS` 算法遍历的思路，它的着眼点永远是在`单一的节点`上，类比到二叉树上就是处理每个`「节点」`
+
+- `回溯`算法属于`遍历`的思路，它的关注点在`节点间的「树枝」`
+  
+  有一棵二叉树，请用遍历的思路写一个 `traverse` 函数，打印出遍历这棵二叉树的过程
+  ```python
+  def traverse(root):
+      if root is None:
+          return
+      print("从节点 %s 进入节点 %s" %(root, root.left))
+      traverse(root.left)
+      print("从节点 %s 回到节点 %s" %(root.left, root))
+
+      print("从节点 %s 进入节点 %s" %(root, root.right))
+      traverse(root.right)
+      print("从节点 %s 回到节点 %s" %(root.right, root))
+  ```
+
+  回溯算法框架：
+
+  ```python
+  # 回溯算法框架
+  def backtrack(...):
+      // base case
+      if(...): 
+          return
+      
+      for i in range(...):
+          # 做选择
+          ...
+
+          # 进入下一层决策树
+          backtrack(...)
+
+          # 撤销刚才做的选择
+          ...
+  ```
+
+  这就是`回溯算法`遍历的思路，它的着眼点永远是在`节点之间移动的过程`，类比到二叉树上就是`「树枝」`
+
+- `动态规划`算法属于`分解`问题`（分治）`的思路，它的关注点在`整棵「子树」`
+  
+  有一棵二叉树，请用分解问题的思路写一个 `count` 函数，计算这棵二叉树共有多少个节点
+  ```python
+  def count(root):
+      if root is None:
+          return 0
+      # 当前节点关心的是两个子树的节点总数分别是多少
+      # 因为用子问题的结果可以推导出原问题的结果
+      leftCount = count(root.left)
+      rightCount = count(root.right)
+      # 后序位置，左右子树节点数加上自己就是整棵树的节点数
+      return leftCount + rightCount + 1
+  ```
+  这就是`动态规划分解问题`的思路，它的着眼点永远是`结构相同的整个子问题`，类比到二叉树上就是`「子树」`
+
+
