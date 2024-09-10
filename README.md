@@ -167,4 +167,13 @@ Solutions to LeetCode by Java, JS, and Python
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0155 | Min Stack | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0155.min_stack.md) | 设计、栈 | Medium |
+|	0225 | Implement Stack using Queues | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0225.implement_stack_using_queues.md) | 设计、栈、队列 | Easy |
+|	0232 | Implement Queue using Stacks | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0232.implement_queue_using_stacks.md) | 设计、栈、队列 | Easy |
+|	0346 | Moving Average from Data Stream | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0346.moving_average_from_data_stream.md) | 设计、队列 | Easy |
+|	0362 | Design Hit Counter | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0362.design_hit_counter.md) | 设计、队列 | Medium |
+|	0622 | Design Circular Queue | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0622.design_circular_queue.md) | 设计、队列、数组、链表 | Medium |
+|	0641 | Design Circular Deque | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0641.design_circular_deque.md) | 设计、队列、数组、链表 | Medium |
 |	0901 | Online Stock Span | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0901.online_stock_span.md) | 设计、栈、单调栈 | Medium |
+|	0933 | Number of Recent Calls | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0933.number_of_recent_calls.md) | 设计、队列 | Easy |
+| 1670 | Design Front Middle Back Queue | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1670.design_front_middle_back_queue.md) | 设计、队列 | Medium |
