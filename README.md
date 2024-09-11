@@ -187,4 +187,6 @@ Solutions to LeetCode by Java, JS, and Python
 |	0199 | Binary Tree Right Side View | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0199.binary_tree_right_side_view.md) | 二叉树、BFS、DFS | Medium |
 |	0637 | Average of Levels in Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0637.average_of_levels_in_binary_tree.md) | 二叉树、BFS | Easy |
 |	0429 | N-ary Tree Level Order Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0429.n-ary_tree_level_order_traversal.md) | 二叉树、BFS | Medium |
+|	0505 | Find Largest Value in Each Tree Row | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0515.find_largest_value_in_each_tree_row.md) | 二叉树、BFS、DFS | Medium |
+
 
