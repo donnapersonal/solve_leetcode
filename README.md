@@ -185,3 +185,6 @@ Solutions to LeetCode by Java, JS, and Python
 |	0102 | Binary Tree Level Order Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0102.binary_tree_level_order_traversal.md) | 二叉树、BFS | Medium |
 |	0107 | Binary Tree Level Order Traversal II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0107.binary_tree_level_order_traversal_II.md) | 二叉树、BFS | Medium |
 |	0199 | Binary Tree Right Side View | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0199.binary_tree_right_side_view.md) | 二叉树、BFS、DFS | Medium |
+|	0637 | Average of Levels in Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0637.average_of_levels_in_binary_tree.md) | 二叉树、BFS | Easy |
+|	0429 | N-ary Tree Level Order Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0429.n-ary_tree_level_order_traversal.md) | 二叉树、BFS | Medium |
+
