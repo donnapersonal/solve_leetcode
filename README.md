@@ -63,7 +63,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0217 | Contains Duplicate | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0217.contains_duplicate.md) | 数组、哈希表、排序 | Easy |
 |	0209 | Minimum Size Subarray Sum| [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0209.minimum_size_subarray_sum.md) | 数组、滑动窗口 | Medium |
 |	0219 | Contains Duplicate II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0219.contains_duplicate_II.md) | 数组、哈希表、滑动窗口 | Easy |
-	0252 | Meeting Rooms | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0252.meeting_rooms.md) | 数组、排序 | Easy |
+| 0252 | Meeting Rooms | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0252.meeting_rooms.md) | 数组、排序 | Easy |
 |	0283 | Move Zeroes | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0283.move_zeroes.md) | 数组、双指针 | Easy |
 |	0238 | Product of Array Except Self | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0238.product_of_array_except_self.md) | 数组、前缀积 | Medium |
 |	0303 | Range Sum Query - Immutable | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0303.range_sum_query-immutable.md) | 数组、前缀和 | Easy |
@@ -189,7 +189,8 @@ Solutions to LeetCode by Java, JS, and Python
 |	0111 | Minimum Depth of Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0111.minimum_depth_of_binary_tree.md) | 二叉树、BFS、DFS | Easy |
 |	0116 | Populating Next Right Pointers in Each Node | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0116.populating_next_right_pointers_in_each_node.md) | 二叉树、BFS、DFS | Medium |
 |	0117 | Populating Next Right Pointers in Each Node II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0117.populating_next_right_pointers_in_each_node_II.md) | 二叉树、BFS | Medium |
-|	0144 | Binary Tree Preorder Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0144.binary_tree_preorder_traversal.md) | 二叉树、DFS、迭代 | Medium |
+|	0144 | Binary Tree Preorder Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0144.binary_tree_preorder_traversal.md) | 二叉树、DFS、迭代 | Easy |
+|	0145 | Binary Tree Postorder Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0145.binary_tree_postorder_traversal.md) | 二叉树、DFS、迭代 | Easy |
 |	0199 | Binary Tree Right Side View | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0199.binary_tree_right_side_view.md) | 二叉树、BFS、DFS | Medium |
 |	0637 | Average of Levels in Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0637.average_of_levels_in_binary_tree.md) | 二叉树、BFS | Easy |
 |	0429 | N-ary Tree Level Order Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0429.n-ary_tree_level_order_traversal.md) | 二叉树、BFS | Medium |
