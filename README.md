@@ -202,5 +202,10 @@ Solutions to LeetCode by Java, JS, and Python
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0017 | Letter Combinations of a Phone Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0017.letter_combinations_of_a_phone_number.md) | 组合、回溯、哈希 | Medium |
 |	0039 | Combination Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0039.combination_sum.md) | 组合、回溯 | Medium |
+|	0040 | Combination Sum II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0040.combination_sum_II.md) | 组合、回溯 | Medium |
 |	0077 | Combinations | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0077.combinations.md) | 组合、回溯 | Medium |
+|	0216 | Combination Sum III | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0216.ombination_sum_III.md) | 组合、回溯 | Medium |
+
+
