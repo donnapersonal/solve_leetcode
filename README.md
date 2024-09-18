@@ -202,6 +202,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0543 | Diameter of Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0543.diameter_of_binary_tree.md) | 二叉树、DFS | Easy |
 |	0637 | Average of Levels in Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0637.average_of_levels_in_binary_tree.md) | 二叉树、BFS | Easy |
 |	0429 | N-ary Tree Level Order Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0429.n-ary_tree_level_order_traversal.md) | 二叉树、BFS | Medium |
+|	0513 | Find Bottom Left Tree Value | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0513.find_bottom_left_tree_value.md) | 二叉树、DFS、BFS | Medium |
 |	0515 | Find Largest Value in Each Tree Row | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0515.find_largest_value_in_each_tree_row.md) | 二叉树、BFS、DFS | Medium |
 
 #### 回溯
@@ -212,6 +213,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0039 | Combination Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0039.combination_sum.md) | 组合、回溯 | Medium |
 |	0040 | Combination Sum II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0040.combination_sum_II.md) | 组合、回溯 | Medium |
 |	0077 | Combinations | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0077.combinations.md) | 组合、回溯 | Medium |
+|	0131 | Palindrome Partitioning | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0131.palindrome_partitioning.md) | 分割、回溯 | Medium |
 |	0216 | Combination Sum III | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0216.ombination_sum_III.md) | 组合、回溯 | Medium |
 
 
