@@ -213,6 +213,9 @@ Solutions to LeetCode by Java, JS, and Python
 |	0039 | Combination Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0039.combination_sum.md) | 组合、回溯 | Medium |
 |	0040 | Combination Sum II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0040.combination_sum_II.md) | 组合、回溯 | Medium |
 |	0077 | Combinations | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0077.combinations.md) | 组合、回溯 | Medium |
+|	0078 | Subsets | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0078.subsets.md) | 子集、回溯 | Medium |
+|	0090 | Subsets II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0090.subsets_II.md) | 子集、回溯 | Medium |
+|	0093 | Restore IP Addresses | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0093.restore_IP_addresses.md) | 分割、回溯 | Medium |
 |	0131 | Palindrome Partitioning | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0131.palindrome_partitioning.md) | 分割、回溯 | Medium |
 |	0216 | Combination Sum III | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0216.ombination_sum_III.md) | 组合、回溯 | Medium |
 
