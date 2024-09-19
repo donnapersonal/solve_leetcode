@@ -186,10 +186,12 @@ Solutions to LeetCode by Java, JS, and Python
 |	0094 | Binary Tree Inorder Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0094.binary_tree_inorder_traversal.md) | 二叉树、DFS、迭代 | Easy |
 |	0101 | Symmetric Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0101.symmetric_tree.md) | 二叉树、DFS、迭代 | Easy |
 |	0102 | Binary Tree Level Order Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0102.binary_tree_level_order_traversal.md) | 二叉树、BFS | Medium |
-|	0104 | 104.Maximum Depth of Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0104.maximum_depth_of_binary_tree.md) | 二叉树、BFS、动态规划、回溯算法 | Easy |
+|	0104 | Maximum Depth of Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0104.maximum_depth_of_binary_tree.md) | 二叉树、BFS、动态规划、回溯算法 | Easy |
+|	0106 | Construct Binary Tree from Inorder and Postorder Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0106.construct_binary_tree_from_inorder_and_postorder_traversal.md) | 二叉树、递归 | Medium |
 |	0107 | Binary Tree Level Order Traversal II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0107.binary_tree_level_order_traversal_II.md) | 二叉树、BFS | Medium |
 |	0110 | Balanced Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0110.balanced_binary_tree.md) | 二叉树、DFS、迭代 | Easy |
 |	0111 | Minimum Depth of Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0111.minimum_depth_of_binary_tree.md) | 二叉树、BFS、DFS | Easy |
+|	0112 | Path Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0112.path_sum.md) | 二叉树、DFS、迭代 | Easy |
 |	0116 | Populating Next Right Pointers in Each Node | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0116.populating_next_right_pointers_in_each_node.md) | 二叉树、BFS、DFS | Medium |
 |	0117 | Populating Next Right Pointers in Each Node II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0117.populating_next_right_pointers_in_each_node_II.md) | 二叉树、BFS | Medium |
 |	0144 | Binary Tree Preorder Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0144.binary_tree_preorder_traversal.md) | 二叉树、DFS、迭代 | Easy |
@@ -218,5 +220,5 @@ Solutions to LeetCode by Java, JS, and Python
 |	0093 | Restore IP Addresses | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0093.restore_IP_addresses.md) | 分割、回溯 | Medium |
 |	0131 | Palindrome Partitioning | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0131.palindrome_partitioning.md) | 分割、回溯 | Medium |
 |	0216 | Combination Sum III | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0216.ombination_sum_III.md) | 组合、回溯 | Medium |
-
+|	0491 | Non-decreasing Subsequences | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0491.non-decreasing_subsequences.md) | 排列组合，回溯 | Medium |
 

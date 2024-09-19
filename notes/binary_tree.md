@@ -275,6 +275,20 @@ def merge_sort(nums: List[int], l: int, h: int) -> None:
 
 ![tree13]([image.png](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/images/tree13.png))
 
+### 前中后序确定二叉树
+
+`前序和中序`可以唯一确定一棵二叉树，`后序和中序`可以唯一确定一棵二叉树
+
+但`前序和后序`不能唯一确定一棵二叉树！因为没有中序遍历无法确定左右部分，即无法分割
+
+![tree14](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/images/tree14.png)
+
+`tree1` 的前序遍历是`[1 2 3]`， 后序遍历是`[3 2 1]`；`tree2` 的前序遍历是`[1 2 3]`，后序遍历是`[3 2 1]`
+
+`tree1` 和 `tree2` 的前序和后序完全相同，但不是同一棵树！
+
+所以前序和后序不能唯一确定一棵二叉树！
+
 **后序位置的特殊之处**
 
 有两个问题：
