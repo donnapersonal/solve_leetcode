@@ -217,6 +217,8 @@ Solutions to LeetCode by Java, JS, and Python
 |	0017 | Letter Combinations of a Phone Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0017.letter_combinations_of_a_phone_number.md) | 组合、回溯、哈希 | Medium |
 |	0039 | Combination Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0039.combination_sum.md) | 组合、回溯 | Medium |
 |	0040 | Combination Sum II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0040.combination_sum_II.md) | 组合、回溯 | Medium |
+|	0046 | Permutations | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0046.permutations.md) | 排列、回溯 | Medium |
+|	0047 | Permutations II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0047.permutations_II.md) | 排列、回溯 | Medium |
 |	0077 | Combinations | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0077.combinations.md) | 组合、回溯 | Medium |
 |	0078 | Subsets | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0078.subsets.md) | 子集、回溯 | Medium |
 |	0090 | Subsets II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0090.subsets_II.md) | 子集、回溯 | Medium |
