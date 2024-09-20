@@ -219,11 +219,14 @@ Solutions to LeetCode by Java, JS, and Python
 |	0040 | Combination Sum II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0040.combination_sum_II.md) | 组合、回溯 | Medium |
 |	0046 | Permutations | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0046.permutations.md) | 排列、回溯 | Medium |
 |	0047 | Permutations II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0047.permutations_II.md) | 排列、回溯 | Medium |
+|	0051 | N-Queens | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0051.N-Queens.md) | 棋盘、回溯 | Hard |
+|	0052 | N-Queens II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0052.N-Queens_II.md) | 棋盘、回溯 | Hard |
 |	0077 | Combinations | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0077.combinations.md) | 组合、回溯 | Medium |
 |	0078 | Subsets | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0078.subsets.md) | 子集、回溯 | Medium |
 |	0090 | Subsets II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0090.subsets_II.md) | 子集、回溯 | Medium |
 |	0093 | Restore IP Addresses | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0093.restore_IP_addresses.md) | 分割、回溯 | Medium |
 |	0131 | Palindrome Partitioning | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0131.palindrome_partitioning.md) | 分割、回溯 | Medium |
 |	0216 | Combination Sum III | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0216.ombination_sum_III.md) | 组合、回溯 | Medium |
+|	0332 | Reconstruct Itinerary | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0332.reconstruct_itinerary.md) | 回溯、图论 | Hard |
 |	0491 | Non-decreasing Subsequences | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0491.non-decreasing_subsequences.md) | 排列组合，回溯 | Medium |
 
