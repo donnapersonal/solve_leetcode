@@ -209,6 +209,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0515 | Find Largest Value in Each Tree Row | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0515.find_largest_value_in_each_tree_row.md) | 二叉树、BFS、DFS | Medium |
 |	0617 | Merge Two Binary Trees | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0617.merge_two_binary_trees.md) | 二叉树、递归、迭代 | Easy |
 |	0654 | Maximum Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0654.maximum_binary_tree.md) | 二叉树、递归 | Medium |
+|	0700 | Search in a Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0700.search_in_a_binary_search_tree.md) | 二叉树、递归、迭代 | Easy |
 
 #### 回溯
 
