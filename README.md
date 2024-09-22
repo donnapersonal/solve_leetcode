@@ -184,6 +184,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0094 | Binary Tree Inorder Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0094.binary_tree_inorder_traversal.md) | 二叉树、DFS、迭代 | Easy |
+|	0098 | Validate Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0098.validate_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0101 | Symmetric Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0101.symmetric_tree.md) | 二叉树、DFS、迭代 | Easy |
 |	0102 | Binary Tree Level Order Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0102.binary_tree_level_order_traversal.md) | 二叉树、BFS | Medium |
 |	0104 | Maximum Depth of Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0104.maximum_depth_of_binary_tree.md) | 二叉树、BFS、动态规划、回溯算法 | Easy |
