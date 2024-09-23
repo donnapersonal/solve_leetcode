@@ -201,6 +201,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0199 | Binary Tree Right Side View | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0199.binary_tree_right_side_view.md) | 二叉树、BFS、DFS | Medium |
 |	0222 | Count Complete Tree Nodes | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0222.count_complete_tree_nodes.md) | 二叉树、DFS、迭代、利用完全二叉树特性 | Medium |
 |	0226 | Invert Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0226.invert_binary_tree.md) | 二叉树、BFS、DFS | Easy |
+|	0235 | Lowest Common Ancestor of a Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0235.lowest_common_ancestor_of_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0236 | Lowest Common Ancestor of a Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0257 | Binary Tree Paths | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0257.binary_tree_paths.md) | 二叉树、DFS、迭代 | Easy |
 |	0404 | Sum of Left Leaves | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0404.sum_of_left_leaves.md) | 二叉树、DFS、迭代 | Easy |
@@ -214,6 +215,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0617 | Merge Two Binary Trees | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0617.merge_two_binary_trees.md) | 二叉树、递归、迭代 | Easy |
 |	0654 | Maximum Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0654.maximum_binary_tree.md) | 二叉树、递归 | Medium |
 |	0700 | Search in a Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0700.search_in_a_binary_search_tree.md) | 二叉树、递归、迭代 | Easy |
+|	0701 | Insert into a Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0701.insert_into_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 
 #### 回溯
 
