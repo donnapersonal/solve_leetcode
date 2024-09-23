@@ -201,6 +201,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0199 | Binary Tree Right Side View | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0199.binary_tree_right_side_view.md) | 二叉树、BFS、DFS | Medium |
 |	0222 | Count Complete Tree Nodes | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0222.count_complete_tree_nodes.md) | 二叉树、DFS、迭代、利用完全二叉树特性 | Medium |
 |	0226 | Invert Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0226.invert_binary_tree.md) | 二叉树、BFS、DFS | Easy |
+|	0236 | Lowest Common Ancestor of a Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0257 | Binary Tree Paths | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0257.binary_tree_paths.md) | 二叉树、DFS、迭代 | Easy |
 |	0404 | Sum of Left Leaves | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0404.sum_of_left_leaves.md) | 二叉树、DFS、迭代 | Easy |
 |	0543 | Diameter of Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0543.diameter_of_binary_tree.md) | 二叉树、DFS | Easy |
