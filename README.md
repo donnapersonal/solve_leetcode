@@ -208,12 +208,14 @@ Solutions to LeetCode by Java, JS, and Python
 |	0543 | Diameter of Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0543.diameter_of_binary_tree.md) | 二叉树、DFS | Easy |
 |	0637 | Average of Levels in Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0637.average_of_levels_in_binary_tree.md) | 二叉树、BFS | Easy |
 |	0429 | N-ary Tree Level Order Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0429.n-ary_tree_level_order_traversal.md) | 二叉树、BFS | Medium |
+|	0450 | Delete Node in a BST | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0450.delete_node_in_a_BST.md) | 二叉树、递归、迭代 | Medium |
 |	0501 | Find Mode in Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0501.find_mode_in_binary_search_tree.md) | 二叉树、递归、迭代 | Easy |
 |	0513 | Find Bottom Left Tree Value | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0513.find_bottom_left_tree_value.md) | 二叉树、DFS、BFS | Medium |
 |	0515 | Find Largest Value in Each Tree Row | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0515.find_largest_value_in_each_tree_row.md) | 二叉树、BFS、DFS | Medium |
 |	0530 | Minimum Absolute Difference in BST | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0530.minimum_absolute_difference_in_BST.md) | 二叉树、递归、迭代 | Easy |
 |	0617 | Merge Two Binary Trees | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0617.merge_two_binary_trees.md) | 二叉树、递归、迭代 | Easy |
 |	0654 | Maximum Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0654.maximum_binary_tree.md) | 二叉树、递归 | Medium |
+|	0669 | Trim a Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0669.trim_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0700 | Search in a Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0700.search_in_a_binary_search_tree.md) | 二叉树、递归、迭代 | Easy |
 |	0701 | Insert into a Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0701.insert_into_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 
