@@ -26,6 +26,7 @@ Solutions to LeetCode by Java, JS, and Python
 - [KMP 算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/kmp.md)
 - [Rabin Karp 算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/rabin_karp.md)
 - [回溯 算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/backtracking.md)
+- [贪心 算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/greedy.md)
 
 ### Templates
 
