@@ -210,6 +210,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0235 | Lowest Common Ancestor of a Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0235.lowest_common_ancestor_of_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0236 | Lowest Common Ancestor of a Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0257 | Binary Tree Paths | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0257.binary_tree_paths.md) | 二叉树、DFS、迭代 | Easy |
+|	0297 | Serialize and Deserialize Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0297.serialize_and_deserialize_binary_tree.md) | 二叉树、DFS、层序遍历 | Hard |
 |	0404 | Sum of Left Leaves | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0404.sum_of_left_leaves.md) | 二叉树、DFS、迭代 | Easy |
 |	0543 | Diameter of Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0543.diameter_of_binary_tree.md) | 二叉树、DFS | Easy |
 |	0637 | Average of Levels in Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0637.average_of_levels_in_binary_tree.md) | 二叉树、BFS | Easy |
@@ -221,6 +222,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0530 | Minimum Absolute Difference in BST | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0530.minimum_absolute_difference_in_BST.md) | 二叉树、递归、迭代 | Easy |
 |	0538 | Convert BST to Greater Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0538.convert_BST_to_greater_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0617 | Merge Two Binary Trees | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0617.merge_two_binary_trees.md) | 二叉树、递归、迭代 | Easy |
+|	0652 | Find Duplicate Subtrees | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0652.find_duplicate_subtrees.md) | 二叉树、递归 | Medium |
 |	0654 | Maximum Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0654.maximum_binary_tree.md) | 二叉树、递归 | Medium |
 |	0669 | Trim a Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0669.trim_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0700 | Search in a Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0700.search_in_a_binary_search_tree.md) | 二叉树、递归、迭代 | Easy |
