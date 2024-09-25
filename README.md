@@ -30,6 +30,7 @@ Solutions to LeetCode by Java, JS, and Python
 - [贪心算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/greedy.md)
 - [动态规划](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/dp.md)
 - [分治算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/divide_and_conquer.md)
+- [排序算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/sorts.md)
 
 ### Templates
 
@@ -224,6 +225,13 @@ Solutions to LeetCode by Java, JS, and Python
 |	0669 | Trim a Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0669.trim_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0700 | Search in a Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0700.search_in_a_binary_search_tree.md) | 二叉树、递归、迭代 | Easy |
 |	0701 | Insert into a Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0701.insert_into_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
+|	0889 | Construct Binary Tree from Preorder and Postorder Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0889.construct_binary_tree_from_preorder_and_postorder_traversal.md) | 二叉树、递归 | Medium |
+
+#### BFS/DFS
+
+|	No. |	Title |	Solution | Tags | Difficulty |
+|	--- |	--- | --- | --- | --- |
+|	0752 | Open the Lock | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0752.open_the_lock.md) | BFS | Medium |
 
 #### 回溯
 
