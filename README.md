@@ -40,12 +40,14 @@ Solutions to LeetCode by Java, JS, and Python
 
 ### LeetCode
 
-#### 数学
+#### 数学/设计
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0069 | Sqrt(x) | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0069.sqrt(x).md) | 数学、Brute Force 算法、二分查找 | Easy |
 |	0202 | Happy Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0202.happy_number.md) | 数学、哈希表、双指针 | Easy |
+|	0264 | Ugly Number II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0264.ugly_number_II.md) | 数学、双指针、动态规划 | Medium |
+|	0355 | Design Twitter | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0355.design_twitter.md) | 设计 | Medium |
 |	0367 | Valid Perfect Square | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0367.valid_perfect_square.md) | 数学、Brute Force 算法、二分查找 | Easy |
 
 #### 数组
@@ -150,7 +152,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	--- |	--- | --- | --- | --- |
 |	0019 | Remove Nth Node From End of List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0019.remove_Nth_node_from_end_of_list.md) | 链表、双指针、递归 | Medium |
 |	0021 | Merge Two Sorted Lists | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0021.merge_two_sorted_lists.md) | 链表、双指针 | Easy |
-|	0023 | Merge k Sorted Lists | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0023.merge_k_sorted_lists.md) | 链表、双指针、分治、堆（优先队列）、归并排序 | Hard |
+|	0023 | Merge k Sorted Lists | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/3e9682684a38c88cbb81c58bc098562ea0a61c34/solutions/0023.merge_k_sorted_lists.md) | 链表、双指针、分治、堆（优先队列）、归并排序 | Hard |
 |	0024 | Swap Nodes in Pairs | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0024.swap_nodes_in_pairs.md) | 链表、双指针、递归、迭代 | Medium |
 |	0025 | Reverse Nodes in k-Group | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0025.reverse_nodes_in_k-Group.md) | 链表、递归、迭代 | Hard |
 |	0061 | Rotate List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0061.rotate_list.md) | 链表、双指针 | Medium |
