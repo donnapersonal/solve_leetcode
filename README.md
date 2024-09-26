@@ -68,13 +68,15 @@ Solutions to LeetCode by Java, JS, and Python
 |	0088 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0088.merge_sorted_array.md) | 数组、双指针 | Medium |
 |	0162 | Find Peak Element | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0162.find_peak_element.md) | 数组、二分查找 | Medium |
 |	0217 | Contains Duplicate | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0217.contains_duplicate.md) | 数组、哈希表、排序 | Easy |
-|	0209 | Minimum Size Subarray Sum| [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0209.minimum_size_subarray_sum.md) | 数组、滑动窗口 | Medium |
+|	0209 | Minimum Size Subarray Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0209.minimum_size_subarray_sum.md) | 数组、滑动窗口 | Medium |
+|	0215 | Kth Largest Element in an Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0215.Kth_largest_element_in_an_array.md) | 数组、优先级队列（堆）、快速排序 | Medium |
 |	0219 | Contains Duplicate II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0219.contains_duplicate_II.md) | 数组、哈希表、滑动窗口 | Easy |
 | 0252 | Meeting Rooms | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0252.meeting_rooms.md) | 数组、排序 | Easy |
 |	0283 | Move Zeroes | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0283.move_zeroes.md) | 数组、双指针 | Easy |
 |	0238 | Product of Array Except Self | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0238.product_of_array_except_self.md) | 数组、前缀积 | Medium |
 |	0303 | Range Sum Query - Immutable | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0303.range_sum_query-immutable.md) | 数组、前缀和 | Easy |
 |	0325 | Maximum Size Subarray Sum Equals k | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0325.maximum_size_subarray_sum_equals_k.md) | 数组、前缀和、哈希表 | Medium |
+|	0347 | Top K Frequent Elements | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0347.top_K_frequent_elements.md) | 数组、哈希表、优先队列 | Medium |
 |	0360 | Sort Transformed Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0360.sort_transformed_array.md) | 数组、数学、双指针 | Medium |
 |	0349 | Intersection of Two Arrays | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0349.intersection_of_two_arrays.md) | 数组、哈希表、双指针 | Easy |
 |	0370 | Range Addition | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0370.range_addition.md) | 数组、差分数组 | Medium |
@@ -89,6 +91,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0528 | Random Pick with Weight | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0528.random_pick_with_weight.md) | 数组、前缀和、二分查找 | Medium |
 |	0560 | Subarray Sum Equals K | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0560.subarray_sum_equals_K.md) | 数组、哈希表、前缀和 | Medium |
 |	0658 | Find K Closest Elements | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0658.find_K_closest_elements.md) | 数组、双指针、二分查找 | Medium |
+|	0703 | Kth Largest Element in a Stream Easy Topics | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0703.Kth_largest_element_in_a_stream.md) | 数组、堆（优先级队列） | Easy |
 |	0704 | Binary Search | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0704.binary_search.md) | 数组、二分查找 | Easy |
 |	0713 | Subarray Product Less Than K | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0713.subarray_product_less_than_K.md) | 数组、滑动窗口 | Medium |
 |	0724 | Find Pivot Index | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0724.find_pivot_index.md) | 数组、两次遍历、前缀和 | Easy |
@@ -141,6 +144,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0402 | Remove K Digits | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0402.remove_K_digits.md) | 字符串、栈、单调栈 | Medium |
 |	0424 | Longest Repeating Character Replacement | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0424.longest_repeating_character_replacement.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0438 | Find All Anagrams in a String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0438.find_all_anagrams_in_a_string.md) | 字符串、哈希表、滑动窗口 | Medium |
+|	0451 | Sort Characters By Frequency | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0451.sort_characters_by_frequency.md) | 字符串、优先队列（二叉堆）| Medium |
 |	0459 | Repeated Substring Pattern | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0459.repeated_substring_pattern.md) | 字符串、移动匹配、KMP 算法 | Easy |
 |	0541 | Reverse String II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0541.reverse_string_II.md) | 字符串、双指针、递归 | Easy |
 |	0567 | Permutation in String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0567.permutation_in_string.md) | 字符串、哈希表、滑动窗口 | Medium |
