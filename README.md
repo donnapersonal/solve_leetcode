@@ -189,6 +189,8 @@ Solutions to LeetCode by Java, JS, and Python
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0094 | Binary Tree Inorder Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0094.binary_tree_inorder_traversal.md) | 二叉树、DFS、迭代 | Easy |
+|	0095 | Unique Binary Search Trees II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0095.unique_binary_search_trees_II.md) | 二叉树、DFS | Medium |
+|	0096 | Unique Binary Search Trees | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0096.unique_binary_search_trees.md) | 二叉树、DFS、动态规划 | Medium |
 |	0098 | Validate Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0098.validate_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0101 | Symmetric Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0101.symmetric_tree.md) | 二叉树、DFS、迭代 | Easy |
 |	0102 | Binary Tree Level Order Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0102.binary_tree_level_order_traversal.md) | 二叉树、BFS | Medium |
@@ -207,6 +209,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0199 | Binary Tree Right Side View | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0199.binary_tree_right_side_view.md) | 二叉树、BFS、DFS | Medium |
 |	0222 | Count Complete Tree Nodes | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0222.count_complete_tree_nodes.md) | 二叉树、DFS、迭代、利用完全二叉树特性 | Medium |
 |	0226 | Invert Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0226.invert_binary_tree.md) | 二叉树、BFS、DFS | Easy |
+|	0230 | Kth Smallest Element in a BST | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0230.Kth_smallest_element_in_a_BST.md) | 二叉树、递归、迭代 | Medium |
 |	0235 | Lowest Common Ancestor of a Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0235.lowest_common_ancestor_of_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0236 | Lowest Common Ancestor of a Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0257 | Binary Tree Paths | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0257.binary_tree_paths.md) | 二叉树、DFS、迭代 | Easy |
