@@ -150,6 +150,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	--- |	--- | --- | --- | --- |
 |	0019 | Remove Nth Node From End of List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0019.remove_Nth_node_from_end_of_list.md) | 链表、双指针、递归 | Medium |
 |	0021 | Merge Two Sorted Lists | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0021.merge_two_sorted_lists.md) | 链表、双指针 | Easy |
+|	0023 | Merge k Sorted Lists | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0023.merge_k_sorted_lists.md) | 链表、双指针、分治、堆（优先队列）、归并排序 | Hard |
 |	0024 | Swap Nodes in Pairs | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0024.swap_nodes_in_pairs.md) | 链表、双指针、递归、迭代 | Medium |
 |	0025 | Reverse Nodes in k-Group | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0025.reverse_nodes_in_k-Group.md) | 链表、递归、迭代 | Hard |
 |	0061 | Rotate List | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0061.rotate_list.md) | 链表、双指针 | Medium |
@@ -214,6 +215,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0236 | Lowest Common Ancestor of a Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0257 | Binary Tree Paths | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0257.binary_tree_paths.md) | 二叉树、DFS、迭代 | Easy |
 |	0297 | Serialize and Deserialize Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0297.serialize_and_deserialize_binary_tree.md) | 二叉树、DFS、层序遍历 | Hard |
+|	0341 | Flatten Nested List Iterator | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0341.flatten_nested_list_iterator.md) | 二叉树、设计 | Medium |
 |	0404 | Sum of Left Leaves | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0404.sum_of_left_leaves.md) | 二叉树、DFS、迭代 | Easy |
 |	0543 | Diameter of Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0543.diameter_of_binary_tree.md) | 二叉树、DFS | Easy |
 |	0637 | Average of Levels in Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0637.average_of_levels_in_binary_tree.md) | 二叉树、BFS | Easy |
@@ -231,6 +233,9 @@ Solutions to LeetCode by Java, JS, and Python
 |	0700 | Search in a Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0700.search_in_a_binary_search_tree.md) | 二叉树、递归、迭代 | Easy |
 |	0701 | Insert into a Binary Search Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0701.insert_into_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0889 | Construct Binary Tree from Preorder and Postorder Traversal | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0889.construct_binary_tree_from_preorder_and_postorder_traversal.md) | 二叉树、递归 | Medium |
+|	1373 | Maximum Sum BST in Binary Tree | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1373.maximum_sum_BST_in_binary_tree.md) | 二叉树、递归 | Hard |
+|	1644 | Lowest Common Ancestor of a Binary Tree II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1644.lowest_common_ancestor_of_a_binary_tree_II.md) | 二叉树、递归 | Medium |
+|	1650 | Lowest Common Ancestor of a Binary Tree III | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1650.lowest_common_ancestor_of_a_binary_tree_III.md) | 二叉树、递归 | Medium |
 
 #### BFS/DFS
 
