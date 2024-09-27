@@ -50,6 +50,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0295 | Find Median from Data Stream | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0295.find_median_from_data_stream.md) | 设计、数组、双指针、优先级队列 | Hard |
 |	0355 | Design Twitter | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0355.design_twitter.md) | 设计 | Medium |
 |	0367 | Valid Perfect Square | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0367.valid_perfect_square.md) | 数学、Brute Force 算法、二分查找 | Easy |
+|	1429 | First Unique Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1429.first_unique_number.md) | 设计、哈希表、单调队列 | Medium |
 
 #### 数组
 
@@ -57,6 +58,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	--- |	--- | --- | --- | --- |
 |	/ | Merge Two Order Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/merge_two_order_array.md) | 数组、双指针 | / |
 |	0001 | Two Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0001.2sum.md) | 数组、哈希表 | Easy |
+|	0011 | Container With Most Water | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0011.container_with_most_water.md) | 数组、双指针 | Medium |
 |	0015 | 3Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0015.3sum.md) | 数组、哈希表、双指针、排序 | Medium |
 |	0018 | 4Sum| [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0018.4sum.md) | 数组、双指针 | Medium |
 |	0026 | Remove Duplicates from Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0026.remove_duplicates_from_sorted_array.md) | 数组、双指针 | Easy |
@@ -64,6 +66,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0033 | Search in Rotated Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0033.search_in_rotated_sorted_array.md) | 数组、二分查找 | Medium |
 |	0034 | Find First and Last Position of Element in Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0034.find_first_and_last_position_of_element_in_sorted_array.md) | 数组、二分查找 | Medium |
 |	0035 | Search Insert Position | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0035.search_insert_position.md) | 数组、二分查找 | Easy |
+|	0042 | Trapping Rain Water | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0042.trapping_rain_water.md) | 数组、栈、单调栈、双指针 | Hard |
 |	0081 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0081.search_in_rotated_sorted_array_II.md) | 数组、二分查找 | Medium |
 |	0084 | Largest Rectangle in Histogram | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0084.largest_rectangle_in_histogram.md) | 数组、双指针、栈、单调栈 | Hard |
 |	0088 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0088.merge_sorted_array.md) | 数组、双指针 | Medium |
@@ -113,6 +116,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1438.longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.md) | 数组、单调队列、双指针、滑动窗口 | Medium |
 |	1475 | Final Prices With a Special Discount in a Shop | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1475.final_prices_with_a_special_discount_in_a_shop.md) | 数组、单调栈 | Easy |
 |	1658 | Minimum Operations to Reduce X to Zero | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1658.minimum_operations_to_reduce_X_to_zero.md) | 数组、滑动窗口 | Medium |
+|	1696 | Jump Game VI | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1696.jump_game_VI.md) | 数组、单调队列、动态规划 | Medium |
 |	1845 | Seat Reservation Manager | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1845.seat_reservation_manager.md) | 数组、优先级队列 | Medium |
 |	1944 | Number of Visible People in a Queue | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1944.number_of_visible_people_in_a_queue.md) | 数组、单调栈 | Hard |
 
