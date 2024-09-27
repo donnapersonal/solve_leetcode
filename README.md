@@ -47,6 +47,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0069 | Sqrt(x) | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0069.sqrt(x).md) | 数学、Brute Force 算法、二分查找 | Easy |
 |	0202 | Happy Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0202.happy_number.md) | 数学、哈希表、双指针 | Easy |
 |	0264 | Ugly Number II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0264.ugly_number_II.md) | 数学、双指针、动态规划 | Medium |
+|	0295 | Find Median from Data Stream | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0295.find_median_from_data_stream.md) | 设计、数组、双指针、优先级队列 | Hard |
 |	0355 | Design Twitter | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0355.design_twitter.md) | 设计 | Medium |
 |	0367 | Valid Perfect Square | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0367.valid_perfect_square.md) | 数学、Brute Force 算法、二分查找 | Easy |
 
@@ -91,14 +92,17 @@ Solutions to LeetCode by Java, JS, and Python
 |	0528 | Random Pick with Weight | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0528.random_pick_with_weight.md) | 数组、前缀和、二分查找 | Medium |
 |	0560 | Subarray Sum Equals K | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0560.subarray_sum_equals_K.md) | 数组、哈希表、前缀和 | Medium |
 |	0658 | Find K Closest Elements | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0658.find_K_closest_elements.md) | 数组、双指针、二分查找 | Medium |
+|	0692 | Top K Frequent Words | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0692.top_K_frequent_words.md) | 数组、优先级队列 | Medium |
 |	0703 | Kth Largest Element in a Stream Easy Topics | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0703.Kth_largest_element_in_a_stream.md) | 数组、堆（优先级队列） | Easy |
 |	0704 | Binary Search | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0704.binary_search.md) | 数组、二分查找 | Easy |
 |	0713 | Subarray Product Less Than K | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0713.subarray_product_less_than_K.md) | 数组、滑动窗口 | Medium |
 |	0724 | Find Pivot Index | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0724.find_pivot_index.md) | 数组、两次遍历、前缀和 | Easy |
 |	0739 | Daily Temperatures | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0739.daily_temperatures.md) | 数组、栈、单调栈 | Medium |
 |	0852 | Peak Index in a Mountain Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0852.peak_index_in_a_mountain_array.md) | 数组、二分查找 | Medium |
+|	0862 | Shortest Subarray with Sum at Least K | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0862.shortest_subarray_with_sum_at_least_K.md) | 数组、二分查找、前缀和、单调队列 | Hard |
 |	0870 | Advantage Shuffle | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0870.advantage_shuffle.md) | 数组、双指针、排序 | Medium |
 |	0875 | Koko Eating Bananas | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0875.koko_eating_bananas.md) | 数组、二分查找 | Medium |
+|	0918 | Maximum Sum Circular Subarray | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0918.maximum_sum_circular_subarray.md) | 数组、环形数组、分治、动态规划、单调队列 | Medium |
 |	0974 | Subarray Sums Divisible by K | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0974.subarray_sums_divisible_by_K.md) | 数组、哈希表、前缀和 | Medium |
 |	0977 | Squares of a Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0977.squares_of_a_sorted_array.md) | 数组、双指针 | Easy |
 |	1004 | Max Consecutive Ones III | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1004.max_consecutive_ones_III.md) | 数组、滑动窗口 | Medium |
@@ -109,6 +113,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1438.longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.md) | 数组、单调队列、双指针、滑动窗口 | Medium |
 |	1475 | Final Prices With a Special Discount in a Shop | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1475.final_prices_with_a_special_discount_in_a_shop.md) | 数组、单调栈 | Easy |
 |	1658 | Minimum Operations to Reduce X to Zero | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1658.minimum_operations_to_reduce_X_to_zero.md) | 数组、滑动窗口 | Medium |
+|	1845 | Seat Reservation Manager | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1845.seat_reservation_manager.md) | 数组、优先级队列 | Medium |
 |	1944 | Number of Visible People in a Queue | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1944.number_of_visible_people_in_a_queue.md) | 数组、单调栈 | Hard |
 
 #### 二维数组
