@@ -31,6 +31,7 @@ Solutions to LeetCode by Java, JS, and Python
 - [动态规划](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/dp.md)
 - [分治算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/divide_and_conquer.md)
 - [排序算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/sorts.md)
+- [LRU 算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/lru.md)
 
 ### Templates
 
@@ -50,7 +51,12 @@ Solutions to LeetCode by Java, JS, and Python
 |	0295 | Find Median from Data Stream | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0295.find_median_from_data_stream.md) | 设计、数组、双指针、优先级队列 | Hard |
 |	0355 | Design Twitter | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0355.design_twitter.md) | 设计 | Medium |
 |	0367 | Valid Perfect Square | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0367.valid_perfect_square.md) | 数学、Brute Force 算法、二分查找 | Easy |
+|	0379 | Design Phone Directory | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0379.design_phone_directory.md) | 设计、哈希 | Medium |
+|	0729 | My Calendar I | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0729.my_calendar_I.md) | 设计、二叉搜索树 | Medium |
+|	0855 | Exam Room | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0855.exam_room.md) | 设计、优先级队列 | Medium |
+|	0950 | Reveal Cards In Increasing Order | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0950.reveal_cards_in_increasing_order.md) | 设计、排序、队列 | Medium |
 |	1429 | First Unique Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1429.first_unique_number.md) | 设计、哈希表、单调队列 | Medium |
+|	1700 | Number of Students Unable to Eat Lunch | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1700.number_of_students_unable_to_eat_lunch.md) | 设计、哈希表、单调队列 | Easy |
 
 #### 数组
 
@@ -196,6 +202,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0362 | Design Hit Counter | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0362.design_hit_counter.md) | 设计、队列 | Medium |
 |	0622 | Design Circular Queue | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0622.design_circular_queue.md) | 设计、队列、数组、链表 | Medium |
 |	0641 | Design Circular Deque | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0641.design_circular_deque.md) | 设计、队列、数组、链表 | Medium |
+|	0895 | Maximum Frequency Stack | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0895.maximum_frequency_stack.md) | 设计、栈、模拟 | Hard |
 |	0901 | Online Stock Span | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0901.online_stock_span.md) | 设计、栈、单调栈 | Medium |
 |	0933 | Number of Recent Calls | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0933.number_of_recent_calls.md) | 设计、队列 | Easy |
 | 1670 | Design Front Middle Back Queue | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1670.design_front_middle_back_queue.md) | 设计、队列 | Medium |
