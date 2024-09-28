@@ -47,13 +47,14 @@ Solutions to LeetCode by Java, JS, and Python
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0069 | Sqrt(x) | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0069.sqrt(x).md) | 数学、Brute Force 算法、二分查找 | Easy |
-|	0146 | LRU Cache | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0146.LRU_cache.md) | 设计、双端链表、哈希表 | Medium |
+|	0146 | LRU Cache | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0146.LRU_cache.md) | 设计、数据结构 | Medium |
 |	0202 | Happy Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0202.happy_number.md) | 数学、哈希表、双指针 | Easy |
 |	0264 | Ugly Number II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0264.ugly_number_II.md) | 数学、双指针、动态规划 | Medium |
 |	0295 | Find Median from Data Stream | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0295.find_median_from_data_stream.md) | 设计、数组、双指针、优先级队列 | Hard |
 |	0355 | Design Twitter | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0355.design_twitter.md) | 设计 | Medium |
 |	0367 | Valid Perfect Square | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0367.valid_perfect_square.md) | 数学、Brute Force 算法、二分查找 | Easy |
 |	0379 | Design Phone Directory | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0379.design_phone_directory.md) | 设计、哈希 | Medium |
+|	0460 | LFU Cache | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0460.LFU_cache.md) | 设计、数据结构 | Hard |
 |	0729 | My Calendar I | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0729.my_calendar_I.md) | 设计、二叉搜索树 | Medium |
 |	0855 | Exam Room | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0855.exam_room.md) | 设计、优先级队列 | Medium |
 |	0950 | Reveal Cards In Increasing Order | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0950.reveal_cards_in_increasing_order.md) | 设计、排序、队列 | Medium |
