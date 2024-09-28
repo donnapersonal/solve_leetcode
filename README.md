@@ -32,6 +32,7 @@ Solutions to LeetCode by Java, JS, and Python
 - [分治算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/divide_and_conquer.md)
 - [排序算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/sorts.md)
 - [LRU 算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/lru.md)
+- [LFU 算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/lfu.md)
 
 ### Templates
 
@@ -46,6 +47,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0069 | Sqrt(x) | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0069.sqrt(x).md) | 数学、Brute Force 算法、二分查找 | Easy |
+|	0146 | LRU Cache | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0146.LRU_cache.md) | 设计、双端链表、哈希表 | Medium |
 |	0202 | Happy Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0202.happy_number.md) | 数学、哈希表、双指针 | Easy |
 |	0264 | Ugly Number II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0264.ugly_number_II.md) | 数学、双指针、动态规划 | Medium |
 |	0295 | Find Median from Data Stream | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0295.find_median_from_data_stream.md) | 设计、数组、双指针、优先级队列 | Hard |
