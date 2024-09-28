@@ -152,7 +152,10 @@ Solutions to LeetCode by Java, JS, and Python
 |	0076 | Minimum Window Substring | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0076.minimum_window_substring.md) | 字符串、哈希表、滑动窗口 | Hard |
 |	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
 |	0187 | Repeated DNA Sequences | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0187.repeated_DNA_sequences.md) | 字符串、RK 算法 | Medium |
+|	0224 | Basic Calculator | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0224.basic_calculator.md) | 字符串、栈 | Hard |
+|	0227 | Basic Calculator II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0227.basic_calculator_II.md) | 字符串、栈 | Medium |
 |	0242 | Valid Anagram | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0242.valid_anagram.md) | 字符串、哈希表 | Easy |
+|	0316 | Remove Duplicate Letters | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0316.remove_duplicate_letters.md) | 字符串、栈、贪心 | Medium |
 |	0340 | Longest Substring with At Most K Distinct Characters | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0340.longest_substring_with_at_most_K_distinct_characters.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	0344 | Reverse String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0344.reverse_string.md) | 字符串、栈、递归、双指针 | Easy |
 |	0383 | Ransom Note | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0383.ransom_note.md) | 字符串、哈希表 | Easy |
