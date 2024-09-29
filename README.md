@@ -76,9 +76,11 @@ Solutions to LeetCode by Java, JS, and Python
 |	0034 | Find First and Last Position of Element in Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0034.find_first_and_last_position_of_element_in_sorted_array.md) | 数组、二分查找 | Medium |
 |	0035 | Search Insert Position | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0035.search_insert_position.md) | 数组、二分查找 | Easy |
 |	0042 | Trapping Rain Water | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0042.trapping_rain_water.md) | 数组、栈、单调栈、双指针 | Hard |
+|	0057 | Insert Interval| [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0057.insert_interval.md) | 数组s、扫描 | Medium |
 |	0081 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0081.search_in_rotated_sorted_array_II.md) | 数组、二分查找 | Medium |
 |	0084 | Largest Rectangle in Histogram | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0084.largest_rectangle_in_histogram.md) | 数组、双指针、栈、单调栈 | Hard |
 |	0088 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0088.merge_sorted_array.md) | 数组、双指针 | Medium |
+|	0121 | Best Time to Buy and Sell Stock | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0121.best_time_to_buy_and_sell_stock.md) | 数组、递推、DP | Easy |
 |	0150 | Evaluate Reverse Polish Notation | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0150.evaluate_reverse_polish_notation.md) | 数组、数学、栈 | Medium |
 |	0162 | Find Peak Element | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0162.find_peak_element.md) | 数组、二分查找 | Medium |
 |	0169 | Majority Element | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0169.majority_element.md) | 数组、哈希表、Moore's Voting Algorithm | Easy |
@@ -168,6 +170,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0383 | Ransom Note | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0383.ransom_note.md) | 字符串、哈希表 | Easy |
 |	0387 | First Unique Character in a String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0387.first_unique_character_in_a_string.md) | 字符串、哈希表 | Easy |
 |	0388 | Longest Absolute File Path | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0388.longest_absolute_file_path.md) | 字符串、栈 | Medium |
+|	0389 | Find the Difference | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0389.find_the_difference.md) | 字符串、哈希表、位运算 | Easy |
 |	0395 | Longest Substring with At Least K Repeating Characters | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0395._longest_substring_with_at_least_K_repeating_characters.md) | 字符串、哈希表、分治、滑动窗口 | Medium |
 |	0402 | Remove K Digits | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0402.remove_K_digits.md) | 字符串、栈、单调栈 | Medium |
 |	0424 | Longest Repeating Character Replacement | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0424.longest_repeating_character_replacement.md) | 字符串、哈希表、滑动窗口 | Medium |
