@@ -79,6 +79,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0081 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0081.search_in_rotated_sorted_array_II.md) | 数组、二分查找 | Medium |
 |	0084 | Largest Rectangle in Histogram | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0084.largest_rectangle_in_histogram.md) | 数组、双指针、栈、单调栈 | Hard |
 |	0088 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0088.merge_sorted_array.md) | 数组、双指针 | Medium |
+|	0150 | Evaluate Reverse Polish Notation | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0150.evaluate_reverse_polish_notation.md) | 数组、数学、栈 | Medium |
 |	0162 | Find Peak Element | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0162.find_peak_element.md) | 数组、二分查找 | Medium |
 |	0217 | Contains Duplicate | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0217.contains_duplicate.md) | 数组、哈希表、排序 | Easy |
 |	0209 | Minimum Size Subarray Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0209.minimum_size_subarray_sum.md) | 数组、滑动窗口 | Medium |
@@ -133,6 +134,9 @@ Solutions to LeetCode by Java, JS, and Python
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0048 | Rotate Image | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0048.rotate_image.md) | 数组、数学、矩阵 | Medium |
+|	0054 | Spiral Matrix | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0054.spiral_matrix.md) | 数组、数学、矩阵 | Medium |
+|	0059 | Spiral Matrix II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0059.spiral_matrix_II.md) | 数组、数学、矩阵 | Medium |
 |	0074 | Search a 2D Matrix | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0074.search_a_2D_matrix.md) | 数组、矩阵、二分查找 | Medium |
 |	0240 | Search a 2D Matrix II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0240.search_a_2D_matrix_II.md) | 数组、矩阵、二分查找、双指针 | Medium |
 |	0304 | Range Sum Query 2D - Immutable | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0304.range_sum_query_2D-Immutable.md) | 数组、数学、矩阵、前缀和 | Medium |
