@@ -147,8 +147,10 @@ Solutions to LeetCode by Java, JS, and Python
 |	--- |	--- | --- | --- | --- |
 |	/ | Replace Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/replace_number.md) | 字符串、双指针 | / |
 |	0003 | Longest Substring Without Repeating Characters | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0003.longest_substring_without_repeating_characters.md) | 字符串、哈希表、滑动窗口 | Medium |
+|	0005 | Longest Palindromic Substring | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0005.longest_palindromic_substring.md) | 字符串、双指针、滑动窗口、DP、Manacher's algorithm | Medium |
 |	0020 | Valid Parentheses | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0020.valid_parentheses.md) | 字符串、栈 | Easy |
 |	0028 | Find the Index of the First Occurrence in a String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0028.find_the_index_of_the_first_occurrence_in_a_string.md) | 字符串、滑动窗口、双指针、字符串匹配算法（BF/BM/KMP/RK/Horspool/Sunday） | Easy |
+|	0049 | Group Anagrams | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0049.group_anagrams.md) | 字符串、哈希表、排序 | Medium |
 |	0076 | Minimum Window Substring | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0076.minimum_window_substring.md) | 字符串、哈希表、滑动窗口 | Hard |
 |	0151 | Reverse Words in a String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0151.reverse_words_in_a_string.md) | 字符串、双指针 | Medium |
 |	0187 | Repeated DNA Sequences | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0187.repeated_DNA_sequences.md) | 字符串、RK 算法 | Medium |
@@ -170,6 +172,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0541 | Reverse String II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0541.reverse_string_II.md) | 字符串、双指针、递归 | Easy |
 |	0567 | Permutation in String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0567.permutation_in_string.md) | 字符串、哈希表、滑动窗口 | Medium |
 |	1047 | Remove All Adjacent Duplicates In String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1047.remove_all_adjacent_duplicates_in_string.md) | 字符串、栈、双指针 | Easy |
+|	1081 | Smallest Subsequence of Distinct Characters | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1081.smallest_subsequence_of_distinct_characters.md) | 字符串、栈、贪心 | Medium |
 
 #### 链表
 
