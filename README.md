@@ -81,6 +81,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0088 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0088.merge_sorted_array.md) | 数组、双指针 | Medium |
 |	0150 | Evaluate Reverse Polish Notation | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0150.evaluate_reverse_polish_notation.md) | 数组、数学、栈 | Medium |
 |	0162 | Find Peak Element | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0162.find_peak_element.md) | 数组、二分查找 | Medium |
+|	0169 | Majority Element | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0169.majority_element.md) | 数组、哈希表、Moore's Voting Algorithm | Easy |
 |	0217 | Contains Duplicate | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0217.contains_duplicate.md) | 数组、哈希表、排序 | Easy |
 |	0209 | Minimum Size Subarray Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0209.minimum_size_subarray_sum.md) | 数组、滑动窗口 | Medium |
 |	0215 | Kth Largest Element in an Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0215.Kth_largest_element_in_an_array.md) | 数组、优先级队列（堆）、快速排序 | Medium |
@@ -175,8 +176,10 @@ Solutions to LeetCode by Java, JS, and Python
 |	0459 | Repeated Substring Pattern | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0459.repeated_substring_pattern.md) | 字符串、移动匹配、KMP 算法 | Easy |
 |	0541 | Reverse String II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0541.reverse_string_II.md) | 字符串、双指针、递归 | Easy |
 |	0567 | Permutation in String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0567.permutation_in_string.md) | 字符串、哈希表、滑动窗口 | Medium |
+|	0921 | Minimum Add to Make Parentheses Valid | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0921.minimum_add_to_make_parentheses_valid.md) | 字符串、栈、贪心 | Medium |
 |	1047 | Remove All Adjacent Duplicates In String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1047.remove_all_adjacent_duplicates_in_string.md) | 字符串、栈、双指针 | Easy |
 |	1081 | Smallest Subsequence of Distinct Characters | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1081.smallest_subsequence_of_distinct_characters.md) | 字符串、栈、贪心 | Medium |
+|	1541 | Minimum Insertions to Balance a Parentheses String | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1541.minimum_insertions_to_balance_a_parentheses_string.md) | 字符串、栈、贪心 | Medium |
 
 #### 链表
 
