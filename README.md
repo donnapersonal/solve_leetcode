@@ -287,6 +287,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0752 | Open the Lock | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0752.open_the_lock.md) | BFS | Medium |
+|	0773 | Sliding Puzzle | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0773.sliding_puzzle.md) | BFS | Hard |
 
 #### 回溯
 
@@ -308,4 +309,14 @@ Solutions to LeetCode by Java, JS, and Python
 |	0216 | Combination Sum III | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0216.ombination_sum_III.md) | 组合、回溯 | Medium |
 |	0332 | Reconstruct Itinerary | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0332.reconstruct_itinerary.md) | 回溯、图论 | Hard |
 |	0491 | Non-decreasing Subsequences | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0491.non-decreasing_subsequences.md) | 排列组合，回溯 | Medium |
+
+#### 动态规划
+
+|	No. |	Title |	Solution | Tags | Difficulty |
+|	--- |	--- | --- | --- | --- |
+|	0300 | Longest Increasing Subsequence | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0300.longest_increasing_subsequence.md) | 动态规划、二分查找 | Medium |
+|	0322 | Coin Change | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0322.coin_change.md) | 动态规划、BFS | Medium |
+|	0509 | Fibonacci Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0509.fibonacci_number.md) | 动态规划、递归 | Medium |
+
+
 
