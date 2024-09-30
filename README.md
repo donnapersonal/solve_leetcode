@@ -88,6 +88,8 @@ Solutions to LeetCode by Java, JS, and Python
 |	0209 | Minimum Size Subarray Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0209.minimum_size_subarray_sum.md) | 数组、滑动窗口 | Medium |
 |	0215 | Kth Largest Element in an Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0215.Kth_largest_element_in_an_array.md) | 数组、优先级队列（堆）、快速排序 | Medium |
 |	0219 | Contains Duplicate II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0219.contains_duplicate_II.md) | 数组、哈希表、滑动窗口 | Easy |
+|	0220 | Contains Duplicate III | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0220.contains_duplicate_III.md) | 数组、二叉树搜索、桶排序、滑动窗口 | Hard |
+|	0239 | Sliding Window Maximum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0239.sliding_window_maximum.md) | 数组、队列、单调队列、堆（优先级队列） | Hard |
 | 0252 | Meeting Rooms | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0252.meeting_rooms.md) | 数组、排序 | Easy |
 |	0283 | Move Zeroes | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0283.move_zeroes.md) | 数组、双指针 | Easy |
 |	0238 | Product of Array Except Self | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0238.product_of_array_except_self.md) | 数组、前缀积 | Medium |
@@ -99,6 +101,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0370 | Range Addition | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0370.range_addition.md) | 数组、差分数组 | Medium |
 |	0373 | Find K Pairs with Smallest Sums | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0373.find_K_pairs_with_smallest_sums.md) | 数组、链表双指针、堆（优先队列） | Medium |
 |	0380 | Insert Delete GetRandom O(1) | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0380.insert_delete_getRandom_O(1).md) | 数组、数学、设计、哈希表 | Medium |
+|	0410 | Split Array Largest Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0410.split_array_largest_sum.md) | 数组、贪心、二分查找、DP、前缀和 | Hard |
 |	0442 | Find All Duplicates in an Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0442.find_all_duplicates_in_an_array.md) | 数组、哈希表 | Easy |
 |	0448 | Find All Numbers Disappeared in an Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0448.find_all_numbers_disappeared_in_an_array.md) | 数组、哈希表 | Easy |
 |	0496 | Next Greater Element I | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0496.next_greater_element_I.md) | 数组、栈、单调栈 | Easy |
@@ -111,6 +114,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0692 | Top K Frequent Words | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0692.top_K_frequent_words.md) | 数组、优先级队列 | Medium |
 |	0703 | Kth Largest Element in a Stream Easy Topics | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0703.Kth_largest_element_in_a_stream.md) | 数组、堆（优先级队列） | Easy |
 |	0704 | Binary Search | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0704.binary_search.md) | 数组、二分查找 | Easy |
+|	0710 | Random Pick with Blacklist | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0710.random_pick_with_blacklist.md) | 数组、数学、随机算法 | Hard |
 |	0713 | Subarray Product Less Than K | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0713.subarray_product_less_than_K.md) | 数组、滑动窗口 | Medium |
 |	0724 | Find Pivot Index | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0724.find_pivot_index.md) | 数组、两次遍历、前缀和 | Easy |
 |	0739 | Daily Temperatures | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0739.daily_temperatures.md) | 数组、栈、单调栈 | Medium |
