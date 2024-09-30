@@ -2,7 +2,7 @@
 
 Solutions to LeetCode by Java, JS, and Python
 
-### Notes
+### Notess
 
 - [数据结构与算法](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/data_structure_and_algorithm.md)
 - [算法的衡量](https://github.com/donnapersonal/solve_leetcode/blob/main/notes/time_space_complexity.md)
@@ -315,10 +315,17 @@ Solutions to LeetCode by Java, JS, and Python
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0053 | Maximum Subarray | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0053.maximum_subarray.md) | 动态规划、分治 | Medium |
+|	0072 | Edit Distance | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0072.edit_distance.md) | 动态规划 | Hard |
 |	0139 | Word Break | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0139.word_break.md) | 动态规划 | Medium |
 |	0300 | Longest Increasing Subsequence | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0300.longest_increasing_subsequence.md) | 动态规划、二分查找 | Medium |
 |	0322 | Coin Change | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0322.coin_change.md) | 动态规划、BFS | Medium |
 |	0509 | Fibonacci Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0509.fibonacci_number.md) | 动态规划、递归 | Medium |
+|	0516 | Longest Palindromic Subsequence | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0516.longest_palindromic_subsequence.md) | 动态规划 | Medium |
+|	0583 | Delete Operation for Two Strings | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0583.delete_operation_for_two_strings.mds) | 动态规划 | Medium |
+|	0712 | Minimum ASCII Delete Sum for Two Strings | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0712.minimum_ASCII_delete_sum_for_two_strings.md) | 动态规划 | Medium |
+|	1143 | Longest Common Subsequence | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/1143.longest_common_subsequence.md) | 动态规划 | Medium |
+
 
 
 
