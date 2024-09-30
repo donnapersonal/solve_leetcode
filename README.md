@@ -306,6 +306,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0090 | Subsets II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0090.subsets_II.md) | 子集、回溯 | Medium |
 |	0093 | Restore IP Addresses | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0093.restore_IP_addresses.md) | 分割、回溯 | Medium |
 |	0131 | Palindrome Partitioning | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0131.palindrome_partitioning.md) | 分割、回溯 | Medium |
+|	0140 | Word Break II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0140.word_break_II.md) | 回溯 | Hard |
 |	0216 | Combination Sum III | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0216.ombination_sum_III.md) | 组合、回溯 | Medium |
 |	0332 | Reconstruct Itinerary | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0332.reconstruct_itinerary.md) | 回溯、图论 | Hard |
 |	0491 | Non-decreasing Subsequences | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0491.non-decreasing_subsequences.md) | 排列组合，回溯 | Medium |
@@ -314,6 +315,7 @@ Solutions to LeetCode by Java, JS, and Python
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0139 | Word Break | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0139.word_break.md) | 动态规划 | Medium |
 |	0300 | Longest Increasing Subsequence | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0300.longest_increasing_subsequence.md) | 动态规划、二分查找 | Medium |
 |	0322 | Coin Change | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0322.coin_change.md) | 动态规划、BFS | Medium |
 |	0509 | Fibonacci Number | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0509.fibonacci_number.md) | 动态规划、递归 | Medium |
