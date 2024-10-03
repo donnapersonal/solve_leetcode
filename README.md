@@ -76,7 +76,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	0034 | Find First and Last Position of Element in Sorted Array | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0034.find_first_and_last_position_of_element_in_sorted_array.md) | 数组、二分查找 | Medium |
 |	0035 | Search Insert Position | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0035.search_insert_position.md) | 数组、二分查找 | Easy |
 |	0042 | Trapping Rain Water | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0042.trapping_rain_water.md) | 数组、栈、单调栈、双指针 | Hard |
-|	0057 | Insert Interval| [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0057.insert_interval.md) | 数组s、扫描 | Medium |
+|	0057 | Insert Interval| [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0057.insert_interval.md) | 数组、扫描 | Medium |
 |	0081 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/LeetCode/blob/main/solutions/0081.search_in_rotated_sorted_array_II.md) | 数组、二分查找 | Medium |
 |	0084 | Largest Rectangle in Histogram | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0084.largest_rectangle_in_histogram.md) | 数组、双指针、栈、单调栈 | Hard |
 |	0088 | Search in Rotated Sorted Array II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0088.merge_sorted_array.md) | 数组、双指针 | Medium |
