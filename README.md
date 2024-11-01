@@ -316,7 +316,7 @@ Solutions to LeetCode by Java, JS, and Python
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0053 | Maximum Subarray | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0053.maximum_subarray.md) | 动态规划、分治 | Medium |
-|	0072 | Edit Distance | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0072.edit_distance.md) | 动态规划 | Hard |
+|	0072 | Edit Distance | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0072.edit_distance.md) | 动态规划 | Medium |
 |	0139 | Word Break | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0139.word_break.md) | 动态规划 | Medium |
 |	0300 | Longest Increasing Subsequence | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0300.longest_increasing_subsequence.md) | 动态规划、二分查找 | Medium |
 |	0322 | Coin Change | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0322.coin_change.md) | 动态规划、BFS | Medium |
