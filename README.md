@@ -14,13 +14,20 @@ Solutions to LeetCode by Python and JS.
 |	0016 | 3Sum Closest| [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0016.3Sum_closest.md) | 双指针、排序 | Medium |
 |	0049 | Group Anagrams | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/hash_table/array/0049.group_anagrams.md) | 哈希表 | Medium |
 |	0075 | Sort Colors | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0075.sort_colors.md) | 双指针 | Medium |
-|	0081 | Search in Rotated Sorted Array II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0081.search_in_rotated_sorted_array_II.md) | 二分查找 | Medium |
 |	0128 | Longest Consecutive Sequence | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/hash_table/array/0128.longest_consecutive_sequence.md) | 哈希表 | Medium |
-|	0153 | Find Minimum in Rotated Sorted Array | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0153.find_minimum_in_rotated_sorted_array.md) | 二分查找 | Medium |
 |	0442 | Find All Duplicates in an Array | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/hash_table/array/0128.longest_consecutive_sequence.md) | 哈希表 | Medium |
 |	0560 | Subarray Sum Equals K | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0560.subarray_sum_equals_K.md) | 哈希表、前缀和 | Medium |
 |	0904 | Fruit Into Baskets | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0904.fruit_into_baskets.md) | 哈希表、滑动窗口 | Medium |
 |	0041 | First Missing Positive | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/hash_table/array/0041.first_missing_positive.md) | 哈希表 | Hard |
+|	二分查找 | --- | --- | --- | --- |
+|	0704 | Binary Search | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0704.binary_search.md) | 二分查找 | Easy |
+|	0744 | Find Smallest Letter Greater Than Target | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0744.find_smallest_letter_greater_than_target.md) | 二分查找 | Easy |
+|	0033 | Search in Rotated Sorted Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0033.search_in_rotated_sorted_array.md) | 二分查找 | Medium |
+|	0034 | Find First and Last Position of Element in Sorted Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0034.find_first_and_last_position_of_element_in_sorted_array.md) | 二分查找 | Medium |
+|	0081 | Search in Rotated Sorted Array II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0081.search_in_rotated_sorted_array_II.md) | 二分查找 | Medium |
+|	0153 | Find Minimum in Rotated Sorted Array | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0153.find_minimum_in_rotated_sorted_array.md) | 二分查找 | Medium |
+|	0162 | Find Peak Element | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0162.find_peak_element.md) | 二分查找 | Medium |
+|	0852 | Peak Index in a Mountain Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0852.peak_index_in_a_mountain_array.md) | 二分查找 | Medium |
 
 
 
