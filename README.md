@@ -22,6 +22,7 @@ Solutions to LeetCode by Python and JS.
 |	0016 | 3Sum Closest| [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0016.3Sum_closest.md) | 双指针 | Medium |
 |	0075 | Sort Colors | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0075.sort_colors.md) | 双指针 | Medium |
 |	0189 | Rotate Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0189.potate_array.md) | 双指 + 数组翻转 | Medium |
+|	0253 | Meeting Rooms II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0253.meeting_rooms_II.md) | 双指针 + 排序 | Medium |
 |	0986 | Interval List Intersections | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0986.interval_list_intersections.md) | 双指针 | Medium |
 | 滑动窗口 | --- | --- | --- | --- |
 |	0643 | Maximum Average Subarray I | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0643.maximum_average_subarray_I.md) | 滑动窗口 | Easy |
@@ -42,6 +43,9 @@ Solutions to LeetCode by Python and JS.
 |	0658 | Find K Closest Elements | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0658.find_K_closest_elements.md) | 二分查找 | Medium |
 |	0852 | Peak Index in a Mountain Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0852.peak_index_in_a_mountain_array.md) | 二分查找 | Medium |
 |	0004 | Median of Two Sorted Arrays | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0004.median_of_two_sorted_arrays.md) | 二分查找 | Hard |
+|	排序 | --- | --- | --- | --- |
+| 0252 | Meeting Rooms | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0252.meeting_rooms.md) | 排序 | Easy |
+|	0056 | 56.Merge Intervals | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0056.merge_intervals.md) | 排序 | Medium |
 |	多种解题思路 | --- | --- | --- | --- |
 |	0015 | 3Sum | [JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0015.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 哈希表、双指针、排序 | Medium |
 |	0287 | Find the Duplicate Number | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0287.find_the_duplicate_number.md) | 双指针、二分查找 | Medium |
