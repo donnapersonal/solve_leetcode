@@ -16,11 +16,19 @@ Solutions to LeetCode by Python and JS.
 |	0560 | Subarray Sum Equals K | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0560.subarray_sum_equals_K.md) | 哈希表 + 前缀和 | Medium |
 |	0041 | First Missing Positive | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/hash_table/array/0041.first_missing_positive.md) | 哈希表 | Hard |
 | 双指针 | --- | --- | --- | --- |
+|	0283 | Move Zeroes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0283.move_zeroes.md) | 双指针 | Easy |
+|	0977 | Squares of a Sorted Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0977.squares_of_a_sorted_array.md) | 双指针 | Easy |
 |	0011 | Container With Most Water | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/0011.container_with_most_water.md) | 双指针 | Medium |
 |	0016 | 3Sum Closest| [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0016.3Sum_closest.md) | 双指针 | Medium |
 |	0075 | Sort Colors | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0075.sort_colors.md) | 双指针 | Medium |
+|	0189 | Rotate Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0189.potate_array.md) | 双指 + 数组翻转 | Medium |
+|	0986 | Interval List Intersections | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0986.interval_list_intersections.md) | 双指针 | Medium |
 | 滑动窗口 | --- | --- | --- | --- |
+|	0643 | Maximum Average Subarray I | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0643.maximum_average_subarray_I.md) | 滑动窗口 | Easy |
+|	0209 | Minimum Size Subarray Sum | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0209.minimum_size_subarray_sum.md) | 滑动窗口 | Medium |
+|	0713 | Subarray Product Less Than K | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0713.subarray_product_less_than_K.md) | 滑动窗口 | Medium |
 |	0904 | Fruit Into Baskets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0904.fruit_into_baskets.md) | 滑动窗口 + 哈希表 | Medium |
+|	0995 | Minimum Number of K Consecutive Bit Flips | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0995.minimum_number_of_K_consecutive_bit_flips.md) | 滑动窗口 | Hard |
 |	二分查找 | --- | --- | --- | --- |
 |	0704 | Binary Search | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0704.binary_search.md) | 二分查找 | Easy |
 |	0744 | Find Smallest Letter Greater Than Target | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0744.find_smallest_letter_greater_than_target.md) | 二分查找 | Easy |
@@ -36,7 +44,7 @@ Solutions to LeetCode by Python and JS.
 |	0004 | Median of Two Sorted Arrays | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0004.median_of_two_sorted_arrays.md) | 二分查找 | Hard |
 |	多种解题思路 | --- | --- | --- | --- |
 |	0015 | 3Sum | [JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0015.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 哈希表、双指针、排序 | Medium |
-|	0287 | Find the Duplicate Number | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0287.find_the_duplicate_number.md) | 位运算、双指针、二分查找 | Medium |
+|	0287 | Find the Duplicate Number | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0287.find_the_duplicate_number.md) | 双指针、二分查找 | Medium |
 
 
 
