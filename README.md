@@ -46,9 +46,25 @@ Solutions to LeetCode by Python and JS.
 |	排序 | --- | --- | --- | --- |
 | 0252 | Meeting Rooms | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0252.meeting_rooms.md) | 排序 | Easy |
 |	0056 | 56.Merge Intervals | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0056.merge_intervals.md) | 排序 | Medium |
+|	0269 | Alien Dictionary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0269.alien_dictionary.md) | 拓扑排序 | Hard |
+|	1203 | Sort Items by Groups Respecting Dependencies | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/1203.sort_items_by_groups_respecting_dependencies.md) | 拓扑排序 | Hard |
+|	栈/队列/优先级队列 | --- | --- | --- | --- |
+|	0150 | Evaluate Reverse Polish Notation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0150.evaluate_reverse_polish_notation.md) | 栈 | Medium |
+|	0373 | Find K Pairs with Smallest Sums | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0373.find_K_pairs_with_smallest_sums.md) | 优先级队列（堆）+ 链表双指针 | Medium |
+|	0739 | Daily Temperatures | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0739.daily_temperatures.md) | 栈、单调栈 | Medium |
+|	前缀和/前缀积 | --- | --- | --- | --- |
+|	0303 | Range Sum Query - Immutable | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0303.range_sum_query-immutable.md) | 前缀和 | Easy |
+|	0238 | Product of Array Except Self | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0238.product_of_array_except_self.md) | 前缀积 | Medium |
+|	0327 | Count of Range Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0327.count_of_range_sum.md) | 前缀和 + 归并排序 | Hard |
+|	位运算 | --- | --- | --- | --- |
+|	0136 | 136.Single Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0136.single_number.md) | 位运算 | Easy |
+|	字典序 | --- | --- | --- | --- |
+|	0031 | Next Permutation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0031.next_permutation.md) | 字典序 | Medium |
 |	多种解题思路 | --- | --- | --- | --- |
+|	0268 | Missing Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0268.missing_number.md) | 位运算、哈希表 | Easy |
 |	0015 | 3Sum | [JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0015.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 哈希表、双指针、排序 | Medium |
 |	0287 | Find the Duplicate Number | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0287.find_the_duplicate_number.md) | 双指针、二分查找 | Medium |
+|	0042 | Trapping Rain Water | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0042.trapping_rain_water.md) | 栈、单调栈、双指针 | Hard |
 
 
 
