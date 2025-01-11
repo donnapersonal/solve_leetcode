@@ -63,12 +63,19 @@ Solutions to LeetCode by Python and JS.
 |	贪心 | --- | --- | --- | --- |
 |	0452 | Minimum Number of Arrows to Burst Balloons | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0452.minimum_number_of_arrows_to_burst_balloons.md) | 贪心 + 排序 | Medium |
 |	0621 | Task Scheduler | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0621.task_scheduler.md) | 贪心 | Medium |
+|	扫描 | --- | --- | --- | --- |
+|	0057 | Insert Interval| [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0057.insert_interval.md) | 扫描 | Medium |
 |	多种解题思路 | --- | --- | --- | --- |
+|	0169 | Majority Element | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0169.majority_element.md) | 哈希表、Moore's Voting Algorithm | Easy |
 |	0268 | Missing Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0268.missing_number.md) | 位运算、哈希表 | Easy |
-|	0015 | 3Sum | [JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0015.%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md) | 哈希表、双指针、排序 | Medium |
+|	0015 | 3Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/1a3f7aba82284a18138de79e9946ba5283a9514b/array/0015.3Sum.md) | 哈希表、双指针、排序 | Medium |
+|	0215 | Kth Largest Element in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0215.Kth_largest_element_in_an_array.md) | 优先级队列（堆）、快速排序 | Medium |
 |	0287 | Find the Duplicate Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0287.find_the_duplicate_number.md) | 双指针、二分查找 | Medium |
+|	0347 | Top K Frequent Elements | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0347.top_K_frequent_elements.md) | 哈希表、优先队列 | Medium |
 |	0421 | Maximum XOR of Two Numbers in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0421.maximum_XOR_of_two_numbers_in_an_array.md) | 位运算、字典树、哈希表 | Medium |
 |	0720 | Longest Word in Dictionary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0720.longest_word_in_dictionary.md) | 字典树、哈希表、排序 | Medium |
+|	0721 | Accounts Merge | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0721.accounts_merge.md) | BFS、DFS、并查集（Union-find） | Medium |
+|	0973 | K Closest Points to Origin | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0973.K_closest_points_to_origin.md) | 数学、排序、优先级队列、快速选择 | Medium |
 |	0042 | Trapping Rain Water | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/array/0042.trapping_rain_water.md) | 栈、单调栈、双指针 | Hard |
 
 
