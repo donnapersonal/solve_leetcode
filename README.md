@@ -97,6 +97,7 @@ Solutions to LeetCode by Python and JS.
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0435 | Non-overlapping Intervals | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0435.non-overlapping_intervals.md) | 贪心 + 排序 | Medium |
 |	0452 | Minimum Number of Arrows to Burst Balloons | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0452.minimum_number_of_arrows_to_burst_balloons.md) | 贪心 + 排序 | Medium |
 |	0621 | Task Scheduler | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0621.task_scheduler.md) | 贪心 | Medium |
 
@@ -109,6 +110,9 @@ Solutions to LeetCode by Python and JS.
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0053 | Maximum Subarray | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0053.maximum_subarray.md) | 动态规划 | Medium |
+|	0152 | Maximum Product Subarray | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0152.maximum_product_subarray.md) | 动态规划 | Medium |
+|	0416 | Partition Equal Subset Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0416.partition_equal_subset_sum.md) | 动态规划 | Medium |
 
 ## Graph
 
@@ -138,11 +142,14 @@ Solutions to LeetCode by Python and JS.
 |	0268 | Missing Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0268.missing_number.md) | 位运算、哈希表 | Easy |
 |	0015 | 3Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0015.3Sum.md) | 哈希表、双指针、排序 | Medium |
 |	0031 | Next Permutation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0031.next_permutation.md) | 字典序 | Medium |
-|	0045 | 45.Jump Game II | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0045.%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II.md) | 贪心、动态规划 | Medium |
+|	0045 | Jump Game II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0045.jump_game_II.md) | 贪心、动态规划 | Medium |
+|	0055 | Jump Game | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0055.jump_game.md) | 动态规划、贪心 | Medium |
 |	0215 | Kth Largest Element in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0215.Kth_largest_element_in_an_array.md) | 优先级队列（堆）、快速排序 | Medium |
 |	0287 | Find the Duplicate Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0287.find_the_duplicate_number.md) | 双指针、二分查找 | Medium |
 |	0347 | Top K Frequent Elements | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0347.top_K_frequent_elements.md) | 哈希表、优先级队列 | Medium |
 |	0421 | Maximum XOR of Two Numbers in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0421.maximum_XOR_of_two_numbers_in_an_array.md) | 位运算、字典树、哈希表 | Medium |
+|	0494 | Target Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0494.target_sum.md) | 回溯、动态 | Medium |
+|	0698 | Partition to K Equal Sum Subsets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0698.partition_to_K_equal_sum_subsets.md) | 动态规划、回溯、位运算、记忆化搜索 | Medium |
 |	0720 | Longest Word in Dictionary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0720.longest_word_in_dictionary.md) | 字典树、哈希表、排序 | Medium |
 |	0721 | Accounts Merge | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0721.accounts_merge.md) | BFS、DFS、并查集（Union-find） | Medium |
 |	0973 | K Closest Points to Origin | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0973.K_closest_points_to_origin.md) | 数学、排序、优先级队列、快速选择 | Medium |
