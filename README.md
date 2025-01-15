@@ -12,7 +12,7 @@ Solutions to LeetCode by Python and JS.
 |	0383 | Ransom Note | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0383.ransom_note.md) | 字符串、哈希表 | Easy |
 |	0448 | Find All Numbers Disappeared in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0448.find_all_numbers_disappeared_in_an_array.md) | 数组、哈希表 | Easy |
 |	0049 | Group Anagrams | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0049.group_anagrams.md) | 数组、哈希表 | Medium |
-|	0073 | 73.Set Matrix Zeroes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0073.set_matrix_zeroes.md) | 矩阵、哈希表 | Medium |
+|	0073 | Set Matrix Zeroes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0073.set_matrix_zeroes.md) | 矩阵、哈希表 | Medium |
 |	0128 | Longest Consecutive Sequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0128.longest_consecutive_sequence.md) | 数组、哈希表 | Medium |
 |	0442 | Find All Duplicates in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0442.find_all_duplicates_in_an_array.md) | 数组、哈希表 | Medium |
 |	0560 | Subarray Sum Equals K | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0560.subarray_sum_equals_K.md) | 数组、哈希表 + 前缀和 | Medium |
@@ -36,9 +36,13 @@ Solutions to LeetCode by Python and JS.
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0643 | Maximum Average Subarray I | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0643.maximum_average_subarray_I.md) | 数组、滑动窗口 | Easy |
+|	0003 | Longest Substring Without Repeating Characters | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0003.longest_substring_without_repeating_characters.md) | 字符串、滑动窗口 | Medium |
 |	0209 | Minimum Size Subarray Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0209.minimum_size_subarray_sum.md) | 数组、滑动窗口 | Medium |
+|	0424 | Longest Repeating Character Replacement | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0424.longest_repeating_character_replacement.md) | 字符串、哈希表、滑动窗口 | Medium |
+|	0438 | Find All Anagrams in a String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0438.find_all_anagrams_in_a_string.md) | 字符串、滑动窗口 | Medium |
+|	0567 | Permutation in String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0567.permutation_in_string.md) | 字符串、滑动窗口 | Medium |
 |	0713 | Subarray Product Less Than K | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0713.subarray_product_less_than_K.md) | 数组、滑动窗口 | Medium |
-|	0904 | Fruit Into Baskets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0904.fruit_into_baskets.md) | 数组、滑动窗口 + 哈希表 | Medium |
+|	0904 | Fruit Into Baskets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0904.fruit_into_baskets.md) | 数组、滑动窗口 | Medium |
 |	0995 | Minimum Number of K Consecutive Bit Flips | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0995.minimum_number_of_K_consecutive_bit_flips.md) | 数组、滑动窗口 | Hard |
 
 ## Binary search
