@@ -43,6 +43,8 @@ Solutions to LeetCode by Python and JS.
 |	0567 | Permutation in String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0567.permutation_in_string.md) | 字符串、滑动窗口 | Medium |
 |	0713 | Subarray Product Less Than K | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0713.subarray_product_less_than_K.md) | 数组、滑动窗口 | Medium |
 |	0904 | Fruit Into Baskets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0904.fruit_into_baskets.md) | 数组、滑动窗口 | Medium |
+|	0030 | Substring with Concatenation of All Words | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0030.substring_with_concatenation_of_all_words.md) | 字符串、滑动窗口 | Hard |
+|	0076 | Minimum Window Substring | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0076.minimum_window_substring.md) | 字符串、滑动窗口 | Hard |
 |	0995 | Minimum Number of K Consecutive Bit Flips | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0995.minimum_number_of_K_consecutive_bit_flips.md) | 数组、滑动窗口 | Hard |
 
 ## Binary search
@@ -149,6 +151,7 @@ Solutions to LeetCode by Python and JS.
 |	--- |	--- | --- | --- | --- |
 |	0169 | Majority Element | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0169.majority_element.md) | 数组、哈希表、Moore's Voting Algorithm | Easy |
 |	0268 | Missing Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0268.missing_number.md) | 数组、位运算、哈希表 | Easy |
+|	0005 | Longest Palindromic Substring | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0005.longest_palindromic_substring.md) | 字符串、双指针、滑动窗口、DP、Manacher's algorithm | Medium |
 |	0015 | 3Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0015.3Sum.md) | 数组、哈希表、双指针、排序 | Medium |
 |	0031 | Next Permutation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0031.next_permutation.md) | 数组、字典序 | Medium |
 |	0045 | Jump Game II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0045.jump_game_II.md) | 数组、贪心、动态规划 | Medium |
