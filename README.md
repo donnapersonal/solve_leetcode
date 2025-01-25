@@ -76,7 +76,6 @@ Solutions to LeetCode by Python and JS.
 |	0981 | Time Based Key-Value Store | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0981.time_based_Key-Value_store.md) | 设计、二分查找 | Medium |
 |	0004 | Median of Two Sorted Arrays | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0004.median_of_two_sorted_arrays.md) | 数组、二分查找 | Hard |
 
-
 ## Sort
 
 |	No. |	Title |	Solution | Tags | Difficulty |
@@ -128,12 +127,6 @@ Solutions to LeetCode by Python and JS.
 |	0642 | Design Search Autocomplete System | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0642.design_search_autocomplete_system.md) | 设计、字典树 | Hard |
 |	0745 | Prefix and Suffix Search | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0745.prefix_and_suffix_search.md) | 设计、字典树 | Hard |
 
-## Math/Design
-
-|	No. |	Title |	Solution | Tags | Difficulty |
-|	--- |	--- | --- | --- | --- |
-
-
 ## Greedy
 
 |	No. |	Title |	Solution | Tags | Difficulty |
@@ -180,6 +173,12 @@ Solutions to LeetCode by Python and JS.
 |	--- |	--- | --- | --- | --- |
 |	0136 | Single Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0136.single_number.md) | 数组、位运算 | Easy |
 
+## Recursion/Iteration
+
+|	No. |	Title |	Solution | Tags | Difficulty |
+|	--- |	--- | --- | --- | --- |
+|	0024 | Swap Nodes in Pairs | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Recursion_iteration/0024.swap_nodes_in_pairs.md) | 链表、递归、迭代 | Medium |
+
 ## Multiple ideas
 
 |	No. |	Title |	Solution | Tags | Difficulty |
@@ -192,7 +191,6 @@ Solutions to LeetCode by Python and JS.
 |	0005 | Longest Palindromic Substring | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0005.longest_palindromic_substring.md) | 字符串、双指针、滑动窗口、Manacher's algorithm | Medium |
 |	0015 | 3Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0015.3Sum.md) | 数组、哈希表、双指针、排序 | Medium |
 |	0019 | Remove Nth Node From End of List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0019.remove_Nth_node_from_end_of_list.md) | 链表、双指针、递归 | Medium |
-|	0024 | Swap Nodes in Pairs | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0024.swap_nodes_in_pairs.md) | 链表、递归、迭代 | Medium |
 |	0031 | Next Permutation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0031.next_permutation.md) | 数组、字典序 | Medium |
 |	0045 | Jump Game II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0045.jump_game_II.md) | 数组、贪心、动态规划 | Medium |
 |	0055 | Jump Game | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0055.jump_game.md) | 数组、动态规划、贪心 | Medium |
