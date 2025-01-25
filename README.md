@@ -67,11 +67,13 @@ Solutions to LeetCode by Python and JS.
 |	0744 | Find Smallest Letter Greater Than Target | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0744.find_smallest_letter_greater_than_target.md) | 数组、二分查找 | Easy |
 |	0033 | Search in Rotated Sorted Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0033.search_in_rotated_sorted_array.md) | 数组、二分查找 | Medium |
 |	0034 | Find First and Last Position of Element in Sorted Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0034.find_first_and_last_position_of_element_in_sorted_array.md) | 数组、二分查找 | Medium |
+|	0074 | Search a 2D Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0074.search_a_2D_matrix.md) | 矩阵、二分查找 | Medium |
 |	0081 | Search in Rotated Sorted Array II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0081.search_in_rotated_sorted_array_II.md) | 数组、二分查找 | Medium |
 |	0153 | Find Minimum in Rotated Sorted Array | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0153.find_minimum_in_rotated_sorted_array.md) | 数组、二分查找 | Medium |
 |	0162 | Find Peak Element | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0162.find_peak_element.md) | 数组、二分查找 | Medium |
 |	0658 | Find K Closest Elements | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0658.find_K_closest_elements.md) | 数组、二分查找 | Medium |
 |	0852 | Peak Index in a Mountain Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0852.peak_index_in_a_mountain_array.md) | 数组、二分查找 | Medium |
+|	0981 | Time Based Key-Value Store | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0981.time_based_Key-Value_store.md) | 设计、二分查找 | Medium |
 |	0004 | Median of Two Sorted Arrays | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0004.median_of_two_sorted_arrays.md) | 数组、二分查找 | Hard |
 
 
@@ -121,6 +123,10 @@ Solutions to LeetCode by Python and JS.
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	1065 | Index Pairs of a String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/1065.index_pairs_of_a_string.md) | 字符串、字典树 | Easy |
+|	0208 | Implement Trie (Prefix Tree) | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0208.implement_trie(prefix_tree).md) | 设计、字典树、哈希表、字符串 | Medium |
+|	0642 | Design Search Autocomplete System | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0642.design_search_autocomplete_system.md) | 设计、字典树 | Hard |
+|	0745 | Prefix and Suffix Search | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0745.prefix_and_suffix_search.md) | 设计、字典树 | Hard |
 
 ## Math/Design
 
@@ -132,10 +138,12 @@ Solutions to LeetCode by Python and JS.
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0409 | Longest Palindrome | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0409.longest_palindrome.md) | 字符串、贪心 | Easy |
 |	0435 | Non-overlapping Intervals | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0435.non-overlapping_intervals.md) | 数组、贪心 + 排序 | Medium |
 |	0452 | Minimum Number of Arrows to Burst Balloons | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0452.minimum_number_of_arrows_to_burst_balloons.md) | 数组、贪心 + 排序 | Medium |
 |	0621 | Task Scheduler | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0621.task_scheduler.md) | 数组、贪心 | Medium |
 |	0763 | Partition Labels | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0763.partition_labels.md) | 字符串、贪心 | Medium |
+|	0767 | Reorganize String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0767.reorganize_string.md) | 字符串、贪心 | Medium |
 
 ## Backtracking
 
