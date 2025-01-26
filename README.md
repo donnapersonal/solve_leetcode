@@ -177,7 +177,19 @@ Solutions to LeetCode by Python and JS.
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0203 | Remove Linked List Elements | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Recursion_iteration/0203.remove_linked_list_element.md) | 链表、迭代 | Easy |
 |	0024 | Swap Nodes in Pairs | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Recursion_iteration/0024.swap_nodes_in_pairs.md) | 链表、递归、迭代 | Medium |
+|	0025 | Reverse Nodes in k-Group | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Recursion_iteration/0025.reverse_nodes_in_k-Group.md) | 链表、递归、迭代 | Hard |
+
+## Simulation
+
+|	No. |	Title |	Solution | Tags | Difficulty |
+|	--- |	--- | --- | --- | --- |
+|	0002 | Add Two Numbers | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0002.add_two_numbers.md) | 链表、模拟 | Medium |
+|	0008 | String to Integer (atoi) | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0008.string_to_integer_(atoi).md) | 数学、模拟 | Medium |
+|	0048 | Rotate Image | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0048.rotate_image.md) | 数组、数学、矩阵 | Medium |
+|	0054 | Spiral Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0054.spiral_matrix.md) | 数组、数学、矩阵 | Medium |
+
 
 ## Multiple ideas
 
@@ -187,7 +199,7 @@ Solutions to LeetCode by Python and JS.
 |	0169 | Majority Element | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0169.majority_element.md) | 数组、哈希表、Moore's Voting Algorithm | Easy |
 |	0206 | Reverse Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0206.reverse_linked_list.md) | 链表、多指针、递归 | Easy |
 |	0268 | Missing Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0268.missing_number.md) | 数组、位运算、哈希表 | Easy |
-|	0844 | Backspace String Compare | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0844.backspace_string_compare.md) | 字符串、栈、双指针、模拟 | Easy |
+|	0844 | Backspace String Compare | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0844.backspace_string_compare.md) | 字符串、栈、双指针 | Easy |
 |	0005 | Longest Palindromic Substring | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0005.longest_palindromic_substring.md) | 字符串、双指针、滑动窗口、Manacher's algorithm | Medium |
 |	0015 | 3Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0015.3Sum.md) | 数组、哈希表、双指针、排序 | Medium |
 |	0019 | Remove Nth Node From End of List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0019.remove_Nth_node_from_end_of_list.md) | 链表、双指针、递归 | Medium |
@@ -195,6 +207,7 @@ Solutions to LeetCode by Python and JS.
 |	0045 | Jump Game II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0045.jump_game_II.md) | 数组、贪心、动态规划 | Medium |
 |	0055 | Jump Game | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0055.jump_game.md) | 数组、动态规划、贪心 | Medium |
 |	0092 | Reverse Linked List II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0092.reverse_linked_list_II.md) | 链表、双指针、递归 | Medium |
+|	0138 | Copy List with Random Pointer | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0138.copy_list_with_random_pointer.md) | 链表、哈希、DFS、原地修改 | Medium |
 |	0143 | Reorder List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0143.reorder_list.md) | 链表、栈、双指针 | Medium |
 |	0215 | Kth Largest Element in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0215.Kth_largest_element_in_an_array.md) | 数组、优先级队列（堆）、快速排序 | Medium |
 |	0240 | Search a 2D Matrix II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0240.search_a_2D_matrix_II.md) | 数组、矩阵、二分查找、双指针 | Medium |
