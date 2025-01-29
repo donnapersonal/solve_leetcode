@@ -189,12 +189,13 @@ Solutions to LeetCode by Python and JS.
 |	0008 | String to Integer (atoi) | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0008.string_to_integer_(atoi).md) | 数学、模拟 | Medium |
 |	0048 | Rotate Image | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0048.rotate_image.md) | 数组、数学、矩阵 | Medium |
 |	0054 | Spiral Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0054.spiral_matrix.md) | 数组、数学、矩阵 | Medium |
-
+|	0146 | LRU Cache | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0146.LRU_cache.md) | 设计、数据结构 | Medium |
 
 ## Multiple ideas
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0067 | Add Binary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0067.add_binary.md) | 字符串、位运算、数学、模拟 | Easy |
 |	0141 | Linked List Cycle | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0141.linked_list_cycle.md) | 链表、哈希表、双指针 | Easy |
 |	0169 | Majority Element | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0169.majority_element.md) | 数组、哈希表、Moore's Voting Algorithm | Easy |
 |	0206 | Reverse Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0206.reverse_linked_list.md) | 链表、多指针、递归 | Easy |
@@ -213,6 +214,7 @@ Solutions to LeetCode by Python and JS.
 |	0240 | Search a 2D Matrix II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0240.search_a_2D_matrix_II.md) | 数组、矩阵、二分查找、双指针 | Medium |
 |	0287 | Find the Duplicate Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0287.find_the_duplicate_number.md) | 数组、双指针、二分查找 | Medium |
 |	0347 | Top K Frequent Elements | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0347.top_K_frequent_elements.md) | 数组、哈希表、优先级队列 | Medium |
+|	0378 | Kth Smallest Element in a Sorted Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0378.Kth_smallest_element_in_a_sorted_matrix.md) | 矩阵、链表双指针、二分查找、优先级队列（堆）| Medium |
 |	0421 | Maximum XOR of Two Numbers in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0421.maximum_XOR_of_two_numbers_in_an_array.md) | 数组、位运算、字典树、哈希表 | Medium |
 |	0494 | Target Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0494.target_sum.md) | 数组、回溯、动态 | Medium |
 |	0698 | Partition to K Equal Sum Subsets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0698.partition_to_K_equal_sum_subsets.md) | 数组、动态规划、回溯、位运算、记忆化搜索 | Medium |
