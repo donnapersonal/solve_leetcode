@@ -122,7 +122,24 @@ Solutions to LeetCode by Python and JS.
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0094 | Binary Tree Inorder Traversal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0094.binary_tree_inorder_traversal.md) | 二叉树、DFS、迭代 | Easy |
+|	0100 | Same Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0100.same%20_tree.md) | 二叉树、递归 | Easy |
+|	0101 | Symmetric Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0101.symmetric_tree.md) | 二叉树、DFS、迭代 | Easy |
+|	0104 | Maximum Depth of Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0104.maximum_depth_of_binary_tree.md) | 二叉树、层次遍历、递归 | Easy |
+|	0108 | Convert Sorted Array to Binary Search Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0108.convert_sorted_array_to_binary_search_tree.md) | 二叉树、递归、迭代 | Easy |
+|	0110 | Balanced Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0110.balanced_binary_tree.md) | 二叉树、DFS、迭代 | Easy |
+|	0111 | Minimum Depth of Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0111.minimum_depth_of_binary_tree.md) | 二叉树、BFS、DFS | Easy |
+|	0112 | Path Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0112.path_sum.md) | 二叉树、DFS、迭代 | Easy |
+|	0226 | Invert Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0226.invert_binary_tree.md) | 二叉树、BFS、DFS | Easy |
+|	0257 | Binary Tree Paths | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0257.binary_tree_paths.md) | 二叉树、DFS、迭代 | Easy |
+|	0543 | Diameter of Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0543.diameter_of_binary_tree.md) | 二叉树、DFS | Easy |
+|	0572 | Subtree of Another Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0572.subtree_of_another_tree.md) | 二叉树、DFS | Easy |
+|	0617 | Merge Two Binary Trees | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0617.merge_two_binary_trees.md) | 二叉树、递归、迭代 | Easy |
+|	0637 | Average of Levels in Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0637.average_of_levels_in_binary_tree.md) | 二叉树、BFS | Easy |
 |	1065 | Index Pairs of a String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/1065.index_pairs_of_a_string.md) | 字符串、字典树 | Easy |
+|	0098 | Validate Binary Search Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0098.validate_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
+|	0102 | Binary Tree Level Order Traversal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0102.binary_tree_level_order_traversal.md) | 二叉树、BFS | Medium |
+|	0103 | Binary Tree Zigzag Level Order Traversal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0103.binary_tree_zigzag_level_order_traversal.md) | 二叉树、层次遍历 | Medium |
 |	0208 | Implement Trie (Prefix Tree) | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0208.implement_trie(prefix_tree).md) | 设计、字典树、哈希表、字符串 | Medium |
 |	0642 | Design Search Autocomplete System | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0642.design_search_autocomplete_system.md) | 设计、字典树 | Hard |
 |	0745 | Prefix and Suffix Search | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0745.prefix_and_suffix_search.md) | 设计、字典树 | Hard |
