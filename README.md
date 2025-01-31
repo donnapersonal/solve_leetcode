@@ -140,7 +140,16 @@ Solutions to LeetCode by Python and JS.
 |	0098 | Validate Binary Search Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0098.validate_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0102 | Binary Tree Level Order Traversal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0102.binary_tree_level_order_traversal.md) | 二叉树、BFS | Medium |
 |	0103 | Binary Tree Zigzag Level Order Traversal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0103.binary_tree_zigzag_level_order_traversal.md) | 二叉树、层次遍历 | Medium |
+|	0105 | Construct Binary Tree from Preorder and Inorder Traversal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0105.construct_binary_tree_from_preorder_and_inorder_traversal.md) | 二叉树、递归 | Medium |
+|	0107 | Binary Tree Level Order Traversal II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0107.binary_tree_level_order_traversal_II.md) | 二叉树、BFS | Medium |
+|	0113 | 113.Path Sum II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0113.path_sum_II.md) | 二叉树、递归、迭代 | Medium |
+|	0114 | Flatten Binary Tree to Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0114.flatten_binary_tree_to_linked_list.md) | 二叉树、递归、迭代 | Medium |
+|	0199 | Binary Tree Right Side View | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0199.binary_tree_right_side_view.md) | 二叉树、BFS、DFS | Medium |
 |	0208 | Implement Trie (Prefix Tree) | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0208.implement_trie(prefix_tree).md) | 设计、字典树、哈希表、字符串 | Medium |
+|	0230 | Kth Smallest Element in a BST | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0230.Kth_smallest_element_in_a_BST.md) | 二叉树、递归、迭代 | Medium |
+|	0235 | Lowest Common Ancestor of a Binary Search Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0235.lowest_common_ancestor_of_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
+|	0236 | Lowest Common Ancestor of a Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | Medium |
+|	0437 | Path Sum III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0437.path_sum_III.md) | 二叉树、DFS | Medium |
 |	0642 | Design Search Autocomplete System | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0642.design_search_autocomplete_system.md) | 设计、字典树 | Hard |
 |	0745 | Prefix and Suffix Search | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0745.prefix_and_suffix_search.md) | 设计、字典树 | Hard |
 
