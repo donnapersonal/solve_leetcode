@@ -149,8 +149,14 @@ Solutions to LeetCode by Python and JS.
 |	0230 | Kth Smallest Element in a BST | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0230.Kth_smallest_element_in_a_BST.md) | 二叉树、递归、迭代 | Medium |
 |	0235 | Lowest Common Ancestor of a Binary Search Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0235.lowest_common_ancestor_of_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0236 | Lowest Common Ancestor of a Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | Medium |
+|	0310 | Minimum Height Trees | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0310.minimum_height_trees.md) | 二叉树、BFS、拓扑排序 | Medium |
 |	0437 | Path Sum III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0437.path_sum_III.md) | 二叉树、DFS | Medium |
+|	0654 | Maximum Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0654.maximum_binary_tree.md) | 二叉树、递归 | Medium |
 |	0642 | Design Search Autocomplete System | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0642.design_search_autocomplete_system.md) | 设计、字典树 | Hard |
+|	0662 | Maximum Width of Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0662.maximum_width_of_binary_tree.md) | 二叉树、DFS、BFS | Medium |
+|	0863 | All Nodes Distance K in Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0863.all_nodes_distance_K_in_binary_tree.md) | 二叉树、BFS、DFS | Medium |
+|	0124 | Binary Tree Maximum Path Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0124.binary_tree_maximum_path_sum.md) | 二叉树、深度优先搜索 | Hard |
+|	0297 | Serialize and Deserialize Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0297.serialize_and_deserialize_binary_tree.md) | 二叉树、DFS、层序遍历 | Hard |
 |	0745 | Prefix and Suffix Search | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0745.prefix_and_suffix_search.md) | 设计、字典树 | Hard |
 
 ## Greedy
