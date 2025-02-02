@@ -189,7 +189,11 @@ Solutions to LeetCode by Python and JS.
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0200 | Number of Islands | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0200.number_of_islands.md) | 矩阵、BFS、DFS | Medium |
+|	0417 | Pacific Atlantic Water Flow | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0417.pacific_atlantic_water_flow.md) | 矩阵、BFS、DFS | Medium |
+|	0542 | 01 Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0542.01_matrix.md) | 矩阵、BFS | Medium |
 |	0269 | Alien Dictionary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0269.alien_dictionary.md) | 数组、拓扑排序 | Hard |
+|	0994 | Rotting Oranges | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0994.rotting_oranges.md) | 矩阵、BFS | Medium |
 |	1203 | Sort Items by Groups Respecting Dependencies | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/1203.sort_items_by_groups_respecting_dependencies.md) | 数组、拓扑排序 | Hard |
 
 ## Scan
