@@ -174,6 +174,24 @@ Solutions to LeetCode by Python and JS.
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0017 | Letter Combinations of a Phone Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0017.letter_combinations_of_a_phone_number.md) | 组合、回溯 | Medium |
+|	0022 | Generate Parentheses | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0022.generate_parentheses.md) | 组合、回溯 | Medium |
+|	0039 | Combination Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0039.combination_sum.md) | 组合、回溯 | Medium |
+|	0040 | Combination Sum II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0040.combination_sum_II.md) | 组合、回溯 | Medium |
+|	0046 | Permutations | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/) | 排列、回溯 | Medium |
+|	0047 | Permutations II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0047.permutations_II.md) | 排列、回溯 | Medium |
+|	0077 | Combinations | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0077.combinations.md) | 组合、回溯 | Medium |
+|	0078 | Subsets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0078.subsets.md) | 子集、回溯 | Medium |
+|	0079 | Word Search | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0079.word_search.md) | 矩阵、回溯 | Medium |
+|	0090 | Subsets II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0090.subsets_II.md) | 子集、回溯 | Medium |
+|	0131 | Palindrome Partitioning | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0131.palindrome_partitioning.md) | 分割、回溯 | Medium |
+|	0216 | Combination Sum III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0216.ombination_sum_III.md) | 组合、回溯 | Medium |
+|	0254 | Factor Combinations | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0254.factor_combinations.md) | 组合、回溯 | Medium |
+|	0320 | Generalized Abbreviation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0320.generalized_abbreviation.md) | 字符串、回溯 | Medium |
+|	0784 | Letter Case Permutation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0784.letter_case_permutation.md) | 字符串、回溯 | Medium |
+|	1593 | Split a String Into the Max Number of Unique Substrings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/1593.split_a_string_into_the_max_number_of_unique_substrings.md) | 字符串、回溯 | Medium |
+|	0037 | Sudoku Solver | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0037.sudoku_solver.md) | 数独、回溯 | Hard |
+|	0051 | N-Queens | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0051.N-Queens.md) | 棋盘、回溯 | Hard |
 |	0425 | Word Squares | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0425.word_squares.md) | 数组、回溯 + 字典树 | Hard |
 
 ## Dynamic Programming
