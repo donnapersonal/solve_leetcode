@@ -198,8 +198,15 @@ Solutions to LeetCode by Python and JS.
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0070 | Climbing Stairs | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0070.climbing_stairs.md) | 动态规划 | Easy |
 |	0053 | Maximum Subarray | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0053.maximum_subarray.md) | 数组、动态规划 | Medium |
+|	0064 | Minimum Path Sum | [Js/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0064.%E6%9C%80%E5%B0%8F%E8%B7%AF%E5%BE%84%E5%92%8C.md) | 矩阵、动态规划 | Medium |
+|	0072 | Edit Distance | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0072.edit_distance.md) | 字符串、动态规划 | Medium |
+|	0091 | Decode Ways | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0091.decode_ways.md) | 字符串、动态规划 | Medium |
+|	0139 | Word Break | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0139.word_break.md) | 动态规划 | Medium |
 |	0152 | Maximum Product Subarray | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0152.maximum_product_subarray.md) | 数组、动态规划 | Medium |
+|	0198 | House Robber | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0198.house_robber.md) | 动态规划 | Medium |
+|	0213 | House Robber II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0213.house_robber_II.md) | 动态规划 | Medium |
 |	0416 | Partition Equal Subset Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0416.partition_equal_subset_sum.md) | 数组、动态规划 | Medium |
 |	1235 | Maximum Profit in Job Scheduling | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1235.maximum_profit_in_job_scheduling.md) | 数组、动态规划 | Hard |
 
@@ -218,6 +225,8 @@ Solutions to LeetCode by Python and JS.
 |	0323 | Number of Connected Components in an Undirected Graph | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0323.number_of_connected_components_in_an_undirected_graph.md) | 图、BFS、DFS、并查集 | Medium |
 |	0444 | Sequence Reconstruction | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0444.sequence_reconstruction.md) | 图、拓扑排序 | Medium |
 |	0994 | Rotting Oranges | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0994.rotting_oranges.md) | 矩阵、BFS | Medium |
+|	0127 | Word Ladder | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0127.word_ladder.md) | 字符串、BFS | Hard |
+|	0212 | Word Search II | [JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0212.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2%20II.md) | 矩阵、DFS | Hard |
 |	0269 | Alien Dictionary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0269.alien_dictionary.md) | 数组、拓扑排序 | Hard |
 |	1203 | Sort Items by Groups Respecting Dependencies | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/1203.sort_items_by_groups_respecting_dependencies.md) | 数组、拓扑排序 | Hard |
 
@@ -257,6 +266,7 @@ Solutions to LeetCode by Python and JS.
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0067 | Add Binary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0067.add_binary.md) | 字符串、位运算、数学、模拟 | Easy |
+|	0118 | Pascal's Triangle | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0118.pascal's_triangle.md) | 数学、动态规划、递归、迭代 | Easy |
 |	0141 | Linked List Cycle | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0141.linked_list_cycle.md) | 链表、哈希表、双指针 | Easy |
 |	0169 | Majority Element | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0169.majority_element.md) | 数组、哈希表、Moore's Voting Algorithm | Easy |
 |	0206 | Reverse Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0206.reverse_linked_list.md) | 链表、多指针、递归 | Easy |
