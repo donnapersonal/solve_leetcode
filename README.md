@@ -207,6 +207,8 @@ Solutions to LeetCode by Python and JS.
 |	0152 | Maximum Product Subarray | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0152.maximum_product_subarray.md) | 数组、动态规划 | Medium |
 |	0198 | House Robber | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0198.house_robber.md) | 动态规划 | Medium |
 |	0213 | House Robber II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0213.house_robber_II.md) | 动态规划 | Medium |
+|	0300 | Longest Increasing Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0300.longest_increasing_subsequence.md) | 动态规划 | Medium |
+|	0309 | Best Time to Buy and Sell Stock with Cooldown | [JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0309.%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA%E5%90%AB%E5%86%B7%E5%86%BB%E6%9C%9F.md) | 动态规划 | Medium |
 |	0416 | Partition Equal Subset Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0416.partition_equal_subset_sum.md) | 数组、动态规划 | Medium |
 |	1235 | Maximum Profit in Job Scheduling | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1235.maximum_profit_in_job_scheduling.md) | 数组、动态规划 | Hard |
 
