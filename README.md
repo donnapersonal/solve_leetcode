@@ -214,6 +214,7 @@ Solutions to LeetCode by Python and JS.
 |	0416 | Partition Equal Subset Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0416.partition_equal_subset_sum.md) | 数组、动态规划 | Medium |
 |	0673 | Number of Longest Increasing Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0673.number_of_longest_increasing_subsequence.md) | 动态规划 | Medium |
 |	1143 | Longest Common Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1143.longest_common_subsequence.md) | 动态规划 | Medium |
+|	0828 | Count Unique Characters of All Substrings of a Given String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0828.coun_unique_characters_of_all_substrings_of_a_given_string.md) | 字符串、动态规划 | Hard |
 |	1235 | Maximum Profit in Job Scheduling | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1235.maximum_profit_in_job_scheduling.md) | 数组、动态规划 | Hard |
 
 ## Graph
@@ -292,7 +293,9 @@ Solutions to LeetCode by Python and JS.
 |	0143 | Reorder List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0143.reorder_list.md) | 链表、栈、双指针 | Medium |
 |	0215 | Kth Largest Element in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0215.Kth_largest_element_in_an_array.md) | 数组、优先级队列（堆）、快速排序 | Medium |
 |	0240 | Search a 2D Matrix II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0240.search_a_2D_matrix_II.md) | 数组、矩阵、二分查找、双指针 | Medium |
+|	0279 | Perfect Squares | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0279.perfect_squares.md) | 数学、BFS、动态优化 | Medium |
 |	0287 | Find the Duplicate Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0287.find_the_duplicate_number.md) | 数组、双指针、二分查找 | Medium |
+|	0322 | Coin Change | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0322.coin_change.md) | 动态规划、BFS | Medium |
 |	0347 | Top K Frequent Elements | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0347.top_K_frequent_elements.md) | 数组、哈希表、优先级队列 | Medium |
 |	0378 | Kth Smallest Element in a Sorted Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0378.Kth_smallest_element_in_a_sorted_matrix.md) | 矩阵、链表双指针、二分查找、优先级队列（堆）| Medium |
 |	0421 | Maximum XOR of Two Numbers in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0421.maximum_XOR_of_two_numbers_in_an_array.md) | 数组、位运算、字典树、哈希表 | Medium |
@@ -308,6 +311,7 @@ Solutions to LeetCode by Python and JS.
 |	0084 | Largest Rectangle in Histogram | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0084.largest_rectangle_in_histogram.md) | 双指针、栈、单调栈 | Hard |
 |	0336 | Palindrome Pairs | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0336.palindrome_pairs.md) | 数组、字符串、字典树、哈希表 | Hard |
 |	0472 | Concatenated Words | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0472.concatenated_words.md) | 数组、递归、记忆化搜索（备忘录）、字典树 | Hard |
+
 
 
 
