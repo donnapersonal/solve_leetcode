@@ -7,7 +7,9 @@ Solutions to LeetCode by Python and JS.
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0001 | Two Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0001.two_sum.md) | 数组、哈希表 | Easy |
+|	0205 | Isomorphic Strings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0205.isomorphic_strings.md) | 数组、哈希表 | Easy |
 |	0217 | Contains Duplicate | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0217.contains_duplicate.md) | 数组、哈希表、排序 | Easy |
+|	0219 | Contains Duplicate II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0219.contains_duplicate_II.md) | 数组、哈希表、滑动窗口 | Easy |
 |	0242 | Valid Anagram | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0242.valid_anagram.md) | 字符串、哈希表 | Easy |
 |	0383 | Ransom Note | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0383.ransom_note.md) | 字符串、哈希表 | Easy |
 |	0448 | Find All Numbers Disappeared in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0448.find_all_numbers_disappeared_in_an_array.md) | 数组、哈希表 | Easy |
@@ -278,6 +280,7 @@ Solutions to LeetCode by Python and JS.
 |	0121 | Best Time to Buy and Sell Stock | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0121.best_time_to_buy_and_sell_stock.md) | 数组、递推、DP | Easy |
 |	0141 | Linked List Cycle | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0141.linked_list_cycle.md) | 链表、哈希表、双指针 | Easy |
 |	0169 | Majority Element | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0169.majority_element.md) | 数组、哈希表、Moore's Voting Algorithm | Easy |
+|	0202 | Happy Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0202.happy_number.md) | 数学、哈希表、双指针 | Easy |
 |	0206 | Reverse Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0206.reverse_linked_list.md) | 链表、多指针、递归 | Easy |
 |	0268 | Missing Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0268.missing_number.md) | 数组、位运算、哈希表 | Easy |
 |	0844 | Backspace String Compare | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0844.backspace_string_compare.md) | 字符串、栈、双指针 | Easy |
