@@ -93,6 +93,7 @@ Solutions to LeetCode by Python and JS.
 |	0020 | Valid Parentheses | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0020.valid_parentheses.md) | 字符串、栈 | Easy |
 |	0150 | Evaluate Reverse Polish Notation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0150.evaluate_reverse_polish_notation.md) | 数组、栈 | Medium |
 |	0232 | Implement Queue using Stacks | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0232.implement_queue_using_stacks.md) | 设计、栈 | Easy |
+|	0071 | Simplify Path | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0071.simplify_path.md) | 字符串、栈 | Medium |
 |	0155 | Min Stack | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/) | 设计、栈 | Medium |
 |	0394 | Decode String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0394.decode_string.md) | 字符串、栈 | Medium |
 |	0739 | Daily Temperatures | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0739.daily_temperatures.md) | 数组、栈、单调栈 | Medium |
