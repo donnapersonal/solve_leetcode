@@ -37,6 +37,7 @@ Solutions to LeetCode by Python and JS.
 |	0061 | Rotate List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0061.rotate_list.md) | 链表、双指针 | Medium |
 |	0075 | Sort Colors | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0075.sort_colors.md) | 数组、双指针 | Medium |
 |	0142 | Linked List Cycle II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0142.linked_list_cycle_II.md) | 链表、双指针 | Medium |
+|	0167 | Two Sum II - Input Array Is Sorted | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0167.two_sum_II-input_array_is_sorted.md) | 数组、双指针 | Medium |
 |	0189 | Rotate Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0189.potate_array.md) | 数组、双指针 + 数组翻转 | Medium |
 |	0253 | Meeting Rooms II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0253.meeting_rooms_II.md) | 数组、双指针 + 排序 | Medium |
 |	0328 | Odd Even Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0328.odd_even_linked_list.md) | 链表、双指针 | Medium |
