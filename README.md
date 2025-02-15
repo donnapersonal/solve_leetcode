@@ -105,7 +105,6 @@ Solutions to LeetCode by Python and JS.
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0373 | Find K Pairs with Smallest Sums | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0373.find_K_pairs_with_smallest_sums.md) | 数组、优先级队列（堆）+ 链表双指针 | Medium |
-|	0451 | Sort Characters By Frequency | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0451.sort_characters_by_frequency.md) | 字符串、优先级队列（二叉堆）| Medium |
 |	0239 | Sliding Window Maximum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0239.sliding_window_maximum.md) | 数组、队列、单调队列、优先级队列（堆）| Hard |
 |	0295 | Find Median from Data Stream | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0295.find_median_from_data_stream.md) | 设计、数组、优先级队列 | Hard |
 |	0358 | Rearrange String k Distance Apart | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0358.rearrange_string_k_distance_apart.md) | 字符串、优先级队列 (最大堆) | Hard |
@@ -304,6 +303,7 @@ Solutions to LeetCode by Python and JS.
 |	0347 | Top K Frequent Elements | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0347.top_K_frequent_elements.md) | 数组、哈希表、优先级队列 | Medium |
 |	0378 | Kth Smallest Element in a Sorted Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0378.Kth_smallest_element_in_a_sorted_matrix.md) | 矩阵、链表双指针、二分查找、优先级队列（堆）| Medium |
 |	0421 | Maximum XOR of Two Numbers in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0421.maximum_XOR_of_two_numbers_in_an_array.md) | 数组、位运算、字典树、哈希表 | Medium |
+|	0451 | Sort Characters By Frequency | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0451.sort_characters_by_frequency.md) | 字符串、优先级队列（二叉堆）、桶排序| Medium |
 |	0494 | Target Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0494.target_sum.md) | 数组、回溯、动态 | Medium |
 |	0647 | Palindromic Substrings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0647.palindromic_substrings.md) | 字符串、动态规划、双指针中心扩展、Manacher 算法 | Medium |
 |	0698 | Partition to K Equal Sum Subsets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0698.partition_to_K_equal_sum_subsets.md) | 数组、动态规划、回溯、位运算、记忆化搜索 | Medium |
