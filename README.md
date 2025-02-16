@@ -252,6 +252,10 @@ Solutions to LeetCode by Python and JS.
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0136 | Single Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0136.single_number.md) | 数组、位运算 | Easy |
+|	0190 | Reverse Bits | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0190.reverse_bits.md) | 位运算 | Easy |
+|	0191 | Number of 1 Bits | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0191.number_of_1_bits.md) | 位运算 | Easy |
+|	0137 | 137.Single Number II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0137.single_number_II.md) | 数组、位运算 | Medium |
+|	0201 | Bitwise AND of Numbers Range | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0201.bitwise_AND_of_numbers_range.md) | 位运算 | Medium |
 
 ## Recursion/Iteration
 
