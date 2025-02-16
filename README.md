@@ -167,6 +167,8 @@ Solutions to LeetCode by Python and JS.
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0409 | Longest Palindrome | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0409.longest_palindrome.md) | 字符串、贪心 | Easy |
+|	0045 | Jump Game II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0045.jump_game_II.md) | 数组、贪心 | Medium |
+|	0055 | Jump Game | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0055.jump_game.md) | 数组、动态规划、贪心 | Medium |
 |	0435 | Non-overlapping Intervals | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0435.non-overlapping_intervals.md) | 数组、贪心 + 排序 | Medium |
 |	0452 | Minimum Number of Arrows to Burst Balloons | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0452.minimum_number_of_arrows_to_burst_balloons.md) | 数组、贪心 + 排序 | Medium |
 |	0621 | Task Scheduler | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0621.task_scheduler.md) | 数组、贪心 | Medium |
@@ -293,8 +295,6 @@ Solutions to LeetCode by Python and JS.
 |	0015 | 3Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0015.3Sum.md) | 数组、哈希表、双指针、排序 | Medium |
 |	0019 | Remove Nth Node From End of List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0019.remove_Nth_node_from_end_of_list.md) | 链表、双指针、递归 | Medium |
 |	0031 | Next Permutation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0031.next_permutation.md) | 数组、字典序 | Medium |
-|	0045 | Jump Game II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0045.jump_game_II.md) | 数组、贪心、动态规划 | Medium |
-|	0055 | Jump Game | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0055.jump_game.md) | 数组、动态规划、贪心 | Medium |
 |	0062 | Unique Paths | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0062.unique_paths.md) | 矩阵、数学、动态规划、组合数学 | Medium |
 |	0092 | Reverse Linked List II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0092.reverse_linked_list_II.md) | 链表、双指针、递归 | Medium |
 |	0138 | Copy List with Random Pointer | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0138.copy_list_with_random_pointer.md) | 链表、哈希、DFS、原地修改 | Medium |
