@@ -202,7 +202,8 @@ Solutions to LeetCode by Python and JS.
 |	0784 | Letter Case Permutation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0784.letter_case_permutation.md) | 字符串、回溯 | Medium |
 |	1593 | Split a String Into the Max Number of Unique Substrings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/1593.split_a_string_into_the_max_number_of_unique_substrings.md) | 字符串、回溯 | Medium |
 |	0037 | Sudoku Solver | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0037.sudoku_solver.md) | 数独、回溯 | Hard |
-|	0051 | N-Queens | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0051.N-Queens.md) | 棋盘、回溯 | Hard |
+|	0051 | N-Queens | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0052.N-Queens_II.md) | 棋盘、回溯 | Hard |
+|	0052 | N-Queens II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/) | 棋盘、回溯 | Hard |
 |	0425 | Word Squares | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0425.word_squares.md) | 数组、回溯 + 字典树 | Hard |
 
 ## Dynamic Programming
