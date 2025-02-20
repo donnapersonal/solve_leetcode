@@ -233,22 +233,24 @@ Solutions to LeetCode by Python and JS.
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
-|	0733 | Flood Fill | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0733.flood_fill.md) | 图、DFS、BFS | Easy |
-|	0130 | Surrounded Regions | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0130.surrounded_regions.md) | 图、BFS、DFS、并查集 | Medium |
-|	0133 | Clone Graph | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0133.clone_graph.md) | 图、BFS、DFS | Medium |
-|	0200 | Number of Islands | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0200.number_of_islands.md) | 矩阵、BFS、DFS | Medium |
-|	0207 | Course Schedule | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0207.course_schedule.md) | 图、DFS、拓扑排序 | Medium |
-|	0210 | Course Schedule II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0210.course_schedule_II.md) | 图、BFS、DFS | Medium |
-|	0261 | Graph Valid Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0261.graph_valid_tree.md) | 图、并查集 | Medium |
-|	0399 | Evaluate Division | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0399.evaluate_division.md) | 图、BFS | Medium |
-|	0417 | Pacific Atlantic Water Flow | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0417.pacific_atlantic_water_flow.md) | 矩阵、BFS、DFS | Medium |
-|	0323 | Number of Connected Components in an Undirected Graph | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0323.number_of_connected_components_in_an_undirected_graph.md) | 图、BFS、DFS、并查集 | Medium |
-|	0444 | Sequence Reconstruction | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0444.sequence_reconstruction.md) | 图、拓扑排序 | Medium |
-|	0994 | Rotting Oranges | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0994.rotting_oranges.md) | 矩阵、BFS | Medium |
-|	0127 | Word Ladder | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0127.word_ladder.md) | 字符串、BFS | Hard |
-|	0212 | Word Search II | [JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0212.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2%20II.md) | 矩阵、DFS | Hard |
-|	0269 | Alien Dictionary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0269.alien_dictionary.md) | 数组、拓扑排序 | Hard |
-|	1203 | Sort Items by Groups Respecting Dependencies | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/1203.sort_items_by_groups_respecting_dependencies.md) | 数组、拓扑排序 | Hard |
+|	0733 | Flood Fill | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0733.flood_fill.md) | DFS、BFS | Easy |
+|	0130 | Surrounded Regions | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0130.surrounded_regions.md) | BFS、DFS、并查集 | Medium |
+|	0133 | Clone Graph | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0133.clone_graph.md) | BFS、DFS | Medium |
+|	0200 | Number of Islands | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0200.number_of_islands.md) | BFS、DFS | Medium |
+|	0207 | Course Schedule | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0207.course_schedule.md) | DFS、拓扑排序 | Medium |
+|	0210 | Course Schedule II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0210.course_schedule_II.md) | BFS、DFS | Medium |
+|	0261 | Graph Valid Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0261.graph_valid_tree.md) | 并查集 | Medium |
+|	0399 | Evaluate Division | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0399.evaluate_division.md) | BFS | Medium |
+|	0417 | Pacific Atlantic Water Flow | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0417.pacific_atlantic_water_flow.md) | BFS、DFS | Medium |
+|	0323 | Number of Connected Components in an Undirected Graph | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0323.number_of_connected_components_in_an_undirected_graph.md) | BFS、DFS、并查集 | Medium |
+|	0433 | Minimum Genetic Mutation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0433.minimum_genetic_mutation.md) | BFS | Medium |
+|	0444 | Sequence Reconstruction | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0444.sequence_reconstruction.md) | 拓扑排序 | Medium |
+|	0909 | Snakes and Ladders | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0909.snakes_and_ladders.md) | BFS | Medium |
+|	0994 | Rotting Oranges | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0994.rotting_oranges.md) | BFS | Medium |
+|	0127 | Word Ladder | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0127.word_ladder.md) | BFS | Hard |
+|	0212 | Word Search II | [JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0212.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2%20II.md) | DFS | Hard |
+|	0269 | Alien Dictionary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0269.alien_dictionary.md) | 拓扑排序 | Hard |
+|	1203 | Sort Items by Groups Respecting Dependencies | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/1203.sort_items_by_groups_respecting_dependencies.md) | 拓扑排序 | Hard |
 
 ## Scan
 
