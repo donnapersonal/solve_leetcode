@@ -220,7 +220,7 @@ Solutions to LeetCode by Python and JS.
 |	0152 | Maximum Product Subarray | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0152.maximum_product_subarray.md) | 数组、动态规划 | Medium |
 |	0198 | House Robber | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0198.house_robber.md) | 动态规划 | Medium |
 |	0213 | House Robber II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0213.house_robber_II.md) | 动态规划 | Medium |
-|	0300 | Longest Increasing Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0300.longest_increasing_subsequence.md) | 动态规划 | Medium |
+|	0300 | Longest Increasing Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0300.longest_increasing_subsequence.md) | 动态规划、贪心+二分查找 | Medium |
 |	0309 | Best Time to Buy and Sell Stock with Cooldown | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/e51d766cf60177ecaf1f9fa846e484c56d471ad1/Dynamic_programming/0309.best_time_to_buy_and_sell_stock_with_cooldown.md) | 动态规划 | Medium |
 |	0377 | Combination Sum IV | [JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0377.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20%E2%85%A3.md) | 数组、动态规划 | Medium |
 |	0416 | Partition Equal Subset Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0416.partition_equal_subset_sum.md) | 数组、动态规划 | Medium |
