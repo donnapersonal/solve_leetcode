@@ -224,7 +224,6 @@ Solutions to LeetCode by Python and JS.
 |	0309 | Best Time to Buy and Sell Stock with Cooldown | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/e51d766cf60177ecaf1f9fa846e484c56d471ad1/Dynamic_programming/0309.best_time_to_buy_and_sell_stock_with_cooldown.md) | 动态规划 | Medium |
 |	0377 | Combination Sum IV | [JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0377.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20%E2%85%A3.md) | 数组、动态规划 | Medium |
 |	0416 | Partition Equal Subset Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0416.partition_equal_subset_sum.md) | 数组、动态规划 | Medium |
-|	0673 | Number of Longest Increasing Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0673.number_of_longest_increasing_subsequence.md) | 动态规划 | Medium |
 |	1143 | Longest Common Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1143.longest_common_subsequence.md) | 动态规划 | Medium |
 |	0828 | Count Unique Characters of All Substrings of a Given String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0828.coun_unique_characters_of_all_substrings_of_a_given_string.md) | 字符串、动态规划 | Hard |
 |	1235 | Maximum Profit in Job Scheduling | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1235.maximum_profit_in_job_scheduling.md) | 数组、动态规划 | Hard |
@@ -321,12 +320,13 @@ Solutions to LeetCode by Python and JS.
 |	0494 | Target Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0494.target_sum.md) | 数组、回溯、动态 | Medium |
 |	0542 | 01 Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0542.01_matrix.md) | 矩阵、BFS、动态规划 | Medium |
 |	0647 | Palindromic Substrings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0647.palindromic_substrings.md) | 字符串、动态规划、双指针中心扩展、Manacher 算法 | Medium |
+|	0673 | Number of Longest Increasing Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0673.number_of_longest_increasing_subsequence.md) | 动态规划、贪心+前缀和+二分查找 | Medium |
 |	0698 | Partition to K Equal Sum Subsets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0698.partition_to_K_equal_sum_subsets.md) | 数组、动态规划、回溯、位运算、记忆化搜索 | Medium |
 |	0720 | Longest Word in Dictionary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0720.longest_word_in_dictionary.md) | 数组、字典树、哈希表、排序 | Medium |
 |	0721 | Accounts Merge | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0721.accounts_merge.md) | 数组、BFS、DFS、并查集（Union-find） | Medium |
 |	0973 | K Closest Points to Origin | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0973.K_closest_points_to_origin.md) | 数组、数学、排序、优先级队列、快速选择 | Medium |
 |	0023 | Merge k Sorted Lists | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0023.merge_k_sorted_lists.md) | 链表、双指针、分治、优先级队列（堆）、归并排序 | Hard |
-|	0032 | Longest Valid Parentheses | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0032.longest_valid_parentheses.md) | 字符串、栈、动态规划 | Hard |
+|	0032 | Longest Valid Parentheses | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0032.longest_valid_parentheses.md) | 字符串、栈、动态规划、贪心 | Hard |
 |	0042 | Trapping Rain Water | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0042.trapping_rain_water.md) | 数组、栈、单调栈、双指针 | Hard |
 |	0084 | Largest Rectangle in Histogram | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0084.largest_rectangle_in_histogram.md) | 双指针、栈、单调栈 | Hard |
 |	0336 | Palindrome Pairs | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0336.palindrome_pairs.md) | 数组、字符串、字典树、哈希表 | Hard |
