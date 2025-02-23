@@ -297,7 +297,7 @@ Solutions to LeetCode by Python and JS.
 |	0141 | Linked List Cycle | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0141.linked_list_cycle.md) | 链表、哈希表、双指针 | Easy |
 |	0169 | Majority Element | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0169.majority_element.md) | 数组、哈希表、Moore's Voting Algorithm | Easy |
 |	0202 | Happy Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0202.happy_number.md) | 数学、哈希表、双指针 | Easy |
-|	0206 | Reverse Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0206.reverse_linked_list.md) | 链表、多指针、递归 | Easy |
+|	0206 | Reverse Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0206.reverse_linked_list.md) | 链表、迭代、递归 | Easy |
 |	0268 | Missing Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0268.missing_number.md) | 数组、位运算、哈希表 | Easy |
 |	0844 | Backspace String Compare | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0844.backspace_string_compare.md) | 字符串、栈、双指针 | Easy |
 |	0005 | Longest Palindromic Substring | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0005.longest_palindromic_substring.md) | 字符串、双指针、滑动窗口、Manacher's algorithm | Medium |
