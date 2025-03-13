@@ -177,6 +177,7 @@ Solutions to LeetCode by Python and JS.
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0409 | Longest Palindrome | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0409.longest_palindrome.md) | 字符串、贪心 | Easy |
+|	0012 | Integer to Roman | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0012.integer_to_roman.md) | 字符串、贪心 | Medium |
 |	0045 | Jump Game II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0045.jump_game_II.md) | 数组、贪心 | Medium |
 |	0055 | Jump Game | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0055.jump_game.md) | 数组、动态规划、贪心 | Medium |
 |	0134 | Gas Station | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0134.gas_station.md) | 数组、贪心 | Medium |
