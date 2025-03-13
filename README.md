@@ -15,6 +15,7 @@ Solutions to LeetCode by Python and JS.
 |	0049 | Group Anagrams | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0049.group_anagrams.md) | 数组、哈希表 | Medium |
 |	0073 | Set Matrix Zeroes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0073.set_matrix_zeroes.md) | 矩阵、哈希表 | Medium |
 |	0128 | Longest Consecutive Sequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0128.longest_consecutive_sequence.md) | 数组、哈希表 | Medium |
+|	0380 | Insert Delete GetRandom O(1) | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0380.insert_delete_getRandom_O(1).md) | 数组、数学、设计、哈希表 | Medium |
 |	0442 | Find All Duplicates in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0442.find_all_duplicates_in_an_array.md) | 数组、哈希表 | Medium |
 |	0041 | First Missing Positive | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0041.first_missing_positive.md) | 数组、哈希表 | Hard |
 
@@ -23,7 +24,10 @@ Solutions to LeetCode by Python and JS.
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0021 | Merge Two Sorted Lists | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0021.merge_two_sorted_lists.md) | 链表、双指针 | Easy |
+|	0026 | Remove Duplicates from Sorted Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0026.remove_duplicates_from_sorted_array.md) | 数组、双指针 | Easy |
+|	0027 | Remove Element | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0027.remove_element.md) | 数组、双指针 | Easy |
 |	0083 | Remove Duplicates from Sorted List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0083.remove_duplicates_from_sorted_list.md) | 链表、双指针 | Easy |
+|	0088 | Merge Sorted Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0088.merge_sorted_array.md) | 数组、双指针 | Easy |
 |	0125 | Valid Palindrome | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0125.valid_palindrome.md) | 字符串、双指针 | Easy |
 |	0160 | Intersection of Two Linked Lists | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0160.intersection_of_two_linked_lists.md) | 链表、双指针 | Easy |
 |	0234 | Palindrome Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0234.palindrome_linked_list.md) | 链表、双指针 | Easy |
@@ -32,9 +36,10 @@ Solutions to LeetCode by Python and JS.
 |	0876 | Middle of the Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0876.middle_of_the_linked_list.md) | 链表、双指针 | Easy |
 |	0977 | Squares of a Sorted Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0977.squares_of_a_sorted_array.md) | 数组、双指针 | Easy |
 |	0011 | Container With Most Water | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0011.containe_with_most_water.md) | 数组、双指针 | Medium |
-|	0016 | 3Sum Closest| [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0016.3Sum_closest.md) | 数组、双指针 | Medium |
+|	0016 | 3Sum Closest | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0016.3Sum_closest.md) | 数组、双指针 | Medium |
 |	0061 | Rotate List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0061.rotate_list.md) | 链表、双指针 | Medium |
 |	0075 | Sort Colors | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0075.sort_colors.md) | 数组、双指针 | Medium |
+|	0080 | 80.Remove Duplicates from Sorted Array II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0080.remove_duplicates_from_sorted_array_II.md) | 数组、双指针 | Medium |
 |	0142 | Linked List Cycle II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0142.linked_list_cycle_II.md) | 链表、双指针 | Medium |
 |	0167 | Two Sum II - Input Array Is Sorted | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0167.two_sum_II-input_array_is_sorted.md) | 数组、双指针 | Medium |
 |	0189 | Rotate Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0189.potate_array.md) | 数组、双指针 + 数组翻转 | Medium |
@@ -174,11 +179,13 @@ Solutions to LeetCode by Python and JS.
 |	0409 | Longest Palindrome | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0409.longest_palindrome.md) | 字符串、贪心 | Easy |
 |	0045 | Jump Game II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0045.jump_game_II.md) | 数组、贪心 | Medium |
 |	0055 | Jump Game | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0055.jump_game.md) | 数组、动态规划、贪心 | Medium |
+|	0134 | Gas Station | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0134.gas_station.md) | 数组、贪心 | Medium |
 |	0435 | Non-overlapping Intervals | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0435.non-overlapping_intervals.md) | 数组、贪心 + 排序 | Medium |
 |	0452 | Minimum Number of Arrows to Burst Balloons | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0452.minimum_number_of_arrows_to_burst_balloons.md) | 数组、贪心 + 排序 | Medium |
 |	0621 | Task Scheduler | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0621.task_scheduler.md) | 数组、贪心 | Medium |
 |	0763 | Partition Labels | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0763.partition_labels.md) | 字符串、贪心 | Medium |
 |	0767 | Reorganize String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0767.reorganize_string.md) | 字符串、贪心 | Medium |
+|	0135 | Candy | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0135.candy.md) | 数组、贪心 | Hard |
 
 ## Backtracking
 
@@ -219,7 +226,6 @@ Solutions to LeetCode by Python and JS.
 |	0152 | Maximum Product Subarray | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0152.maximum_product_subarray.md) | 数组、动态规划 | Medium |
 |	0198 | House Robber | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0198.house_robber.md) | 动态规划 | Medium |
 |	0213 | House Robber II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0213.house_robber_II.md) | 动态规划 | Medium |
-|	0300 | Longest Increasing Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0300.longest_increasing_subsequence.md) | 动态规划、贪心+二分查找 | Medium |
 |	0309 | Best Time to Buy and Sell Stock with Cooldown | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/e51d766cf60177ecaf1f9fa846e484c56d471ad1/Dynamic_programming/0309.best_time_to_buy_and_sell_stock_with_cooldown.md) | 动态规划 | Medium |
 |	0377 | Combination Sum IV | [JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0377.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20%E2%85%A3.md) | 数组、动态规划 | Medium |
 |	0416 | Partition Equal Subset Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0416.partition_equal_subset_sum.md) | 数组、动态规划 | Medium |
@@ -254,7 +260,8 @@ Solutions to LeetCode by Python and JS.
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
-|	0057 | Insert Interval| [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0057.insert_interval.md) | 数组、扫描 | Medium |
+|	0013 | 13.Roman to Integer | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0057.insert_interval.md) | 数组、线性扫描 | Medium |
+|	0057 | Insert Interval | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0057.insert_interval.md) | 数组、扫描 | Medium |
 |	0759 | Employee Free Time | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0759.employee_free_time.md) | 数组、扫描线法 | Hard |
 
 ## Bit
@@ -306,12 +313,15 @@ Solutions to LeetCode by Python and JS.
 |	0031 | Next Permutation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0031.next_permutation.md) | 数组、字典序 | Medium |
 |	0062 | Unique Paths | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0062.unique_paths.md) | 矩阵、数学、动态规划、组合数学 | Medium |
 |	0092 | Reverse Linked List II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0092.reverse_linked_list_II.md) | 链表、双指针、递归 | Medium |
+|	0122 | Best Time to Buy and Sell Stock II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/00122.best_time_to_buy_and_sell_stock_II.md) | 数组、贪心、DP | Medium |
 |	0138 | Copy List with Random Pointer | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0138.copy_list_with_random_pointer.md) | 链表、哈希、DFS、原地修改 | Medium |
 |	0143 | Reorder List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0143.reorder_list.md) | 链表、栈、双指针 | Medium |
 |	0215 | Kth Largest Element in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0215.Kth_largest_element_in_an_array.md) | 数组、优先级队列（堆）、快速排序 | Medium |
 |	0240 | Search a 2D Matrix II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0240.search_a_2D_matrix_II.md) | 数组、矩阵、二分查找、双指针 | Medium |
+|	0274 | H-Index | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0274.H-Index.md) | 数组、排序、二分查找 | Medium |
 |	0279 | Perfect Squares | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0279.perfect_squares.md) | 数学、BFS、动态优化 | Medium |
 |	0287 | Find the Duplicate Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0287.find_the_duplicate_number.md) | 数组、双指针、二分查找 | Medium |
+|	0300 | Longest Increasing Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0300.longest_increasing_subsequence.md) | 动态规划、贪心+二分查找 | Medium |
 |	0322 | Coin Change | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0322.coin_change.md) | 动态规划、BFS | Medium |
 |	0347 | Top K Frequent Elements | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0347.top_K_frequent_elements.md) | 数组、哈希表、优先级队列 | Medium |
 |	0378 | Kth Smallest Element in a Sorted Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0378.Kth_smallest_element_in_a_sorted_matrix.md) | 矩阵、链表双指针、二分查找、优先级队列（堆）| Medium |
