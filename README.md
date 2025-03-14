@@ -261,7 +261,9 @@ Solutions to LeetCode by Python and JS.
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
-|	0013 | 13.Roman to Integer | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0057.insert_interval.md) | 数组、线性扫描 | Medium |
+|	0013 | Roman to Integer | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/9d130a04faf3a9d159ec87c5cb2d09867f4ed722/Scan/0013.roman_to_integer.md) | 数组、线性扫描 | Easy |
+|	0014 | Longest Common Prefix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0014.longest_common_prefix.md) | 数组、垂直扫描 | Easy |
+|	0058 | 58.Length of Last Word | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0058.length_of_last_word.md) | 字符串、线性扫描 | Easy |
 |	0057 | Insert Interval | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0057.insert_interval.md) | 数组、扫描 | Medium |
 |	0759 | Employee Free Time | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0759.employee_free_time.md) | 数组、扫描线法 | Hard |
 
