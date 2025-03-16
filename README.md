@@ -12,6 +12,7 @@ Solutions to LeetCode by Python and JS.
 |	0242 | Valid Anagram | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0242.valid_anagram.md) | 字符串、哈希表 | Easy |
 |	0383 | Ransom Note | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0383.ransom_note.md) | 字符串、哈希表 | Easy |
 |	0448 | Find All Numbers Disappeared in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0448.find_all_numbers_disappeared_in_an_array.md) | 数组、哈希表 | Easy |
+|	0036 | Valid Sudoku | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0036.valid_sudoku.md) | 数独、哈希 | Medium |
 |	0049 | Group Anagrams | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0049.group_anagrams.md) | 数组、哈希表 | Medium |
 |	0073 | Set Matrix Zeroes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0073.set_matrix_zeroes.md) | 矩阵、哈希表 | Medium |
 |	0128 | Longest Consecutive Sequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0128.longest_consecutive_sequence.md) | 数组、哈希表 | Medium |
@@ -297,11 +298,14 @@ Solutions to LeetCode by Python and JS.
 |	0048 | Rotate Image | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0048.rotate_image.md) | 数组、数学、矩阵 | Medium |
 |	0054 | Spiral Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0054.spiral_matrix.md) | 数组、数学、矩阵 | Medium |
 |	0146 | LRU Cache | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0146.LRU_cache.md) | 设计、数据结构 | Medium |
+|	0289 | Game of Life | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0289.game_of_life.md) | 矩阵、模拟 | Medium |
+|	0068 | Text Justification | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0068.text_justification.md) | 字符串、模拟 | Hard |
 
 ## Multiple ideas
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0028 | Find the Index of the First Occurrence in a String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0028.find_the_index_of_the_first_occurrence_in_a_string.md) | 字符串、滑动窗口、双指针、字符串匹配算法（BF/BM/KMP/RK/Horspool/Sunday）| Easy |
 |	0067 | Add Binary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0067.add_binary.md) | 字符串、位运算、数学、模拟 | Easy |
 |	0118 | Pascal's Triangle | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0118.pascal's_triangle.md) | 数学、动态规划、递归、迭代 | Easy |
 |	0121 | Best Time to Buy and Sell Stock | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0121.best_time_to_buy_and_sell_stock.md) | 数组、递推、DP | Easy |
