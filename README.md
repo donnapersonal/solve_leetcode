@@ -115,6 +115,7 @@ Solutions to LeetCode by Python and JS.
 |	0295 | Find Median from Data Stream | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0295.find_median_from_data_stream.md) | 设计、数组、优先级队列 | Hard |
 |	0358 | Rearrange String k Distance Apart | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0358.rearrange_string_k_distance_apart.md) | 字符串、优先级队列 (最大堆) | Hard |
 |	0480 | Sliding Window Median | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0480.sliding_window_median.md) | 数组、优先级队列（堆）+ 哈希表 + 滑动窗口 | Hard |
+|	0502 | 502.IPO | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0502.IPO.md) | 数组、堆（优先级队列） | Hard |
 |	0630 | Course Schedule III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0630.course_schedule_III.md) | 数组、优先级队列（堆）+ 贪心 | Hard |
 |	0632 | Smallest Range Covering Elements from K Lists | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0632.smallest_range_covering_elements_from_K_lists.md) | 数组、堆、最小堆 | Hard |
 
@@ -348,6 +349,7 @@ Solutions to LeetCode by Python and JS.
 |	0698 | Partition to K Equal Sum Subsets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0698.partition_to_K_equal_sum_subsets.md) | 数组、动态规划、回溯、位运算、记忆化搜索 | Medium |
 |	0720 | Longest Word in Dictionary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0720.longest_word_in_dictionary.md) | 数组、字典树、哈希表、排序 | Medium |
 |	0721 | Accounts Merge | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0721.accounts_merge.md) | 数组、BFS、DFS、并查集（Union-find） | Medium |
+|	0918 | Maximum Sum Circular Subarray | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0918.maximum_sum_circular_subarray.md) | 数组、环形数组、分治、动态规划、单调队列 | Medium |
 |	0973 | K Closest Points to Origin | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0973.K_closest_points_to_origin.md) | 数组、数学、排序、优先级队列、快速选择 | Medium |
 |	0023 | Merge k Sorted Lists | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0023.merge_k_sorted_lists.md) | 链表、双指针、分治、优先级队列（堆）、归并排序 | Hard |
 |	0032 | Longest Valid Parentheses | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0032.longest_valid_parentheses.md) | 字符串、栈、动态规划、贪心 | Hard |
