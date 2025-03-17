@@ -142,6 +142,7 @@ Solutions to LeetCode by Python and JS.
 |	0222 | Count Complete Tree Nodes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0222.count_complete_tree_nodes.md) | 二叉树、DFS、迭代 | Easy |
 |	0226 | Invert Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0226.invert_binary_tree.md) | 二叉树、BFS、DFS | Easy |
 |	0257 | Binary Tree Paths | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0257.binary_tree_paths.md) | 二叉树、DFS、迭代 | Easy |
+|	0530 | Minimum Absolute Difference in BST | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0530.minimum_absolute_difference_in_BST.md) | 二叉树、递归、迭代 | Easy |
 |	0543 | Diameter of Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0543.diameter_of_binary_tree.md) | 二叉树、DFS | Easy |
 |	0572 | Subtree of Another Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0572.subtree_of_another_tree.md) | 二叉树、DFS | Easy |
 |	0617 | Merge Two Binary Trees | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0617.merge_two_binary_trees.md) | 二叉树、递归、迭代 | Easy |
@@ -155,7 +156,7 @@ Solutions to LeetCode by Python and JS.
 |	0107 | Binary Tree Level Order Traversal II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0107.binary_tree_level_order_traversal_II.md) | 二叉树、BFS | Medium |
 |	0113 | 113.Path Sum II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0113.path_sum_II.md) | 二叉树、递归、迭代 | Medium |
 |	0114 | Flatten Binary Tree to Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0114.flatten_binary_tree_to_linked_list.md) | 二叉树、递归、迭代 | Medium |
-|	0117 | Populating Next Right Pointers in Each Node II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0117.populating_next_right_pointers_in_each_node_II.md) | 二叉树、递归、迭代 | Medium |
+|	0117 | f | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0117.populating_next_right_pointers_in_each_node_II.md) | 二叉树、递归、迭代 | Medium |
 |	0129 | Sum Root to Leaf Numbers | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0129.sum_root_to_leaf_numbers.md) | 二叉树、递归、迭代 | Medium |
 |	0173 | Binary Search Tree Iterator | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0173.binary_search_tree_iterator.md) | 二叉树、递归、迭代 | Medium |
 |	0199 | Binary Tree Right Side View | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0199.binary_tree_right_side_view.md) | 二叉树、BFS、DFS | Medium |
@@ -165,6 +166,7 @@ Solutions to LeetCode by Python and JS.
 |	0235 | Lowest Common Ancestor of a Binary Search Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0235.lowest_common_ancestor_of_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0236 | Lowest Common Ancestor of a Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0310 | Minimum Height Trees | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0310.minimum_height_trees.md) | 二叉树、BFS、拓扑排序 | Medium |
+|	0427 | Construct Quad Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0427.construc_quad%20_tree.md) | 二叉树、递归 | Medium |
 |	0437 | Path Sum III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0437.path_sum_III.md) | 二叉树、DFS | Medium |
 |	0654 | Maximum Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0654.maximum_binary_tree.md) | 二叉树、递归 | Medium |
 |	0642 | Design Search Autocomplete System | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0642.design_search_autocomplete_system.md) | 设计、字典树 | Hard |
@@ -265,8 +267,11 @@ Solutions to LeetCode by Python and JS.
 |	--- |	--- | --- | --- | --- |
 |	0013 | Roman to Integer | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/9d130a04faf3a9d159ec87c5cb2d09867f4ed722/Scan/0013.roman_to_integer.md) | 数组、线性扫描 | Easy |
 |	0014 | Longest Common Prefix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0014.longest_common_prefix.md) | 数组、垂直扫描 | Easy |
-|	0058 | 58.Length of Last Word | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0058.length_of_last_word.md) | 字符串、线性扫描 | Easy |
+|	0058 | Length of Last Word | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0058.length_of_last_word.md) | 字符串、线性扫描 | Easy |
+|	0228 | Summary Ranges | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0228.summary_ranges.md) | 数组、线性扫描 | Easy |
 |	0057 | Insert Interval | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0057.insert_interval.md) | 数组、扫描 | Medium |
+|	0082 | Remove Duplicates from Sorted List II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0082.remove_duplicates_from_sorted_list_II.md) | 链表、扫描 | Medium |
+|	0086 | Partition List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0086.partition_list.md) | 链表、双指针 | Medium |
 |	0759 | Employee Free Time | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0759.employee_free_time.md) | 数组、扫描线法 | Hard |
 
 ## Bit
