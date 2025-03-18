@@ -27,6 +27,7 @@ Solutions to LeetCode by Python and JS.
 |	0021 | Merge Two Sorted Lists | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0021.merge_two_sorted_lists.md) | 链表、双指针 | Easy |
 |	0026 | Remove Duplicates from Sorted Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0026.remove_duplicates_from_sorted_array.md) | 数组、双指针 | Easy |
 |	0027 | Remove Element | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0027.remove_element.md) | 数组、双指针 | Easy |
+|	0069 | Sqrt(x) | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0069.sqrt(x).md) | 数学、二分查找 | Easy |
 |	0083 | Remove Duplicates from Sorted List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0083.remove_duplicates_from_sorted_list.md) | 链表、双指针 | Easy |
 |	0088 | Merge Sorted Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0088.merge_sorted_array.md) | 数组、双指针 | Easy |
 |	0125 | Valid Palindrome | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0125.valid_palindrome.md) | 字符串、双指针 | Easy |
@@ -181,6 +182,7 @@ Solutions to LeetCode by Python and JS.
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0009 | Palindrome Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0009.palindrome_number.md) | 数字、贪心 | Easy |
 |	0409 | Longest Palindrome | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0409.longest_palindrome.md) | 字符串、贪心 | Easy |
 |	0012 | Integer to Roman | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0012.integer_to_roman.md) | 字符串、贪心 | Medium |
 |	0045 | Jump Game II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0045.jump_game_II.md) | 数组、贪心 | Medium |
@@ -297,15 +299,24 @@ Solutions to LeetCode by Python and JS.
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0066 | Plus One | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0066.plus_one.md) | 数组 | Easy |
 |	2022 | Convert 1D Array Into 2D Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/2022.convert_1D_array_into_2D_array.md) | 矩阵、数组 | Easy |
 |	0002 | Add Two Numbers | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0002.add_two_numbers.md) | 链表、模拟 | Medium |
-|	0006 | 6.Zigzag Conversion | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0006.zigzag_conversion.md) | 字符串、模拟 | Medium |
+|	0006 | Zigzag Conversion | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0006.zigzag_conversion.md) | 字符串、模拟 | Medium |
 |	0008 | String to Integer (atoi) | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0008.string_to_integer_(atoi).md) | 数学、模拟 | Medium |
 |	0048 | Rotate Image | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0048.rotate_image.md) | 数组、数学、矩阵 | Medium |
 |	0054 | Spiral Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0054.spiral_matrix.md) | 数组、数学、矩阵 | Medium |
 |	0146 | LRU Cache | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0146.LRU_cache.md) | 设计、数据结构 | Medium |
 |	0289 | Game of Life | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0289.game_of_life.md) | 矩阵、模拟 | Medium |
 |	0068 | Text Justification | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0068.text_justification.md) | 字符串、模拟 | Hard |
+
+## Math
+
+|	No. |	Title |	Solution | Tags | Difficulty |
+|	--- |	--- | --- | --- | --- |
+|	0050 | Pow(x, n) | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0050.pow(x,%20n).md) | 数学、快速幂 | Medium |
+|	0172 | Factorial Trailing Zeroes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0172.factorial_trailing_zeroes.md) | 数学 | Medium |
+|	0149 | Max Points on a Line | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0149.max_points_on_a_line.md) | 数学 + 哈希 | Hard |
 
 ## Multiple ideas
 
