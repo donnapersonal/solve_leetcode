@@ -19,6 +19,7 @@ Solutions to LeetCode by Python and JS.
 |	0380 | Insert Delete GetRandom O(1) | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0380.insert_delete_getRandom_O(1).md) | 数组、数学、设计、哈希表 | Medium |
 |	0442 | Find All Duplicates in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0442.find_all_duplicates_in_an_array.md) | 数组、哈希表 | Medium |
 |	0041 | First Missing Positive | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0041.first_missing_positive.md) | 数组、哈希表 | Hard |
+|	0745 | Prefix and Suffix Search | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0745.prefix_and_suffix_search.md) | 哈希 | Hard |
 
 ## Two pointers
 
@@ -345,7 +346,7 @@ Solutions to LeetCode by Python and JS.
 |	0031 | Next Permutation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0031.next_permutation.md) | 数组、字典序 | Medium |
 |	0062 | Unique Paths | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0062.unique_paths.md) | 矩阵、数学、动态规划、组合数学 | Medium |
 |	0092 | Reverse Linked List II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0092.reverse_linked_list_II.md) | 链表、双指针、递归 | Medium |
-|	0122 | Best Time to Buy and Sell Stock II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/00122.best_time_to_buy_and_sell_stock_II.md) | 数组、贪心、DP | Medium |
+|	0122 | Best Time to Buy and Sell Stock II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0122.best_time_to_buy_and_sell_stock_II.md) | 数组、贪心、DP | Medium |
 |	0138 | Copy List with Random Pointer | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0138.copy_list_with_random_pointer.md) | 链表、哈希、DFS、原地修改 | Medium |
 |	0143 | Reorder List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0143.reorder_list.md) | 链表、栈、双指针 | Medium |
 |	0215 | Kth Largest Element in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0215.Kth_largest_element_in_an_array.md) | 数组、优先级队列（堆）、快速排序 | Medium |
