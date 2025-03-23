@@ -251,6 +251,7 @@ Solutions to LeetCode by Python and JS.
 |	0309 | Best Time to Buy and Sell Stock with Cooldown | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/e51d766cf60177ecaf1f9fa846e484c56d471ad1/Dynamic_programming/0309.best_time_to_buy_and_sell_stock_with_cooldown.md) | 动态规划 | Medium |
 |	0377 | Combination Sum IV | [JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0377.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20%E2%85%A3.md) | 数组、动态规划 | Medium |
 |	0416 | Partition Equal Subset Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0416.partition_equal_subset_sum.md) | 数组、动态规划 | Medium |
+|	0474 | Ones and Zeroes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0474.ones_and_zeroes%20.md) | 数组、动态规划 | Medium |
 |	1143 | Longest Common Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1143.longest_common_subsequence.md) | 动态规划 | Medium |
 |	0010 | Regular Expression Matching | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0010.regular_expression_matching.md) | 动态规划 | Medium |
 |	0123 | Best Time to Buy and Sell Stock III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0123.best_time_to_buy_and_sell_stock_III.md) | 动态规划 | Hard |
@@ -355,6 +356,7 @@ Solutions to LeetCode by Python and JS.
 |	0344 | Reverse String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0344.reverse_string.md) | 字符串、栈、递归、双指针 | Easy |
 |	0459 | Repeated Substring Pattern | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0459.repeated_substring_pattern.md) | 字符串、移动匹配、KMP 算法 | Easy |
 |	0844 | Backspace String Compare | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0844.backspace_string_compare.md) | 字符串、栈、双指针 | Easy |
+|	1047 | Remove All Adjacent Duplicates In String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/1047.remove_all_adjacent_duplicates_in_string.md) | 字符串、栈、双指针 | Easy |
 |	0005 | Longest Palindromic Substring | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0005.longest_palindromic_substring.md) | 字符串、双指针、滑动窗口、Manacher's algorithm | Medium |
 |	0015 | 3Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0015.3Sum.md) | 数组、哈希表、双指针、排序 | Medium |
 |	0019 | Remove Nth Node From End of List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0019.remove_Nth_node_from_end_of_list.md) | 链表、双指针、递归 | Medium |
@@ -371,6 +373,7 @@ Solutions to LeetCode by Python and JS.
 |	0279 | Perfect Squares | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0279.perfect_squares.md) | 数学、BFS、动态优化 | Medium |
 |	0287 | Find the Duplicate Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0287.find_the_duplicate_number.md) | 数组、双指针、二分查找 | Medium |
 |	0300 | Longest Increasing Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0300.longest_increasing_subsequence.md) | 动态规划、贪心+二分查找 | Medium |
+|	0316 | Remove Duplicate Letters | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0316.remove_duplicate_letters.md) | 字符串、栈、贪心 | Medium |
 |	0322 | Coin Change | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0322.coin_change.md) | 动态规划、BFS | Medium |
 |	0347 | Top K Frequent Elements | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0347.top_K_frequent_elements.md) | 数组、哈希表、优先级队列 | Medium |
 |	0378 | Kth Smallest Element in a Sorted Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0378.Kth_smallest_element_in_a_sorted_matrix.md) | 矩阵、链表双指针、二分查找、优先级队列（堆）| Medium |
