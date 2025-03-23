@@ -19,6 +19,7 @@ Solutions to LeetCode by Python and JS.
 |	0128 | Longest Consecutive Sequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0128.longest_consecutive_sequence.md) | 数组、哈希表 | Medium |
 |	0380 | Insert Delete GetRandom O(1) | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0380.insert_delete_getRandom_O(1).md) | 数组、数学、设计、哈希表 | Medium |
 |	0442 | Find All Duplicates in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0442.find_all_duplicates_in_an_array.md) | 数组、哈希表 | Medium |
+|	0454 | 4Sum II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hashing/0454.4Sum_II.md) | 数组、哈希表 | Medium |
 |	0041 | First Missing Positive | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0041.first_missing_positive.md) | 数组、哈希表 | Hard |
 |	0745 | Prefix and Suffix Search | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0745.prefix_and_suffix_search.md) | 哈希 | Hard |
 
@@ -222,6 +223,7 @@ Solutions to LeetCode by Python and JS.
 |	0216 | Combination Sum III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0216.ombination_sum_III.md) | 组合、回溯 | Medium |
 |	0254 | Factor Combinations | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0254.factor_combinations.md) | 组合、回溯 | Medium |
 |	0320 | Generalized Abbreviation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0320.generalized_abbreviation.md) | 字符串、回溯 | Medium |
+|	0491 | Non-decreasing Subsequences | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0491.non-decreasing_subsequences.md) | 排列组合，回溯 | Medium |
 |	0784 | Letter Case Permutation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0784.letter_case_permutation.md) | 字符串、回溯 | Medium |
 |	1593 | Split a String Into the Max Number of Unique Substrings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/1593.split_a_string_into_the_max_number_of_unique_substrings.md) | 字符串、回溯 | Medium |
 |	0037 | Sudoku Solver | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0037.sudoku_solver.md) | 数独、回溯 | Hard |
@@ -252,6 +254,8 @@ Solutions to LeetCode by Python and JS.
 |	0377 | Combination Sum IV | [JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0377.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20%E2%85%A3.md) | 数组、动态规划 | Medium |
 |	0416 | Partition Equal Subset Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0416.partition_equal_subset_sum.md) | 数组、动态规划 | Medium |
 |	0474 | Ones and Zeroes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0474.ones_and_zeroes%20.md) | 数组、动态规划 | Medium |
+|	0516 | Longest Palindromic Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0516.longest_palindromic_subsequence.md) | 字符串、动态规划 | Medium |
+|	0740 | Delete and Earn | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0740.delete_and_earn.md) | 数组、动态规划 | Medium |
 |	1143 | Longest Common Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1143.longest_common_subsequence.md) | 动态规划 | Medium |
 |	0010 | Regular Expression Matching | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0010.regular_expression_matching.md) | 动态规划 | Medium |
 |	0123 | Best Time to Buy and Sell Stock III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0123.best_time_to_buy_and_sell_stock_III.md) | 动态规划 | Hard |
@@ -354,6 +358,7 @@ Solutions to LeetCode by Python and JS.
 |	0219 | Contains Duplicate II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0219.contains_duplicate_II.md) | 数组、哈希表、滑动窗口 | Easy |
 |	0268 | Missing Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0268.missing_number.md) | 数组、位运算、哈希表 | Easy |
 |	0344 | Reverse String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0344.reverse_string.md) | 字符串、栈、递归、双指针 | Easy |
+|	0349 | Intersection of Two Arrays | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0349.intersection_of_two_arrays.md) | 数组、哈希表、双指针 | Easy |
 |	0459 | Repeated Substring Pattern | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0459.repeated_substring_pattern.md) | 字符串、移动匹配、KMP 算法 | Easy |
 |	0844 | Backspace String Compare | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0844.backspace_string_compare.md) | 字符串、栈、双指针 | Easy |
 |	1047 | Remove All Adjacent Duplicates In String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/1047.remove_all_adjacent_duplicates_in_string.md) | 字符串、栈、双指针 | Easy |
