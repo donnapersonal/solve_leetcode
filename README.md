@@ -52,7 +52,6 @@ Solutions to LeetCode by Python and JS.
 |	0189 | Rotate Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0189.potate_array.md) | 数组、双指针 + 数组翻转 | Medium |
 |	0253 | Meeting Rooms II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0253.meeting_rooms_II.md) | 数组、双指针 + 排序 | Medium |
 |	0328 | Odd Even Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0328.odd_even_linked_list.md) | 链表、双指针 | Medium |
-
 |	0986 | Interval List Intersections | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0986.interval_list_intersections.md) | 数组、双指针 | Medium |
 
 ## Sliding window
@@ -67,6 +66,7 @@ Solutions to LeetCode by Python and JS.
 |	0567 | Permutation in String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0567.permutation_in_string.md) | 字符串、滑动窗口 | Medium |
 |	0713 | Subarray Product Less Than K | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0713.subarray_product_less_than_K.md) | 数组、滑动窗口 | Medium |
 |	0904 | Fruit Into Baskets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0904.fruit_into_baskets.md) | 数组、滑动窗口 | Medium |
+|	2516 | Take K of Each Character From Left and Right | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/2516.take_K_of_each_characte_from_left_and_right.md) | 字符串、双指针 | Medium |
 |	0030 | Substring with Concatenation of All Words | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0030.substring_with_concatenation_of_all_words.md) | 字符串、滑动窗口 | Hard |
 |	0076 | Minimum Window Substring | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0076.minimum_window_substring.md) | 字符串、滑动窗口 | Hard |
 |	0995 | Minimum Number of K Consecutive Bit Flips | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0995.minimum_number_of_K_consecutive_bit_flips.md) | 数组、滑动窗口 | Hard |
@@ -106,6 +106,7 @@ Solutions to LeetCode by Python and JS.
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
 |	0020 | Valid Parentheses | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0020.valid_parentheses.md) | 字符串、栈 | Easy |
+|	0496 | Next Greater Element I | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0496.next_greater_element_I.md) | 数组、栈、单调栈 | Easy |
 |	0150 | Evaluate Reverse Polish Notation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0150.evaluate_reverse_polish_notation.md) | 数组、栈 | Medium |
 |	0232 | Implement Queue using Stacks | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0232.implement_queue_using_stacks.md) | 设计、栈 | Easy |
 |	0071 | Simplify Path | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0071.simplify_path.md) | 字符串、栈 | Medium |
@@ -284,6 +285,7 @@ Solutions to LeetCode by Python and JS.
 |	0127 | Word Ladder | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0127.word_ladder.md) | BFS | Hard |
 |	0212 | Word Search II | [JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0212.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2%20II.md) | DFS | Hard |
 |	0269 | Alien Dictionary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0269.alien_dictionary.md) | 拓扑排序 | Hard |
+|	0815 | Bus Routes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0815.bus_routes.md) | 图论 + BFS | Hard |
 |	1203 | Sort Items by Groups Respecting Dependencies | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/1203.sort_items_by_groups_respecting_dependencies.md) | 拓扑排序 | Hard |
 
 ## Scan
@@ -359,6 +361,7 @@ Solutions to LeetCode by Python and JS.
 |	0268 | Missing Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0268.missing_number.md) | 数组、位运算、哈希表 | Easy |
 |	0344 | Reverse String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0344.reverse_string.md) | 字符串、栈、递归、双指针 | Easy |
 |	0349 | Intersection of Two Arrays | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0349.intersection_of_two_arrays.md) | 数组、哈希表、双指针 | Easy |
+|	0389 | Find the Difference | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0389.find_the_difference.md) | 字符串、哈希表、位运算 | Easy |
 |	0459 | Repeated Substring Pattern | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0459.repeated_substring_pattern.md) | 字符串、移动匹配、KMP 算法 | Easy |
 |	0844 | Backspace String Compare | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0844.backspace_string_compare.md) | 字符串、栈、双指针 | Easy |
 |	1047 | Remove All Adjacent Duplicates In String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/1047.remove_all_adjacent_duplicates_in_string.md) | 字符串、栈、双指针 | Easy |
