@@ -111,9 +111,15 @@ Solutions to LeetCode by Python and JS.
 |	0232 | Implement Queue using Stacks | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0232.implement_queue_using_stacks.md) | 设计、栈 | Easy |
 |	0071 | Simplify Path | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0071.simplify_path.md) | 字符串、栈 | Medium |
 |	0155 | Min Stack | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/) | 设计、栈 | Medium |
+|	0227 | Basic Calculator II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0227.basic_calculator_II.md) | 字符串、栈 | Medium |
 |	0394 | Decode String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0394.decode_string.md) | 字符串、栈 | Medium |
 |	0402 | Remove K Digits | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0402.remove_K_digits.md) | 字符串、栈、单调栈 | Medium |
+|	0503 | Next Greater Element II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0503.next_greater_element_II.md) | 数组、栈、单调栈 | Medium |
+|	0085 | Maximal Rectangle | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0085.maximal_rectangle.md) | 数组、栈、单调栈 | Medium |
+|	0735 | 735.Asteroid Collision | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0735.asteroid_collision.md) | 数组、栈 | Medium |
 |	0739 | Daily Temperatures | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0739.daily_temperatures.md) | 数组、栈、单调栈 | Medium |
+|	0946 | 946.Validate Stack Sequences | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0739.daily_temperatures.md) | 数组、栈、单调栈 | Medium |
+|	1249 | Minimum Remove to Make Valid Parentheses | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/1249.minimum_remove_to_make_valid_parentheses.md) | 数组、栈 | Medium |
 |	0224 | Basic Calculator | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0224.basic_calculator.md) | 字符串、栈 | Hard |
 |	0895 | Maximum Frequency Stack | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0895.maximum_frequency_stack.md) | 设计、模拟、栈 | Hard |
 
@@ -151,6 +157,7 @@ Solutions to LeetCode by Python and JS.
 |	0110 | Balanced Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0110.balanced_binary_tree.md) | 二叉树、DFS、迭代 | Easy |
 |	0111 | Minimum Depth of Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0111.minimum_depth_of_binary_tree.md) | 二叉树、BFS、DFS | Easy |
 |	0112 | Path Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0112.path_sum.md) | 二叉树、DFS、迭代 | Easy |
+|	0144 | Binary Tree Preorder Traversal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0144.binary_tree_preorder_traversal.md) | 二叉树、递归、迭代、Morris 遍历 | Easy |
 |	0222 | Count Complete Tree Nodes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0222.count_complete_tree_nodes.md) | 二叉树、DFS、迭代 | Easy |
 |	0226 | Invert Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0226.invert_binary_tree.md) | 二叉树、BFS、DFS | Easy |
 |	0257 | Binary Tree Paths | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0257.binary_tree_paths.md) | 二叉树、DFS、迭代 | Easy |
