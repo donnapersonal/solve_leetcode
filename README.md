@@ -116,14 +116,18 @@ Solutions to LeetCode by Python and JS.
 |	0402 | Remove K Digits | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0402.remove_K_digits.md) | 字符串、栈、单调栈 | Medium |
 |	0503 | Next Greater Element II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0503.next_greater_element_II.md) | 数组、栈、单调栈 | Medium |
 |	0085 | Maximal Rectangle | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0085.maximal_rectangle.md) | 数组、栈、单调栈 | Medium |
-|	0456 | 456.132 Pattern | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0456.132_pattern.md) | 数组、单调栈 | Medium |
-|	0735 | 735.Asteroid Collision | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0735.asteroid_collision.md) | 数组、栈 | Medium |
+|	0456 | 132 Pattern | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0456.132_pattern.md) | 数组、单调栈 | Medium |
+|	0735 | Asteroid Collision | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0735.asteroid_collision.md) | 数组、栈 | Medium |
 |	0739 | Daily Temperatures | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0739.daily_temperatures.md) | 数组、栈、单调栈 | Medium |
-|	0946 | 946.Validate Stack Sequences | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0739.daily_temperatures.md) | 数组、栈、单调栈 | Medium |
+|	0907 | Sum of Subarray Minimums | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0907.sum_of_subarray_minimums.md) | 数组、栈、单调栈 | Medium |
+|	0946 | Validate Stack Sequences | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/11360fe51d736016d74fb8b733041d4241d8ea79/Stack/0946.validate_stack_sequences.md) | 数组、栈、单调栈 | Medium |
+|	0962 | Maximum Width Ramp | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0962.maximum_width_ramp.md) | 数组、栈、单调栈 | Medium |
 |	1019 | Next Greater Node In Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/1019.next_greater_node_in_linked_list.md) | 链表、单调栈 | Medium |
 |	1249 | Minimum Remove to Make Valid Parentheses | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/1249.minimum_remove_to_make_valid_parentheses.md) | 数组、栈 | Medium |
 |	0224 | Basic Calculator | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0224.basic_calculator.md) | 字符串、栈 | Hard |
-|	0772 | 772.Basic Calculator III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0772.basic_calculator_III.md) | 字符串、栈 | Hard |
+|	0321 | Create Maximum Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0224.basic_calculator.md) | 字符串、单调栈 | Hard |
+|	0726 | 726.Number of Atoms | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0726.number_of_atoms.md) | 字符串、栈 | Hard |
+|	0772 | Basic Calculator III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0772.basic_calculator_III.md) | 字符串、栈 | Hard |
 |	0895 | Maximum Frequency Stack | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0895.maximum_frequency_stack.md) | 设计、模拟、栈 | Hard |
 
 ## Queue/Heap/Priority Queue
@@ -161,6 +165,7 @@ Solutions to LeetCode by Python and JS.
 |	0111 | Minimum Depth of Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0111.minimum_depth_of_binary_tree.md) | 二叉树、BFS、DFS | Easy |
 |	0112 | Path Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0112.path_sum.md) | 二叉树、DFS、迭代 | Easy |
 |	0144 | Binary Tree Preorder Traversal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0144.binary_tree_preorder_traversal.md) | 二叉树、递归、迭代、Morris 遍历 | Easy |
+|	0145 | Binary Tree Postorder Traversal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0145.binary_tree_postorder_traversal.md) | 二叉树、递归、迭代、Morris | Easy |
 |	0222 | Count Complete Tree Nodes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0222.count_complete_tree_nodes.md) | 二叉树、DFS、迭代 | Easy |
 |	0226 | Invert Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0226.invert_binary_tree.md) | 二叉树、BFS、DFS | Easy |
 |	0257 | Binary Tree Paths | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0257.binary_tree_paths.md) | 二叉树、DFS、迭代 | Easy |
