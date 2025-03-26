@@ -327,14 +327,6 @@ Solutions to LeetCode by Python and JS.
 |	0137 | 137.Single Number II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0137.single_number_II.md) | 数组、位运算 | Medium |
 |	0201 | Bitwise AND of Numbers Range | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0201.bitwise_AND_of_numbers_range.md) | 位运算 | Medium |
 
-## Recursion/Iteration
-
-|	No. |	Title |	Solution | Tags | Difficulty |
-|	--- |	--- | --- | --- | --- |
-|	0203 | Remove Linked List Elements | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Recursion_iteration/0203.remove_linked_list_element.md) | 链表、迭代 | Easy |
-|	0024 | Swap Nodes in Pairs | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Recursion_iteration/0024.swap_nodes_in_pairs.md) | 链表、递归、迭代 | Medium |
-|	0025 | Reverse Nodes in k-Group | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Recursion_iteration/0025.reverse_nodes_in_k-Group.md) | 链表、递归、迭代 | Hard |
-
 ## Simulation
 
 |	No. |	Title |	Solution | Tags | Difficulty |
@@ -373,6 +365,7 @@ Solutions to LeetCode by Python and JS.
 |	0141 | Linked List Cycle | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0141.linked_list_cycle.md) | 链表、哈希表、双指针 | Easy |
 |	0169 | Majority Element | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0169.majority_element.md) | 数组、哈希表、Moore's Voting Algorithm | Easy |
 |	0202 | Happy Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0202.happy_number.md) | 数学、哈希表、双指针 | Easy |
+|	0203 | Remove Linked List Elements | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0203.remove_linked_list_element.md) | 链表、迭代 | Easy |
 |	0206 | Reverse Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0206.reverse_linked_list.md) | 链表、迭代、递归 | Easy |
 |	0219 | Contains Duplicate II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0219.contains_duplicate_II.md) | 数组、哈希表、滑动窗口 | Easy |
 |	0268 | Missing Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0268.missing_number.md) | 数组、位运算、哈希表 | Easy |
@@ -385,6 +378,7 @@ Solutions to LeetCode by Python and JS.
 |	0005 | Longest Palindromic Substring | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0005.longest_palindromic_substring.md) | 字符串、双指针、滑动窗口、Manacher's algorithm | Medium |
 |	0015 | 3Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0015.3Sum.md) | 数组、哈希表、双指针、排序 | Medium |
 |	0019 | Remove Nth Node From End of List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0019.remove_Nth_node_from_end_of_list.md) | 链表、双指针、递归 | Medium |
+|	0024 | Swap Nodes in Pairs | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0024.swap_nodes_in_pairs.md) | 链表、递归、迭代 | Medium |
 |	0031 | Next Permutation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0031.next_permutation.md) | 数组、字典序 | Medium |
 |	0062 | Unique Paths | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0062.unique_paths.md) | 矩阵、数学、动态规划、组合数学 | Medium |
 |	0092 | Reverse Linked List II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0092.reverse_linked_list_II.md) | 链表、双指针、递归 | Medium |
@@ -416,6 +410,7 @@ Solutions to LeetCode by Python and JS.
 |	0921 | Minimum Add to Make Parentheses Valid | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0921.minimum_add_to_make_parentheses_valid.md) | 字符串、栈、贪心 | Medium |
 |	0973 | K Closest Points to Origin | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0973.K_closest_points_to_origin.md) | 数组、数学、排序、优先级队列、快速选择 | Medium |
 |	0023 | Merge k Sorted Lists | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0023.merge_k_sorted_lists.md) | 链表、双指针、分治、优先级队列（堆）、归并排序 | Hard |
+|	0025 | Reverse Nodes in k-Group | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0025.reverse_nodes_in_k-Group.md) | 链表、递归、迭代 | Hard |
 |	0032 | Longest Valid Parentheses | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0032.longest_valid_parentheses.md) | 字符串、栈、动态规划、贪心 | Hard |
 |	0042 | Trapping Rain Water | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0042.trapping_rain_water.md) | 数组、栈、单调栈、双指针 | Hard |
 |	0084 | Largest Rectangle in Histogram | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0084.largest_rectangle_in_histogram.md) | 双指针、栈、单调栈 | Hard |
