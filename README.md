@@ -115,12 +115,15 @@ Solutions to LeetCode by Python and JS.
 |	0394 | Decode String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0394.decode_string.md) | 字符串、栈 | Medium |
 |	0402 | Remove K Digits | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0402.remove_K_digits.md) | 字符串、栈、单调栈 | Medium |
 |	0503 | Next Greater Element II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0503.next_greater_element_II.md) | 数组、栈、单调栈 | Medium |
-|	0085 | Maximal Rectangle | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0085.maximal_rectangle.md) | 数组、栈、单调栈 | Medium |
+|	0085 | Maximal Rectangle | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0085.maximal_rectangle.md) | 数组、栈、单调栈 | Medium |
+|	0456 | 456.132 Pattern | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0456.132_pattern.md) | 数组、单调栈 | Medium |
 |	0735 | 735.Asteroid Collision | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0735.asteroid_collision.md) | 数组、栈 | Medium |
-|	0739 | Daily Temperatures | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0739.daily_temperatures.md) | 数组、栈、单调栈 | Medium |
-|	0946 | 946.Validate Stack Sequences | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0739.daily_temperatures.md) | 数组、栈、单调栈 | Medium |
+|	0739 | Daily Temperatures | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0739.daily_temperatures.md) | 数组、栈、单调栈 | Medium |
+|	0946 | 946.Validate Stack Sequences | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0739.daily_temperatures.md) | 数组、栈、单调栈 | Medium |
+|	1019 | Next Greater Node In Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/1019.next_greater_node_in_linked_list.md) | 链表、单调栈 | Medium |
 |	1249 | Minimum Remove to Make Valid Parentheses | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/1249.minimum_remove_to_make_valid_parentheses.md) | 数组、栈 | Medium |
 |	0224 | Basic Calculator | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0224.basic_calculator.md) | 字符串、栈 | Hard |
+|	0772 | 772.Basic Calculator III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0772.basic_calculator_III.md) | 字符串、栈 | Hard |
 |	0895 | Maximum Frequency Stack | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0895.maximum_frequency_stack.md) | 设计、模拟、栈 | Hard |
 
 ## Queue/Heap/Priority Queue
@@ -185,6 +188,7 @@ Solutions to LeetCode by Python and JS.
 |	0235 | Lowest Common Ancestor of a Binary Search Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0235.lowest_common_ancestor_of_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0236 | Lowest Common Ancestor of a Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0310 | Minimum Height Trees | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0310.minimum_height_trees.md) | 二叉树、BFS、拓扑排序 | Medium |
+|	0426 | 426.Convert Binary Search Tree to Sorted Doubly Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0426.convert_binary_search_tree_to_sorted_doubly_linked_list.md) | 二叉树、递归 | Medium |
 |	0427 | Construct Quad Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0427.construc_quad%20_tree.md) | 二叉树、递归 | Medium |
 |	0437 | Path Sum III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0437.path_sum_III.md) | 二叉树、DFS | Medium |
 |	0654 | Maximum Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0654.maximum_binary_tree.md) | 二叉树、递归 | Medium |
@@ -342,6 +346,7 @@ Solutions to LeetCode by Python and JS.
 |	0059 | Spiral Matrix II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0059.spiral_matrix_II.md) | 矩阵、模拟 | Medium |
 |	0146 | LRU Cache | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0146.LRU_cache.md) | 设计、数据结构 | Medium |
 |	0289 | Game of Life | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0289.game_of_life.md) | 矩阵、模拟 | Medium |
+|	1472 | 1472.Design Browser History | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/1472.design_browser_history.md) | 设计、模拟 | Medium |
 |	0068 | Text Justification | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0068.text_justification.md) | 字符串、模拟 | Hard |
 
 ## Math
@@ -398,10 +403,12 @@ Solutions to LeetCode by Python and JS.
 |	0542 | 01 Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0542.01_matrix.md) | 矩阵、BFS、动态规划 | Medium |
 |	0647 | Palindromic Substrings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0647.palindromic_substrings.md) | 字符串、动态规划、双指针中心扩展、Manacher 算法 | Medium |
 |	0673 | Number of Longest Increasing Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0673.number_of_longest_increasing_subsequence.md) | 动态规划、贪心+前缀和+二分查找 | Medium |
+|	0678 | Valid Parenthesis String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0678.vali_parenthesis_string.md) | 字符串、栈、贪心 | Medium |
 |	0698 | Partition to K Equal Sum Subsets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0698.partition_to_K_equal_sum_subsets.md) | 数组、动态规划、回溯、位运算、记忆化搜索 | Medium |
 |	0720 | Longest Word in Dictionary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0720.longest_word_in_dictionary.md) | 数组、字典树、哈希表、排序 | Medium |
 |	0721 | Accounts Merge | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0721.accounts_merge.md) | 数组、BFS、DFS、并查集（Union-find） | Medium |
 |	0918 | Maximum Sum Circular Subarray | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0918.maximum_sum_circular_subarray.md) | 数组、环形数组、分治、动态规划、单调队列 | Medium |
+|	0921 | Minimum Add to Make Parentheses Valid | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0921.minimum_add_to_make_parentheses_valid.md) | 字符串、栈、贪心 | Medium |
 |	0973 | K Closest Points to Origin | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0973.K_closest_points_to_origin.md) | 数组、数学、排序、优先级队列、快速选择 | Medium |
 |	0023 | Merge k Sorted Lists | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0023.merge_k_sorted_lists.md) | 链表、双指针、分治、优先级队列（堆）、归并排序 | Hard |
 |	0032 | Longest Valid Parentheses | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0032.longest_valid_parentheses.md) | 字符串、栈、动态规划、贪心 | Hard |
