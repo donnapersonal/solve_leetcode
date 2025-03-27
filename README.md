@@ -329,30 +329,30 @@ Solutions to LeetCode by Python and JS.
 |	0137 | Single Number II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0137.single_number_II.md) | 数组、位运算 | Medium |
 |	0201 | Bitwise AND of Numbers Range | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0201.bitwise_AND_of_numbers_range.md) | 位运算 | Medium |
 
-## Simulation
+## Simulation/Design
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
-|	0066 | Plus One | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0066.plus_one.md) | 数组 | Easy |
-|	0415 | Add Strings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0415.add_strings.md) | 字符串、模拟 | Easy |
-|	2022 | Convert 1D Array Into 2D Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/2022.convert_1D_array_into_2D_array.md) | 矩阵、数组 | Easy |
-|	0002 | Add Two Numbers | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0002.add_two_numbers.md) | 链表、模拟 | Medium |
-|	0006 | Zigzag Conversion | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0006.zigzag_conversion.md) | 字符串、模拟 | Medium |
-|	0008 | String to Integer (atoi) | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0008.string_to_integer_(atoi).md) | 数学、模拟 | Medium |
-|	0043 | Multiply Strings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0043.multiply_strings.md) | 字符串、模拟 | Medium |
-|	0048 | Rotate Image | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0048.rotate_image.md) | 数组、数学、矩阵 | Medium |
-|	0054 | Spiral Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0054.spiral_matrix.md) | 数组、数学、矩阵 | Medium |
-|	0059 | Spiral Matrix II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0059.spiral_matrix_II.md) | 矩阵、模拟 | Medium |
-|	0146 | LRU Cache | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0146.LRU_cache.md) | 设计、数据结构 | Medium |
-|	0237 | Delete Node in a Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0237.delete_node_in_a_linked_list.md) | 链表 | Medium |
-|	0289 | Game of Life | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0289.game_of_life.md) | 矩阵、模拟 | Medium |
-|	0355 | Design Twitter | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0355.design_twitter.md) | 设计 | Medium |
-|	0707 | Design Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0707.design_linked_list.md) | 链表、设计 | Medium |
-|	1472 | Design Browser History | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/1472.design_browser_history.md) | 设计、模拟 | Medium |
-|	2807 | Insert Greatest Common Divisors in Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/2807.inser_greatest_common_divisor_in_linked_list.md) | 设计、模拟 | Medium |
-|	0068 | Text Justification | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0068.text_justification.md) | 字符串、模拟 | Hard |
-|	0460 | LFU Cache | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0460.LFU_cache.md) | 设计、数据结构 | Hard |
-|	1206 | Design Skiplist | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/1206.design_skiplist.md) | 设计、数据结构 | Hard |
+|	0066 | Plus One | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0066.plus_one.md) | 数组 | Easy |
+|	0415 | Add Strings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0415.add_strings.md) | 字符串、模拟 | Easy |
+|	2022 | Convert 1D Array Into 2D Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/2022.convert_1D_array_into_2D_array.md) | 矩阵、数组 | Easy |
+|	0002 | Add Two Numbers | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0002.add_two_numbers.md) | 链表、模拟 | Medium |
+|	0006 | Zigzag Conversion | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0006.zigzag_conversion.md) | 字符串、模拟 | Medium |
+|	0008 | String to Integer (atoi) | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0008.string_to_integer_(atoi).md) | 数学、模拟 | Medium |
+|	0043 | Multiply Strings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0043.multiply_strings.md) | 字符串、模拟 | Medium |
+|	0048 | Rotate Image | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0048.rotate_image.md) | 数组、数学、矩阵 | Medium |
+|	0054 | Spiral Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0054.spiral_matrix.md) | 数组、数学、矩阵 | Medium |
+|	0059 | Spiral Matrix II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0059.spiral_matrix_II.md) | 矩阵、模拟 | Medium |
+|	0146 | LRU Cache | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0146.LRU_cache.md) | 设计、数据结构 | Medium |
+|	0237 | Delete Node in a Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0237.delete_node_in_a_linked_list.md) | 链表 | Medium |
+|	0289 | Game of Life | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0289.game_of_life.md) | 矩阵、模拟 | Medium |
+|	0355 | Design Twitter | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0355.design_twitter.md) | 设计 | Medium |
+|	0707 | Design Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0707.design_linked_list.md) | 链表、设计 | Medium |
+|	1472 | Design Browser History | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/1472.design_browser_history.md) | 设计、模拟 | Medium |
+|	2807 | Insert Greatest Common Divisors in Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/2807.inser_greatest_common_divisor_in_linked_list.md) | 设计、模拟 | Medium |
+|	0068 | Text Justification | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0068.text_justification.md) | 字符串、模拟 | Hard |
+|	0460 | LFU Cache | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0460.LFU_cache.md) | 设计、数据结构 | Hard |
+|	1206 | Design Skiplist | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/1206.design_skiplist.md) | 设计、数据结构 | Hard |
 
 ## Math
 
