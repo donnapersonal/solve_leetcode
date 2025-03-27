@@ -13,6 +13,7 @@ Solutions to LeetCode by Python and JS.
 |	0383 | Ransom Note | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0383.ransom_note.md) | 字符串、哈希表 | Easy |
 |	0387 | First Unique Character in a String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hashing/0387.first_unique_character_in_a_string.md) | 字符串、哈希表 | Easy |
 |	0448 | Find All Numbers Disappeared in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0448.find_all_numbers_disappeared_in_an_array.md) | 数组、哈希表 | Easy |
+|	0706 | Design HashMap | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hashing/0706.design_hashMap.md) | 数组、哈希 | Easy |
 |	0036 | Valid Sudoku | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0036.valid_sudoku.md) | 数独、哈希 | Medium |
 |	0049 | Group Anagrams | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0049.group_anagrams.md) | 数组、哈希表 | Medium |
 |	0073 | Set Matrix Zeroes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Hash/0073.set_matrix_zeroes.md) | 矩阵、哈希表 | Medium |
@@ -97,8 +98,9 @@ Solutions to LeetCode by Python and JS.
 | 0252 | Meeting Rooms | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sort/0252.meeting_rooms.md) | 数组、排序 | Easy |
 | 0179 | Largest Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sort/0179.largest_number.md) | 数组、排序 | Easy |
 |	0056 | Merge Intervals | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sort/0056.merge_intervals.md) | 数组、排序 | Medium |
+|	0147 | 147.Insertion Sort List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sort/0147.insertion_sort_list.md) | 链表、插入排序 | Medium |
 |	0148 | Sort List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sort/0148.sort_list.md) | 链表、归并排序 | Medium |
-|	0912 | 912.Sort an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sort/0912.sort_an_array.md) | 数组、排序 | Medium |
+|	0912 | Sort an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sort/0912.sort_an_array.md) | 数组、排序 | Medium |
 
 
 
@@ -126,7 +128,7 @@ Solutions to LeetCode by Python and JS.
 |	1249 | Minimum Remove to Make Valid Parentheses | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/1249.minimum_remove_to_make_valid_parentheses.md) | 数组、栈 | Medium |
 |	0224 | Basic Calculator | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0224.basic_calculator.md) | 字符串、栈 | Hard |
 |	0321 | Create Maximum Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0224.basic_calculator.md) | 字符串、单调栈 | Hard |
-|	0726 | 726.Number of Atoms | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0726.number_of_atoms.md) | 字符串、栈 | Hard |
+|	0726 | Number of Atoms | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0726.number_of_atoms.md) | 字符串、栈 | Hard |
 |	0772 | Basic Calculator III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0772.basic_calculator_III.md) | 字符串、栈 | Hard |
 |	0895 | Maximum Frequency Stack | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0895.maximum_frequency_stack.md) | 设计、模拟、栈 | Hard |
 
@@ -139,7 +141,7 @@ Solutions to LeetCode by Python and JS.
 |	0295 | Find Median from Data Stream | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0295.find_median_from_data_stream.md) | 设计、数组、优先级队列 | Hard |
 |	0358 | Rearrange String k Distance Apart | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0358.rearrange_string_k_distance_apart.md) | 字符串、优先级队列 (最大堆) | Hard |
 |	0480 | Sliding Window Median | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0480.sliding_window_median.md) | 数组、优先级队列（堆）+ 哈希表 + 滑动窗口 | Hard |
-|	0502 | 502.IPO | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0502.IPO.md) | 数组、堆（优先级队列） | Hard |
+|	0502 | IPO | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0502.IPO.md) | 数组、堆（优先级队列） | Hard |
 |	0630 | Course Schedule III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0630.course_schedule_III.md) | 数组、优先级队列（堆）+ 贪心 | Hard |
 |	0632 | Smallest Range Covering Elements from K Lists | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0632.smallest_range_covering_elements_from_K_lists.md) | 数组、堆、最小堆 | Hard |
 
@@ -181,7 +183,7 @@ Solutions to LeetCode by Python and JS.
 |	0105 | Construct Binary Tree from Preorder and Inorder Traversal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0105.construct_binary_tree_from_preorder_and_inorder_traversal.md) | 二叉树、递归 | Medium |
 |	0106 | Construct Binary Tree from Inorder and Postorder Traversal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0106.construct_binary_tree_from_inorder_and_postorder_traversal.md) | 二叉树、递归、迭代 | Medium |
 |	0107 | Binary Tree Level Order Traversal II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0107.binary_tree_level_order_traversal_II.md) | 二叉树、BFS | Medium |
-|	0113 | 113.Path Sum II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0113.path_sum_II.md) | 二叉树、递归、迭代 | Medium |
+|	0113 | Path Sum II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0113.path_sum_II.md) | 二叉树、递归、迭代 | Medium |
 |	0114 | Flatten Binary Tree to Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0114.flatten_binary_tree_to_linked_list.md) | 二叉树、递归、迭代 | Medium |
 |	0117 | f | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0117.populating_next_right_pointers_in_each_node_II.md) | 二叉树、递归、迭代 | Medium |
 |	0129 | Sum Root to Leaf Numbers | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0129.sum_root_to_leaf_numbers.md) | 二叉树、递归、迭代 | Medium |
@@ -193,7 +195,7 @@ Solutions to LeetCode by Python and JS.
 |	0235 | Lowest Common Ancestor of a Binary Search Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0235.lowest_common_ancestor_of_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0236 | Lowest Common Ancestor of a Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0310 | Minimum Height Trees | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0310.minimum_height_trees.md) | 二叉树、BFS、拓扑排序 | Medium |
-|	0426 | 426.Convert Binary Search Tree to Sorted Doubly Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0426.convert_binary_search_tree_to_sorted_doubly_linked_list.md) | 二叉树、递归 | Medium |
+|	0426 | Convert Binary Search Tree to Sorted Doubly Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0426.convert_binary_search_tree_to_sorted_doubly_linked_list.md) | 二叉树、递归 | Medium |
 |	0427 | Construct Quad Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0427.construc_quad%20_tree.md) | 二叉树、递归 | Medium |
 |	0437 | Path Sum III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0437.path_sum_III.md) | 二叉树、DFS | Medium |
 |	0654 | Maximum Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0654.maximum_binary_tree.md) | 二叉树、递归 | Medium |
@@ -324,7 +326,7 @@ Solutions to LeetCode by Python and JS.
 |	0136 | Single Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0136.single_number.md) | 数组、位运算 | Easy |
 |	0190 | Reverse Bits | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0190.reverse_bits.md) | 位运算 | Easy |
 |	0191 | Number of 1 Bits | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0191.number_of_1_bits.md) | 位运算 | Easy |
-|	0137 | 137.Single Number II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0137.single_number_II.md) | 数组、位运算 | Medium |
+|	0137 | Single Number II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0137.single_number_II.md) | 数组、位运算 | Medium |
 |	0201 | Bitwise AND of Numbers Range | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0201.bitwise_AND_of_numbers_range.md) | 位运算 | Medium |
 
 ## Simulation
@@ -342,9 +344,15 @@ Solutions to LeetCode by Python and JS.
 |	0054 | Spiral Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0054.spiral_matrix.md) | 数组、数学、矩阵 | Medium |
 |	0059 | Spiral Matrix II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0059.spiral_matrix_II.md) | 矩阵、模拟 | Medium |
 |	0146 | LRU Cache | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0146.LRU_cache.md) | 设计、数据结构 | Medium |
+|	0237 | Delete Node in a Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0237.delete_node_in_a_linked_list.md) | 链表 | Medium |
 |	0289 | Game of Life | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0289.game_of_life.md) | 矩阵、模拟 | Medium |
-|	1472 | 1472.Design Browser History | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/1472.design_browser_history.md) | 设计、模拟 | Medium |
+|	0355 | Design Twitter | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0355.design_twitter.md) | 设计 | Medium |
+|	0707 | Design Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0707.design_linked_list.md) | 链表、设计 | Medium |
+|	1472 | Design Browser History | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/1472.design_browser_history.md) | 设计、模拟 | Medium |
+|	2807 | Insert Greatest Common Divisors in Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/2807.inser_greatest_common_divisor_in_linked_list.md) | 设计、模拟 | Medium |
 |	0068 | Text Justification | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0068.text_justification.md) | 字符串、模拟 | Hard |
+|	0460 | LFU Cache | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/0460.LFU_cache.md) | 设计、数据结构 | Hard |
+|	1206 | Design Skiplist | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation/1206.design_skiplist.md) | 设计、数据结构 | Hard |
 
 ## Math
 
