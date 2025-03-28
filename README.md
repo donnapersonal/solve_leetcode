@@ -71,6 +71,7 @@ Solutions to LeetCode by Python and JS.
 |	2516 | Take K of Each Character From Left and Right | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/2516.take_K_of_each_characte_from_left_and_right.md) | 字符串、双指针 | Medium |
 |	0030 | Substring with Concatenation of All Words | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0030.substring_with_concatenation_of_all_words.md) | 字符串、滑动窗口 | Hard |
 |	0076 | Minimum Window Substring | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0076.minimum_window_substring.md) | 字符串、滑动窗口 | Hard |
+|	0683 | K Empty Slots | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0683.K_empty_slots.md) | 数组、滑动窗口 | Hard |
 |	0995 | Minimum Number of K Consecutive Bit Flips | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0995.minimum_number_of_K_consecutive_bit_flips.md) | 数组、滑动窗口 | Hard |
 
 ## Binary search
@@ -280,7 +281,9 @@ Solutions to LeetCode by Python and JS.
 |	0516 | Longest Palindromic Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0516.longest_palindromic_subsequence.md) | 字符串、动态规划 | Medium |
 |	0740 | Delete and Earn | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0740.delete_and_earn.md) | 数组、动态规划 | Medium |
 |	1143 | Longest Common Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1143.longest_common_subsequence.md) | 动态规划 | Medium |
-|	0010 | Regular Expression Matching | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0010.regular_expression_matching.md) | 动态规划 | Medium |
+|	1696 | Jump Game VI | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1696.jump_game_VI.md) | 数组、单调队列、动态规划 | Medium |
+|	2297 | Jump Game VIII | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/2297.jump_game_VIII.md) | 数组、单调栈、动态规划 | Medium |
+|	0010 | Regular Expression Matching | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0010.regular_expression_matching.md) | 动态规划 | Hard |
 |	0123 | Best Time to Buy and Sell Stock III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0123.best_time_to_buy_and_sell_stock_III.md) | 动态规划 | Hard |
 |	0188 | 188.Best Time to Buy and Sell Stock IV | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0188.best_time_to_buy_and_sell_stock_IV.md) | 动态规划 | Hard |
 |	0828 | Count Unique Characters of All Substrings of a Given String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0828.coun_unique_characters_of_all_substrings_of_a_given_string.md) | 字符串、动态规划 | Hard |
@@ -339,7 +342,9 @@ Solutions to LeetCode by Python and JS.
 |	--- |	--- | --- | --- | --- |
 |	0066 | Plus One | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0066.plus_one.md) | 数组 | Easy |
 |	0415 | Add Strings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0415.add_strings.md) | 字符串、模拟 | Easy |
+|	1700 | Number of Students Unable to Eat Lunch | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/1700.number_of_students_unable_to_eat_lunch.md) | 设计、计数法、贪心 | Easy |
 |	2022 | Convert 1D Array Into 2D Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/2022.convert_1D_array_into_2D_array.md) | 矩阵、数组 | Easy |
+|	2073 | Time Needed to Buy Tickets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/2073.time_needed_to_buy_tickets.md) | 数组、模拟队列 | Easy |
 |	0002 | Add Two Numbers | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0002.add_two_numbers.md) | 链表、模拟 | Medium |
 |	0006 | Zigzag Conversion | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0006.zigzag_conversion.md) | 字符串、模拟 | Medium |
 |	0008 | String to Integer (atoi) | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0008.string_to_integer_(atoi).md) | 数学、模拟 | Medium |
@@ -428,6 +433,7 @@ Solutions to LeetCode by Python and JS.
 |	0084 | Largest Rectangle in Histogram | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0084.largest_rectangle_in_histogram.md) | 双指针、栈、单调栈 | Hard |
 |	0336 | Palindrome Pairs | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0336.palindrome_pairs.md) | 数组、字符串、字典树、哈希表 | Hard |
 |	0472 | Concatenated Words | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0472.concatenated_words.md) | 数组、递归、记忆化搜索（备忘录）、字典树 | Hard |
+
 
 
 
