@@ -53,6 +53,7 @@ Solutions to LeetCode by Python and JS.
 |	0189 | Rotate Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0189.potate_array.md) | 数组、双指针 + 数组翻转 | Medium |
 |	0253 | Meeting Rooms II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0253.meeting_rooms_II.md) | 数组、双指针 + 排序 | Medium |
 |	0328 | Odd Even Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0328.odd_even_linked_list.md) | 链表、双指针 | Medium |
+|	0633 | Sum of Square Numbers | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0633.sum_of_square_numbers.md) | 双指针 | Medium |
 |	0986 | Interval List Intersections | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0986.interval_list_intersections.md) | 数组、双指针 | Medium |
 
 ## Sliding window
@@ -67,6 +68,7 @@ Solutions to LeetCode by Python and JS.
 |	0567 | Permutation in String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0567.permutation_in_string.md) | 字符串、滑动窗口 | Medium |
 |	0713 | Subarray Product Less Than K | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0713.subarray_product_less_than_K.md) | 数组、滑动窗口 | Medium |
 |	0904 | Fruit Into Baskets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0904.fruit_into_baskets.md) | 数组、滑动窗口 | Medium |
+|	1004 | Max Consecutive Ones III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/1004.max_consecutive_ones_III.md) | 数组、滑动窗口 | Medium |
 |	1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/1438.longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.md) | 数组、单调队列、滑动窗口 | Medium |
 |	2516 | Take K of Each Character From Left and Right | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/2516.take_K_of_each_characte_from_left_and_right.md) | 字符串、双指针 | Medium |
 |	0030 | Substring with Concatenation of All Words | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0030.substring_with_concatenation_of_all_words.md) | 字符串、滑动窗口 | Hard |
@@ -90,8 +92,10 @@ Solutions to LeetCode by Python and JS.
 |	0162 | Find Peak Element | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0162.find_peak_element.md) | 数组、二分查找 | Medium |
 |	0658 | Find K Closest Elements | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0658.find_K_closest_elements.md) | 数组、二分查找 | Medium |
 |	0852 | Peak Index in a Mountain Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0852.peak_index_in_a_mountain_array.md) | 数组、二分查找 | Medium |
+|	0875 | Koko Eating Bananas | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0875.koko_eating_bananas.md) | 数组、二分查找 | Medium |
 |	0981 | Time Based Key-Value Store | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0981.time_based_Key-Value_store.md) | 设计、二分查找 | Medium |
 |	0004 | Median of Two Sorted Arrays | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0004.median_of_two_sorted_arrays.md) | 数组、二分查找 | Hard |
+|	1044 | Longest Duplicate Substrings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/1044.longest_duplicate_substrings.md) | 字符串、二分查找 + Rabin-Karp | Hard |
 
 ## Sort
 
@@ -103,8 +107,7 @@ Solutions to LeetCode by Python and JS.
 |	0147 | 147.Insertion Sort List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sort/0147.insertion_sort_list.md) | 链表、插入排序 | Medium |
 |	0148 | Sort List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sort/0148.sort_list.md) | 链表、归并排序 | Medium |
 |	0912 | Sort an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sort/0912.sort_an_array.md) | 数组、排序 | Medium |
-
-
+|	0315 | Count of Smaller Numbers After Self | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sort/0315.count_of_smaller_numbers_after_self.md) | 数组、归并排序 | Hard |
 
 ## Stack
 |	No. |	Title |	Solution | Tags | Difficulty |
@@ -287,6 +290,7 @@ Solutions to LeetCode by Python and JS.
 |	0123 | Best Time to Buy and Sell Stock III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0123.best_time_to_buy_and_sell_stock_III.md) | 动态规划 | Hard |
 |	0188 | 188.Best Time to Buy and Sell Stock IV | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0188.best_time_to_buy_and_sell_stock_IV.md) | 动态规划 | Hard |
 |	0828 | Count Unique Characters of All Substrings of a Given String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0828.coun_unique_characters_of_all_substrings_of_a_given_string.md) | 字符串、动态规划 | Hard |
+|	0887 | 887.Super Egg Drop | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0828.coun_unique_characters_of_all_substrings_of_a_given_string.md) | 字符串、动态规划 | Hard |
 |	1235 | Maximum Profit in Job Scheduling | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1235.maximum_profit_in_job_scheduling.md) | 数组、动态规划 | Hard |
 
 ## Graph
@@ -421,8 +425,10 @@ Solutions to LeetCode by Python and JS.
 |	0673 | Number of Longest Increasing Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0673.number_of_longest_increasing_subsequence.md) | 动态规划、贪心+前缀和+二分查找 | Medium |
 |	0678 | Valid Parenthesis String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0678.vali_parenthesis_string.md) | 字符串、栈、贪心 | Medium |
 |	0698 | Partition to K Equal Sum Subsets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0698.partition_to_K_equal_sum_subsets.md) | 数组、动态规划、回溯、位运算、记忆化搜索 | Medium |
+|	0718 | Maximum Length of Repeated Subarray | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0698.partition_to_K_equal_sum_subsets.md) | 数组、动态规划、滑动窗口、二分查找+哈希 | Medium |
 |	0720 | Longest Word in Dictionary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0720.longest_word_in_dictionary.md) | 数组、字典树、哈希表、排序 | Medium |
 |	0721 | Accounts Merge | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0721.accounts_merge.md) | 数组、BFS、DFS、并查集（Union-find） | Medium |
+|	0729 | My Calendar I | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0729.my_calendar_I.md) | 设计、直接遍历、二分查找、线段树 | Medium |
 |	0918 | Maximum Sum Circular Subarray | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0918.maximum_sum_circular_subarray.md) | 数组、环形数组、分治、动态规划、单调队列 | Medium |
 |	0921 | Minimum Add to Make Parentheses Valid | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0921.minimum_add_to_make_parentheses_valid.md) | 字符串、栈、贪心 | Medium |
 |	0973 | K Closest Points to Origin | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0973.K_closest_points_to_origin.md) | 数组、数学、排序、优先级队列、快速选择 | Medium |
