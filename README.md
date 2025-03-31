@@ -70,6 +70,7 @@ Solutions to LeetCode by Python and JS.
 |	0904 | Fruit Into Baskets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0904.fruit_into_baskets.md) | 数组、滑动窗口 | Medium |
 |	1004 | Max Consecutive Ones III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/1004.max_consecutive_ones_III.md) | 数组、滑动窗口 | Medium |
 |	1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/1438.longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.md) | 数组、单调队列、滑动窗口 | Medium |
+|	1658 | Minimum Operations to Reduce X to Zero | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/1658.minimum_operations_to_reduce_X_to_zero.md) | 数组、滑动窗口 | Medium |
 |	2516 | Take K of Each Character From Left and Right | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/2516.take_K_of_each_characte_from_left_and_right.md) | 字符串、双指针 | Medium |
 |	0030 | Substring with Concatenation of All Words | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0030.substring_with_concatenation_of_all_words.md) | 字符串、滑动窗口 | Hard |
 |	0076 | Minimum Window Substring | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0076.minimum_window_substring.md) | 字符串、滑动窗口 | Hard |
@@ -90,6 +91,8 @@ Solutions to LeetCode by Python and JS.
 |	0081 | Search in Rotated Sorted Array II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0081.search_in_rotated_sorted_array_II.md) | 数组、二分查找 | Medium |
 |	0153 | Find Minimum in Rotated Sorted Array | [Js/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0153.find_minimum_in_rotated_sorted_array.md) | 数组、二分查找 | Medium |
 |	0162 | Find Peak Element | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0162.find_peak_element.md) | 数组、二分查找 | Medium |
+|	0275 | H-Index II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0275.H-Index_II.md) | 数组、二分查找 | Medium |
+|	0540 | Single Element in a Sorted Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0540.single_element_in_a_sorted_array.md) | 数组、二分查找 | Medium |
 |	0658 | Find K Closest Elements | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0658.find_K_closest_elements.md) | 数组、二分查找 | Medium |
 |	0852 | Peak Index in a Mountain Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0852.peak_index_in_a_mountain_array.md) | 数组、二分查找 | Medium |
 |	0875 | Koko Eating Bananas | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0875.koko_eating_bananas.md) | 数组、二分查找 | Medium |
@@ -283,6 +286,7 @@ Solutions to LeetCode by Python and JS.
 |	0474 | Ones and Zeroes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0474.ones_and_zeroes%20.md) | 数组、动态规划 | Medium |
 |	0516 | Longest Palindromic Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0516.longest_palindromic_subsequence.md) | 字符串、动态规划 | Medium |
 |	0740 | Delete and Earn | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0740.delete_and_earn.md) | 数组、动态规划 | Medium |
+|	1027 | 1027.Longest Arithmetic Subsequencen | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0740.delete_and_earn.md) | 数组、动态规划 | Medium |
 |	1143 | Longest Common Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1143.longest_common_subsequence.md) | 动态规划 | Medium |
 |	1696 | Jump Game VI | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1696.jump_game_VI.md) | 数组、单调队列、动态规划 | Medium |
 |	2297 | Jump Game VIII | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/2297.jump_game_VIII.md) | 数组、单调栈、动态规划 | Medium |
@@ -418,6 +422,7 @@ Solutions to LeetCode by Python and JS.
 |	0347 | Top K Frequent Elements | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0347.top_K_frequent_elements.md) | 数组、哈希表、优先级队列 | Medium |
 |	0378 | Kth Smallest Element in a Sorted Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0378.Kth_smallest_element_in_a_sorted_matrix.md) | 矩阵、链表双指针、二分查找、优先级队列（堆）| Medium |
 |	0421 | Maximum XOR of Two Numbers in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0421.maximum_XOR_of_two_numbers_in_an_array.md) | 数组、位运算、字典树、哈希表 | Medium |
+|	0475 | Heaters | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0475.heaters.md) | 数组、排序+二分查找、排序+双指针 | Medium |
 |	0451 | Sort Characters By Frequency | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0451.sort_characters_by_frequency.md) | 字符串、优先级队列（二叉堆）、桶排序| Medium |
 |	0494 | Target Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0494.target_sum.md) | 数组、回溯、动态 | Medium |
 |	0542 | 01 Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0542.01_matrix.md) | 矩阵、BFS、动态规划 | Medium |
@@ -438,6 +443,7 @@ Solutions to LeetCode by Python and JS.
 |	0042 | Trapping Rain Water | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0042.trapping_rain_water.md) | 数组、栈、单调栈、双指针 | Hard |
 |	0084 | Largest Rectangle in Histogram | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0084.largest_rectangle_in_histogram.md) | 双指针、栈、单调栈 | Hard |
 |	0336 | Palindrome Pairs | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0336.palindrome_pairs.md) | 数组、字符串、字典树、哈希表 | Hard |
+|	0410 | Split Array Largest Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0410.split_array_largest_sum.md) | 数组、贪心、二分查找、DP | Hard |
 |	0472 | Concatenated Words | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0472.concatenated_words.md) | 数组、递归、记忆化搜索（备忘录）、字典树 | Hard |
 
 
