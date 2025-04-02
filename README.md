@@ -53,6 +53,7 @@ Solutions to LeetCode by Python and JS.
 |	0189 | Rotate Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0189.potate_array.md) | 数组、双指针 + 数组翻转 | Medium |
 |	0253 | Meeting Rooms II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0253.meeting_rooms_II.md) | 数组、双指针 + 排序 | Medium |
 |	0328 | Odd Even Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0328.odd_even_linked_list.md) | 链表、双指针 | Medium |
+|	0611 | Valid Triangle Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0611.valid_triangle_number.md) | 数组、双指针 | Medium |
 |	0633 | Sum of Square Numbers | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0633.sum_of_square_numbers.md) | 双指针 | Medium |
 |	0986 | Interval List Intersections | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0986.interval_list_intersections.md) | 数组、双指针 | Medium |
 
@@ -83,6 +84,7 @@ Solutions to LeetCode by Python and JS.
 |	--- |	--- | --- | --- | --- |
 |	0035 | Search Insert Position | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0035.search_insert_position.md) | 数组、二分查找 | Easy |
 |	0278 | First Bad Version | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0278.first_bad_version.md) | 数组、二分查找 | Easy |
+
 |	0704 | Binary Search | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0704.binary_search.md) | 数组、二分查找 | Easy |
 |	0744 | Find Smallest Letter Greater Than Target | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0744.find_smallest_letter_greater_than_target.md) | 数组、二分查找 | Easy |
 |	0033 | Search in Rotated Sorted Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0033.search_in_rotated_sorted_array.md) | 数组、二分查找 | Medium |
@@ -97,6 +99,8 @@ Solutions to LeetCode by Python and JS.
 |	0852 | Peak Index in a Mountain Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0852.peak_index_in_a_mountain_array.md) | 数组、二分查找 | Medium |
 |	0875 | Koko Eating Bananas | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0875.koko_eating_bananas.md) | 数组、二分查找 | Medium |
 |	0981 | Time Based Key-Value Store | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0981.time_based_Key-Value_store.md) | 设计、二分查找 | Medium |
+|	2080 | Range Frequency Queries | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/2080.range_frequency_queries.md) | 设计、二分查找 | Medium |
+|	2187 | Minimum Time to Complete Trips | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/2187.minimum_time_to_complete_trips.md) | 数组、二分查找 | Medium |
 |	0004 | Median of Two Sorted Arrays | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0004.median_of_two_sorted_arrays.md) | 数组、二分查找 | Hard |
 |	1044 | Longest Duplicate Substrings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/1044.longest_duplicate_substrings.md) | 字符串、二分查找 + Rabin-Karp | Hard |
 
@@ -290,6 +294,8 @@ Solutions to LeetCode by Python and JS.
 |	1143 | Longest Common Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1143.longest_common_subsequence.md) | 动态规划 | Medium |
 |	1696 | Jump Game VI | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1696.jump_game_VI.md) | 数组、单调队列、动态规划 | Medium |
 |	2297 | Jump Game VIII | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/2297.jump_game_VIII.md) | 数组、单调栈、动态规划 | Medium |
+|	3186 | Maximum Total Damage With Spell Casting | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/3186.maximum_total_damage_with_spell_casting.md) | 数组、动态规划 | Medium |
+|	3291 | Minimum Number of Valid Strings to Form Target I | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/3291.minimum_number_of_valid_strings_to_form_target_I.md) | 数组、字符串、动态规划 | Medium |
 |	0010 | Regular Expression Matching | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0010.regular_expression_matching.md) | 动态规划 | Hard |
 |	0123 | Best Time to Buy and Sell Stock III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0123.best_time_to_buy_and_sell_stock_III.md) | 动态规划 | Hard |
 |	0188 | 188.Best Time to Buy and Sell Stock IV | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0188.best_time_to_buy_and_sell_stock_IV.md) | 动态规划 | Hard |
@@ -332,6 +338,7 @@ Solutions to LeetCode by Python and JS.
 |	0057 | Insert Interval | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0057.insert_interval.md) | 数组、扫描 | Medium |
 |	0082 | Remove Duplicates from Sorted List II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0082.remove_duplicates_from_sorted_list_II.md) | 链表、扫描 | Medium |
 |	0086 | Partition List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0086.partition_list.md) | 链表、双指针 | Medium |
+|	2982 | Find Longest Special Substring That Occurs Thrice II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/2982.find_longest_special_substring_that_occurs_thrice_II.md) | 字符串、线性扫描+贪心 | Medium |
 |	0759 | Employee Free Time | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0759.employee_free_time.md) | 数组、扫描线法 | Hard |
 
 ## Bit
@@ -396,6 +403,7 @@ Solutions to LeetCode by Python and JS.
 |	0268 | Missing Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0268.missing_number.md) | 数组、位运算、哈希表 | Easy |
 |	0344 | Reverse String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0344.reverse_string.md) | 字符串、栈、递归、双指针 | Easy |
 |	0349 | Intersection of Two Arrays | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0349.intersection_of_two_arrays.md) | 数组、哈希表、双指针 | Easy |
+|	0350 | Intersection of Two Arrays II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0350.intersection_of_two_arrays_II.md) | 数组、哈希表、双指针 | Easy |
 |	0389 | Find the Difference | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0389.find_the_difference.md) | 字符串、哈希表、位运算 | Easy |
 |	0459 | Repeated Substring Pattern | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0459.repeated_substring_pattern.md) | 字符串、移动匹配、KMP 算法 | Easy |
 |	0844 | Backspace String Compare | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0844.backspace_string_compare.md) | 字符串、栈、双指针 | Easy |
