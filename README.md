@@ -84,7 +84,6 @@ Solutions to LeetCode by Python and JS.
 |	--- |	--- | --- | --- | --- |
 |	0035 | Search Insert Position | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0035.search_insert_position.md) | 数组、二分查找 | Easy |
 |	0278 | First Bad Version | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0278.first_bad_version.md) | 数组、二分查找 | Easy |
-
 |	0704 | Binary Search | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0704.binary_search.md) | 数组、二分查找 | Easy |
 |	0744 | Find Smallest Letter Greater Than Target | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0744.find_smallest_letter_greater_than_target.md) | 数组、二分查找 | Easy |
 |	0033 | Search in Rotated Sorted Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0033.search_in_rotated_sorted_array.md) | 数组、二分查找 | Medium |
@@ -99,8 +98,10 @@ Solutions to LeetCode by Python and JS.
 |	0852 | Peak Index in a Mountain Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0852.peak_index_in_a_mountain_array.md) | 数组、二分查找 | Medium |
 |	0875 | Koko Eating Bananas | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0875.koko_eating_bananas.md) | 数组、二分查找 | Medium |
 |	0981 | Time Based Key-Value Store | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0981.time_based_Key-Value_store.md) | 设计、二分查找 | Medium |
+|	1760 | Minimum Limit of Balls in a Bag | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/1760.minimum_limit_of_balls_in_a_bag.md) | 数组、二分查找 | Medium |
 |	2080 | Range Frequency Queries | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/2080.range_frequency_queries.md) | 设计、二分查找 | Medium |
 |	2187 | Minimum Time to Complete Trips | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/2187.minimum_time_to_complete_trips.md) | 数组、二分查找 | Medium |
+|	2563 | Count the Number of Fair Pairs | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/2563.count_the_number_of_fair_pairs.md) | 数组、二分查找 | Medium |
 |	0004 | Median of Two Sorted Arrays | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0004.median_of_two_sorted_arrays.md) | 数组、二分查找 | Hard |
 |	1044 | Longest Duplicate Substrings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/1044.longest_duplicate_substrings.md) | 字符串、二分查找 + Rabin-Karp | Hard |
 
@@ -226,6 +227,8 @@ Solutions to LeetCode by Python and JS.
 |	--- |	--- | --- | --- | --- |
 |	0009 | Palindrome Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0009.palindrome_number.md) | 数字、贪心 | Easy |
 |	0409 | Longest Palindrome | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0409.longest_palindrome.md) | 字符串、贪心 | Easy |
+|	0455 | Assign Cookies | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0455.assign_cookies.md) | 数组、贪心 | Easy |
+|	0605 | Can Place Flowers | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0605.can_place_flowers.md) | 数组、贪心 | Easy |
 |	0012 | Integer to Roman | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0012.integer_to_roman.md) | 字符串、贪心 | Medium |
 |	0045 | Jump Game II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0045.jump_game_II.md) | 数组、贪心 | Medium |
 |	0055 | Jump Game | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0055.jump_game.md) | 数组、动态规划、贪心 | Medium |
@@ -233,6 +236,8 @@ Solutions to LeetCode by Python and JS.
 |	0435 | Non-overlapping Intervals | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0435.non-overlapping_intervals.md) | 数组、贪心 + 排序 | Medium |
 |	0452 | Minimum Number of Arrows to Burst Balloons | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0452.minimum_number_of_arrows_to_burst_balloons.md) | 数组、贪心 + 排序 | Medium |
 |	0621 | Task Scheduler | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0621.task_scheduler.md) | 数组、贪心 | Medium |
+|	0624 | Maximum Distance in Arrays | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0624.maximum_distance_in_arrays.md) | 数组、贪心 | Medium |
+|	0670 | Maximum Swap | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0670.maximum_swap.md) | 数字、贪心 | Medium |
 |	0763 | Partition Labels | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0763.partition_labels.md) | 字符串、贪心 | Medium |
 |	0767 | Reorganize String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0767.reorganize_string.md) | 字符串、贪心 | Medium |
 |	3191 | Minimum Operations to Make Binary Array Elements Equal to One I | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/3191.minimum_operations_to_make_binary_array_elements_equal_to_one_I.md) | 数组、贪心 | Medium |
@@ -444,11 +449,13 @@ Solutions to LeetCode by Python and JS.
 |	0729 | My Calendar I | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0729.my_calendar_I.md) | 设计、直接遍历、二分查找、线段树 | Medium |
 |	0918 | Maximum Sum Circular Subarray | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0918.maximum_sum_circular_subarray.md) | 数组、环形数组、分治、动态规划、单调队列 | Medium |
 |	0921 | Minimum Add to Make Parentheses Valid | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0921.minimum_add_to_make_parentheses_valid.md) | 字符串、栈、贪心 | Medium |
-|	0973 | K Closest Points to Origin | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0973.K_closest_points_to_origin.md) | 数组、数学、排序、优先级队列、快速选择 | Medium |
+|	0973 | K Closest Points to Origin | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0973.K_closest_points_to_origin.md) | 数组、贪心、动态规划 | Medium |
+|	1262 | Greatest Sum Divisible by Three | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/1262.greatest_sum_divisible_by_three.md) | 数组、数学、排序、优先级队列、快速选择 | Medium |
 |	0023 | Merge k Sorted Lists | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0023.merge_k_sorted_lists.md) | 链表、双指针、分治、优先级队列（堆）、归并排序 | Hard |
 |	0025 | Reverse Nodes in k-Group | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0025.reverse_nodes_in_k-Group.md) | 链表、递归、迭代 | Hard |
 |	0032 | Longest Valid Parentheses | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0032.longest_valid_parentheses.md) | 字符串、栈、动态规划、贪心 | Hard |
 |	0042 | Trapping Rain Water | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0042.trapping_rain_water.md) | 数组、栈、单调栈、双指针 | Hard |
+|	0044 | 44.Wildcard Matching | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0042.trapping_rain_water.md) | 数组、栈、单调栈、双指针 | Hard |
 |	0084 | Largest Rectangle in Histogram | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0084.largest_rectangle_in_histogram.md) | 双指针、栈、单调栈 | Hard |
 |	0336 | Palindrome Pairs | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0336.palindrome_pairs.md) | 数组、字符串、字典树、哈希表 | Hard |
 |	0410 | Split Array Largest Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0410.split_array_largest_sum.md) | 数组、贪心、二分查找、DP | Hard |
