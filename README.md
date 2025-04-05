@@ -192,6 +192,7 @@ Solutions to LeetCode by Python and JS.
 |	0617 | Merge Two Binary Trees | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0617.merge_two_binary_trees.md) | 二叉树、递归、迭代 | Easy |
 |	0637 | Average of Levels in Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0637.average_of_levels_in_binary_tree.md) | 二叉树、BFS | Easy |
 |	1065 | Index Pairs of a String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/1065.index_pairs_of_a_string.md) | 字符串、字典树 | Easy |
+|	0095 | Unique Binary Search Trees II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0095.unique_binary_search_trees_II.md) | 二叉树、DFS | Medium |
 |	0098 | Validate Binary Search Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0098.validate_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0102 | Binary Tree Level Order Traversal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0102.binary_tree_level_order_traversal.md) | 二叉树、BFS | Medium |
 |	0103 | Binary Tree Zigzag Level Order Traversal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0103.binary_tree_zigzag_level_order_traversal.md) | 二叉树、层次遍历 | Medium |
@@ -268,6 +269,7 @@ Solutions to LeetCode by Python and JS.
 |	0216 | Combination Sum III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0216.ombination_sum_III.md) | 组合、回溯 | Medium |
 |	0254 | Factor Combinations | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0254.factor_combinations.md) | 组合、回溯 | Medium |
 |	0320 | Generalized Abbreviation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0320.generalized_abbreviation.md) | 字符串、回溯 | Medium |
+|	0473 | Matchsticks to Square | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0473.matchsticks_to_square.md) | 数组、回溯 | Medium |
 |	0491 | Non-decreasing Subsequences | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0491.non-decreasing_subsequences.md) | 排列组合，回溯 | Medium |
 |	0784 | Letter Case Permutation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0784.letter_case_permutation.md) | 字符串、回溯 | Medium |
 |	1593 | Split a String Into the Max Number of Unique Substrings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/1593.split_a_string_into_the_max_number_of_unique_substrings.md) | 字符串、回溯 | Medium |
@@ -275,6 +277,8 @@ Solutions to LeetCode by Python and JS.
 |	0051 | N-Queens | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0052.N-Queens_II.md) | 棋盘、回溯 | Hard |
 |	0052 | N-Queens II | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/solutions/) | 棋盘、回溯 | Hard |
 |	0425 | Word Squares | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0425.word_squares.md) | 数组、回溯 + 字典树 | Hard |
+|	0679 | 24 Game | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/0679.24_game.md) | 数组、回溯 | Hard |
+|	1240 | Tiling a Rectangle with the Fewest Squares | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Backtracking/1240.tiling_a_rectangle_with_the_fewest_squares.md) | 回溯 | Hard |
 
 ## Dynamic Programming
 
@@ -300,6 +304,7 @@ Solutions to LeetCode by Python and JS.
 |	0416 | Partition Equal Subset Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0416.partition_equal_subset_sum.md) | 数组、动态规划 | Medium |
 |	0474 | Ones and Zeroes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0474.ones_and_zeroes%20.md) | 数组、动态规划 | Medium |
 |	0516 | Longest Palindromic Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0516.longest_palindromic_subsequence.md) | 字符串、动态规划 | Medium |
+|	0638 | Shopping Offers | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0638.shopping_offers.md) | 数组、记忆化搜索 | Medium |
 |	0740 | Delete and Earn | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0740.delete_and_earn.md) | 数组、动态规划 | Medium |
 |	1027 | 1027.Longest Arithmetic Subsequencen | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0740.delete_and_earn.md) | 数组、动态规划 | Medium |
 |	1143 | Longest Common Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1143.longest_common_subsequence.md) | 动态规划 | Medium |
@@ -330,6 +335,7 @@ Solutions to LeetCode by Python and JS.
 |	0323 | Number of Connected Components in an Undirected Graph | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0323.number_of_connected_components_in_an_undirected_graph.md) | BFS、DFS、并查集 | Medium |
 |	0433 | Minimum Genetic Mutation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0433.minimum_genetic_mutation.md) | BFS | Medium |
 |	0444 | Sequence Reconstruction | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0444.sequence_reconstruction.md) | 拓扑排序 | Medium |
+|	0797 | All Paths From Source to Target | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0797.all_paths_from_source_to_target.md) | DFS | Medium |
 |	0909 | Snakes and Ladders | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0909.snakes_and_ladders.md) | BFS | Medium |
 |	0994 | Rotting Oranges | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0994.rotting_oranges.md) | BFS | Medium |
 |	0127 | Word Ladder | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0127.word_ladder.md) | BFS | Hard |
@@ -359,6 +365,7 @@ Solutions to LeetCode by Python and JS.
 |	0136 | Single Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0136.single_number.md) | 数组、位运算 | Easy |
 |	0190 | Reverse Bits | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0190.reverse_bits.md) | 位运算 | Easy |
 |	0191 | Number of 1 Bits | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0191.number_of_1_bits.md) | 位运算 | Easy |
+|	0089 | Gray Code | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0089.gray_code.md) | 数字、位运算 | Medium |
 |	0137 | Single Number II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0137.single_number_II.md) | 数组、位运算 | Medium |
 |	0201 | Bitwise AND of Numbers Range | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Bit/0201.bitwise_AND_of_numbers_range.md) | 位运算 | Medium |
 
@@ -450,7 +457,7 @@ Solutions to LeetCode by Python and JS.
 |	0673 | Number of Longest Increasing Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0673.number_of_longest_increasing_subsequence.md) | 动态规划、贪心+前缀和+二分查找 | Medium |
 |	0678 | Valid Parenthesis String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0678.vali_parenthesis_string.md) | 字符串、栈、贪心 | Medium |
 |	0698 | Partition to K Equal Sum Subsets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0698.partition_to_K_equal_sum_subsets.md) | 数组、动态规划、回溯、位运算、记忆化搜索 | Medium |
-|	0718 | Maximum Length of Repeated Subarray | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0698.partition_to_K_equal_sum_subsets.md) | 数组、动态规划、滑动窗口、二分查找+哈希 | Medium |
+|	0718 | Maximum Length of Repeated Subarray | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/4c9127d333ca6fd1a0873c124aa891cc5519fa22/Multiple_ideas/0718.maximum_length_of_repeated_subarray.md) | 数组、动态规划、滑动窗口、二分查找+哈希 | Medium |
 |	0720 | Longest Word in Dictionary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0720.longest_word_in_dictionary.md) | 数组、字典树、哈希表、排序 | Medium |
 |	0721 | Accounts Merge | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0721.accounts_merge.md) | 数组、BFS、DFS、并查集（Union-find） | Medium |
 |	0729 | My Calendar I | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0729.my_calendar_I.md) | 设计、直接遍历、二分查找、线段树 | Medium |
@@ -465,6 +472,7 @@ Solutions to LeetCode by Python and JS.
 |	0042 | Trapping Rain Water | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0042.trapping_rain_water.md) | 数组、栈、单调栈、双指针 | Hard |
 |	0044 | 44.Wildcard Matching | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0042.trapping_rain_water.md) | 数组、栈、单调栈、双指针 | Hard |
 |	0084 | Largest Rectangle in Histogram | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0084.largest_rectangle_in_histogram.md) | 双指针、栈、单调栈 | Hard |
+|	0301 | Remove Invalid Parentheses | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0301.remove_invalid_parentheses.md) | 字符串、BFS、回溯 | Hard |
 |	0336 | Palindrome Pairs | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0336.palindrome_pairs.md) | 数组、字符串、字典树、哈希表 | Hard |
 |	0410 | Split Array Largest Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0410.split_array_largest_sum.md) | 数组、贪心、二分查找、DP | Hard |
 |	0472 | Concatenated Words | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0472.concatenated_words.md) | 数组、递归、记忆化搜索（备忘录）、字典树 | Hard |
