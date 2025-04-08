@@ -214,6 +214,7 @@ Solutions to LeetCode by Python and JS.
 |	0235 | Lowest Common Ancestor of a Binary Search Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0235.lowest_common_ancestor_of_a_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0236 | Lowest Common Ancestor of a Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0236.lowest_common_ancestor_of_a_binary_tree.md) | 二叉树、递归、迭代 | Medium |
 |	0310 | Minimum Height Trees | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0310.minimum_height_trees.md) | 二叉树、BFS、拓扑排序 | Medium |
+|	0314 | Binary Tree Vertical Order Traversal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0314.binary_tree_vertical_order_traversal.md) | 二叉树、BFS、DFS | Medium |
 |	0426 | Convert Binary Search Tree to Sorted Doubly Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0426.convert_binary_search_tree_to_sorted_doubly_linked_list.md) | 二叉树、递归 | Medium |
 |	0427 | Construct Quad Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0427.construc_quad%20_tree.md) | 二叉树、递归 | Medium |
 |	0437 | Path Sum III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0437.path_sum_III.md) | 二叉树、DFS | Medium |
@@ -306,6 +307,7 @@ Solutions to LeetCode by Python and JS.
 |	0213 | House Robber II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0213.house_robber_II.md) | 动态规划 | Medium |
 |	0221 | Maximal Square | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0221.maximal_square.md) | 动态规划 | Medium |
 |	0309 | Best Time to Buy and Sell Stock with Cooldown | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/e51d766cf60177ecaf1f9fa846e484c56d471ad1/Dynamic_programming/0309.best_time_to_buy_and_sell_stock_with_cooldown.md) | 动态规划 | Medium |
+|	0368 | Largest Divisible Subset | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0368.largest_divisible_subset.md) | 动态规划 | Medium |
 |	0377 | Combination Sum IV | [JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0377.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20%E2%85%A3.md) | 数组、动态规划 | Medium |
 |	0416 | Partition Equal Subset Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0416.partition_equal_subset_sum.md) | 数组、动态规划 | Medium |
 |	0474 | Ones and Zeroes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0474.ones_and_zeroes%20.md) | 数组、动态规划 | Medium |
@@ -322,7 +324,8 @@ Solutions to LeetCode by Python and JS.
 |	3291 | Minimum Number of Valid Strings to Form Target I | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/3291.minimum_number_of_valid_strings_to_form_target_I.md) | 数组、字符串、动态规划 | Medium |
 |	0010 | Regular Expression Matching | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0010.regular_expression_matching.md) | 动态规划 | Hard |
 |	0123 | Best Time to Buy and Sell Stock III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0123.best_time_to_buy_and_sell_stock_III.md) | 动态规划 | Hard |
-|	0188 | 188.Best Time to Buy and Sell Stock IV | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0188.best_time_to_buy_and_sell_stock_IV.md) | 动态规划 | Hard |
+|	0188 | Best Time to Buy and Sell Stock IV | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0188.best_time_to_buy_and_sell_stock_IV.md) | 动态规划 | Hard |
+|	0354 | Russian Doll Envelopes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0354.russian_doll_envelopes.md) | 动态规划 | Hard |
 |	0828 | Count Unique Characters of All Substrings of a Given String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0828.coun_unique_characters_of_all_substrings_of_a_given_string.md) | 字符串、动态规划 | Hard |
 |	0887 | 887.Super Egg Drop | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0828.coun_unique_characters_of_all_substrings_of_a_given_string.md) | 字符串、动态规划 | Hard |
 |	1235 | Maximum Profit in Job Scheduling | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1235.maximum_profit_in_job_scheduling.md) | 数组、动态规划 | Hard |
@@ -366,6 +369,7 @@ Solutions to LeetCode by Python and JS.
 |	0014 | Longest Common Prefix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0014.longest_common_prefix.md) | 数组、垂直扫描 | Easy |
 |	0058 | Length of Last Word | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0058.length_of_last_word.md) | 字符串、线性扫描 | Easy |
 |	0228 | Summary Ranges | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0228.summary_ranges.md) | 数组、线性扫描 | Easy |
+|	0414 | Third Maximum Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0414.third_maximum_number.md) | 数组、线性扫描 | Easy |
 |	0628 | Maximum Product of Three Numbers | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0628.maximum_product_of_three_numbers.md) | 数组、线性扫描 | Easy |
 |	0057 | Insert Interval | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0057.insert_interval.md) | 数组、扫描 | Medium |
 |	0082 | Remove Duplicates from Sorted List II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Scan/0082.remove_duplicates_from_sorted_list_II.md) | 链表、扫描 | Medium |
@@ -494,6 +498,7 @@ Solutions to LeetCode by Python and JS.
 |	0044 | 44.Wildcard Matching | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0042.trapping_rain_water.md) | 数组、栈、单调栈、双指针 | Hard |
 |	0084 | Largest Rectangle in Histogram | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0084.largest_rectangle_in_histogram.md) | 双指针、栈、单调栈 | Hard |
 |	0214 | Shortest Palindrome | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0214.shortest_palindrome.md) | 字符串、Rabin-Karp、KMP | Hard |
+|	0220 | Contains Duplicate III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0220.contains_duplicate_III.md) | 数组、桶排序、滑动窗口 | Hard |
 |	0301 | Remove Invalid Parentheses | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0301.remove_invalid_parentheses.md) | 字符串、BFS、回溯 | Hard |
 |	0329 | Longest Increasing Path in a Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0329.longest_increasing_path_in_a_matrix.md) | 记忆化 DFS、拓扑排序 | Hard |
 |	0336 | Palindrome Pairs | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0336.palindrome_pairs.md) | 数组、字符串、字典树、哈希表 | Hard |
