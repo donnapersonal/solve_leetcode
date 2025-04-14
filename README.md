@@ -157,6 +157,7 @@ Solutions to LeetCode by Python and JS.
 |	0239 | Sliding Window Maximum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0239.sliding_window_maximum.md) | 数组、队列、单调队列、优先级队列（堆）| Hard |
 |	0295 | Find Median from Data Stream | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0295.find_median_from_data_stream.md) | 设计、数组、优先级队列 | Hard |
 |	0358 | Rearrange String k Distance Apart | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0358.rearrange_string_k_distance_apart.md) | 字符串、优先级队列 (最大堆) | Hard |
+|	0407 | Trapping Rain Water II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0407.trapping_rain_water_II.md) | 优先级队列（最小堆）| Hard |
 |	0480 | Sliding Window Median | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0480.sliding_window_median.md) | 数组、优先级队列（堆）+ 哈希表 + 滑动窗口 | Hard |
 |	0502 | IPO | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0502.IPO.md) | 数组、堆（优先级队列） | Hard |
 |	0630 | Course Schedule III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Queue_Heap_PQ/0630.course_schedule_III.md) | 数组、优先级队列（堆）+ 贪心 | Hard |
@@ -408,6 +409,7 @@ Solutions to LeetCode by Python and JS.
 |	0237 | Delete Node in a Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0237.delete_node_in_a_linked_list.md) | 链表 | Medium |
 |	0289 | Game of Life | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0289.game_of_life.md) | 矩阵、模拟 | Medium |
 |	0355 | Design Twitter | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0355.design_twitter.md) | 设计 | Medium |
+|	0498 | Diagonal Traverse | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0498.diagonal_traverse.md) | 模拟 | Medium |
 |	0707 | Design Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0707.design_linked_list.md) | 链表、设计 | Medium |
 |	1472 | Design Browser History | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/1472.design_browser_history.md) | 设计、模拟 | Medium |
 |	2807 | Insert Greatest Common Divisors in Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/2807.inser_greatest_common_divisor_in_linked_list.md) | 设计、模拟 | Medium |
