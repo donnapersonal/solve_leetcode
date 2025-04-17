@@ -169,6 +169,7 @@ Solutions to LeetCode by Python and JS.
 |	--- |	--- | --- | --- | --- |
 |	0303 | Range Sum Query - Immutable | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Prefix_sum_product/0303.range_sum_query-immutable.md) | 数组、前缀和 | Easy |
 |	0238 | Product of Array Except Self | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Prefix_sum_product/0238.product_of_array_except_self.md) | 数组、前缀积 | Medium |
+|	0304 | Range Sum Query 2D - Immutable | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Prefix_sum_product/0304.range_sum_query_2D-Immutable.md) | 矩阵、数学、前缀和 | Medium |
 |	0560 | Subarray Sum Equals K | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Prefix_sum_product/0560.subarray_sum_equals_K.md) | 数组、前缀和 | Medium |
 |	0327 | Count of Range Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Prefix_sum_product/0327.count_of_range_sum.md) | 数组、前缀和 + 归并排序 | Hard |
 
@@ -352,6 +353,7 @@ Solutions to LeetCode by Python and JS.
 |	0323 | Number of Connected Components in an Undirected Graph | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0323.number_of_connected_components_in_an_undirected_graph.md) | BFS、DFS、并查集 | Medium |
 |	0433 | Minimum Genetic Mutation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0433.minimum_genetic_mutation.md) | BFS | Medium |
 |	0444 | Sequence Reconstruction | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0444.sequence_reconstruction.md) | 拓扑排序 | Medium |
+|	0695 | Max Area of Island | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0695.max_area_of_island.md) | DFS、BFS | Medium |
 |	0797 | All Paths From Source to Target | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0797.all_paths_from_source_to_target.md) | DFS | Medium |
 |	0909 | Snakes and Ladders | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0909.snakes_and_ladders.md) | BFS | Medium |
 |	0994 | Rotting Oranges | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0994.rotting_oranges.md) | BFS | Medium |
