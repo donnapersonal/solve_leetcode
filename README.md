@@ -256,6 +256,7 @@ Solutions to LeetCode by Python and JS.
 |	0870 | Advantage Shuffle | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0870.advantage_shuffle.md) | 数组、贪心 | Medium |
 |	3191 | Minimum Operations to Make Binary Array Elements Equal to One I | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/3191.minimum_operations_to_make_binary_array_elements_equal_to_one_I.md) | 数组、贪心 | Medium |
 |	0135 | Candy | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0135.candy.md) | 数组、贪心 | Hard |
+|	0782 | Transform to Chessboard | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0782.transform_to_chessboard.md) | 数组、哈希、贪心、位运算 | Hard |
 |	0871 | Minimum Number of Refueling Stops | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0871.minimum_number_of_refueling_stops.md) | 数组、贪心 | Hard |
 
 ## Backtracking
@@ -324,6 +325,7 @@ Solutions to LeetCode by Python and JS.
 |	2297 | Jump Game VIII | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/2297.jump_game_VIII.md) | 数组、单调栈、动态规划 | Medium |
 |	3186 | Maximum Total Damage With Spell Casting | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/3186.maximum_total_damage_with_spell_casting.md) | 数组、动态规划 | Medium |
 |	3291 | Minimum Number of Valid Strings to Form Target I | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/3291.minimum_number_of_valid_strings_to_form_target_I.md) | 数组、字符串、动态规划 | Medium |
+|	3332 | Maximum Points Tourist Can Earn | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/3332.maximum_points_tourist_can_earn.md) | 矩阵、动态规划 | Hard |
 |	0010 | Regular Expression Matching | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0010.regular_expression_matching.md) | 动态规划 | Hard |
 |	0123 | Best Time to Buy and Sell Stock III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0123.best_time_to_buy_and_sell_stock_III.md) | 动态规划 | Hard |
 |	0188 | Best Time to Buy and Sell Stock IV | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0188.best_time_to_buy_and_sell_stock_IV.md) | 动态规划 | Hard |
@@ -363,6 +365,7 @@ Solutions to LeetCode by Python and JS.
 |	0269 | Alien Dictionary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0269.alien_dictionary.md) | 拓扑排序 | Hard |
 |	0815 | Bus Routes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0815.bus_routes.md) | 图论 + BFS | Hard |
 |	1203 | Sort Items by Groups Respecting Dependencies | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/1203.sort_items_by_groups_respecting_dependencies.md) | 拓扑排序 | Hard |
+|	1293 | Shortest Path in a Grid with Obstacles Elimination | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/1293.Shortest%20path_in_a_grid_with_obstacles_elimination.md) | BFS | Hard |
 
 ## Scan
 
@@ -508,6 +511,8 @@ Solutions to LeetCode by Python and JS.
 |	0336 | Palindrome Pairs | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0336.palindrome_pairs.md) | 数组、字符串、字典树、哈希表 | Hard |
 |	0410 | Split Array Largest Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0410.split_array_largest_sum.md) | 数组、贪心、二分查找、DP | Hard |
 |	0472 | Concatenated Words | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0472.concatenated_words.md) | 数组、递归、记忆化搜索（备忘录）、字典树 | Hard |
+
+
 
 
 
