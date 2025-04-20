@@ -57,6 +57,7 @@ Solutions to LeetCode by Python and JS.
 |	0611 | Valid Triangle Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0611.valid_triangle_number.md) | 数组、双指针 | Medium |
 |	0633 | Sum of Square Numbers | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0633.sum_of_square_numbers.md) | 双指针 | Medium |
 |	0986 | Interval List Intersections | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0986.interval_list_intersections.md) | 数组、双指针 | Medium |
+|	3239 | Minimum Number of Flips to Make Binary Grid Palindromic I | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/3239.minimum_number_of_flips_to_make_binary_grid_palindromic_I.md) | 矩阵、双指针 | Medium |
 
 ## Sliding window
 
@@ -498,6 +499,7 @@ Solutions to LeetCode by Python and JS.
 |	1262 | Greatest Sum Divisible by Three | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/1262.greatest_sum_divisible_by_three.md) | 数组、数学、排序、优先级队列、快速选择 | Medium |
 |	1884 | Egg Drop With 2 Eggs and N Floors | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/1884.egg_drop_with_2_eggs_and_N_floors.md) | 数字、数学、动态规划 | Medium |
 |	3192 | Minimum Operations to Make Binary Array Elements Equal to One II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/3192.minimum_operations_to_make_binary_array_elements_equal_to_one_II.md) | 数组、贪心、动态规划 | Medium |
+|	3240 | Minimum Number of Flips to Make Binary Grid Palindromic II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/3240.minimum_number_of_flips_to_make_binary_grid_palindromic_II.md) | 矩阵、分组 + 贪心、动态规划 | Medium |
 |	0023 | Merge k Sorted Lists | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0023.merge_k_sorted_lists.md) | 链表、双指针、分治、优先级队列（堆）、归并排序 | Hard |
 |	0025 | Reverse Nodes in k-Group | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0025.reverse_nodes_in_k-Group.md) | 链表、递归、迭代 | Hard |
 |	0032 | Longest Valid Parentheses | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0032.longest_valid_parentheses.md) | 字符串、栈、动态规划、贪心 | Hard |
@@ -511,6 +513,8 @@ Solutions to LeetCode by Python and JS.
 |	0336 | Palindrome Pairs | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0336.palindrome_pairs.md) | 数组、字符串、字典树、哈希表 | Hard |
 |	0410 | Split Array Largest Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0410.split_array_largest_sum.md) | 数组、贪心、二分查找、DP | Hard |
 |	0472 | Concatenated Words | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0472.concatenated_words.md) | 数组、递归、记忆化搜索（备忘录）、字典树 | Hard |
+|	1728 | Cat and Mouse II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/1728.cat_and_mouse_II.md) | 数组、动态规划、拓扑排序 | Hard |
+
 
 
 
