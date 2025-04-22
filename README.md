@@ -427,8 +427,10 @@ Solutions to LeetCode by Python and JS.
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0007 | Reverse Integer | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0007.reverse_integer.md) | 数学 | Medium |
 |	0050 | Pow(x, n) | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0050.pow(x,%20n).md) | 数学、快速幂 | Medium |
 |	0172 | Factorial Trailing Zeroes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0172.factorial_trailing_zeroes.md) | 数学 | Medium |
+|	0204 | Count Primes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0204.count_primes.md) | 数学 | Medium |
 |	0149 | Max Points on a Line | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0149.max_points_on_a_line.md) | 数学 + 哈希 | Hard |
 |	0233 | Number of Digit One | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0233.number_of_digit_one.md) | 数学 | Hard |
 
