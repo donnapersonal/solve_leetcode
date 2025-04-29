@@ -427,6 +427,8 @@ Solutions to LeetCode by Python and JS.
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0258 | Add Digits | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0258.add_digits.md) | 数学、模拟 | Easy |
+|	2413 | Smallest Even Multiple | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/2413.smallest_even_multiple.md) | 数学 | Easy |
 |	0007 | Reverse Integer | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0007.reverse_integer.md) | 数学 | Medium |
 |	0050 | Pow(x, n) | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0050.pow(x,%20n).md) | 数学、快速幂 | Medium |
 |	0172 | Factorial Trailing Zeroes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0172.factorial_trailing_zeroes.md) | 数学 | Medium |
