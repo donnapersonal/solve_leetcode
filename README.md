@@ -255,6 +255,7 @@ Solutions to LeetCode by Python and JS.
 |	0763 | Partition Labels | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0763.partition_labels.md) | 字符串、贪心 | Medium |
 |	0767 | Reorganize String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0767.reorganize_string.md) | 字符串、贪心 | Medium |
 |	0870 | Advantage Shuffle | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0870.advantage_shuffle.md) | 数组、贪心 | Medium |
+|	2829 | Determine the Minimum Sum of a k-avoiding Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/2829.determine_the_minimum_sum_of_a_k-avoiding_array.md) | 贪心 | Medium |
 |	3191 | Minimum Operations to Make Binary Array Elements Equal to One I | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/3191.minimum_operations_to_make_binary_array_elements_equal_to_one_I.md) | 数组、贪心 | Medium |
 |	0135 | Candy | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0135.candy.md) | 数组、贪心 | Hard |
 |	0782 | Transform to Chessboard | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0782.transform_to_chessboard.md) | 数组、哈希、贪心、位运算 | Hard |
@@ -430,6 +431,7 @@ Solutions to LeetCode by Python and JS.
 |	0258 | Add Digits | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0258.add_digits.md) | 数学、模拟 | Easy |
 |	2413 | Smallest Even Multiple | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/2413.smallest_even_multiple.md) | 数学 | Easy |
 |	0007 | Reverse Integer | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0007.reverse_integer.md) | 数学 | Medium |
+|	0029 | Divide Two Integers | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0029.divide_two_integers.md) | 数学、模拟 | Medium |
 |	0050 | Pow(x, n) | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0050.pow(x,%20n).md) | 数学、快速幂 | Medium |
 |	0172 | Factorial Trailing Zeroes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0172.factorial_trailing_zeroes.md) | 数学 | Medium |
 |	0204 | Count Primes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0204.count_primes.md) | 数学 | Medium |
@@ -488,6 +490,7 @@ Solutions to LeetCode by Python and JS.
 |	0475 | Heaters | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0475.heaters.md) | 数组、排序+二分查找、排序+双指针 | Medium |
 |	0451 | Sort Characters By Frequency | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0451.sort_characters_by_frequency.md) | 字符串、优先级队列（二叉堆）、桶排序| Medium |
 |	0494 | Target Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0494.target_sum.md) | 数组、回溯、动态 | Medium |
+|	0524 | Longest Word in Dictionary through Deleting | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0524.longest_word_in_dictionary_through_deleting.md) | 字符串、双指针、排序 | Medium |
 |	0542 | 01 Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0542.01_matrix.md) | 矩阵、BFS、动态规划 | Medium |
 |	0647 | Palindromic Substrings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0647.palindromic_substrings.md) | 字符串、动态规划、双指针中心扩展、Manacher 算法 | Medium |
 |	0673 | Number of Longest Increasing Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0673.number_of_longest_increasing_subsequence.md) | 动态规划、贪心+前缀和+二分查找 | Medium |
