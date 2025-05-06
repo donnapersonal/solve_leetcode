@@ -255,6 +255,8 @@ Solutions to LeetCode by Python and JS.
 |	0763 | Partition Labels | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0763.partition_labels.md) | 字符串、贪心 | Medium |
 |	0767 | Reorganize String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0767.reorganize_string.md) | 字符串、贪心 | Medium |
 |	0870 | Advantage Shuffle | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0870.advantage_shuffle.md) | 数组、贪心 | Medium |
+|	2116 | Check if a Parentheses String Can Be Valid | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/2116.check_if_a_parentheses_string_can_be_valid.md) | 字符串、贪心 | Medium |
+|	2712 | Minimum Cost to Make All Characters Equal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/2712.minimum_cost_to_make_all_characters_equal.md) | 字符串、贪心 | Medium |
 |	2829 | Determine the Minimum Sum of a k-avoiding Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/2829.determine_the_minimum_sum_of_a_k-avoiding_array.md) | 贪心 | Medium |
 |	3191 | Minimum Operations to Make Binary Array Elements Equal to One I | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/3191.minimum_operations_to_make_binary_array_elements_equal_to_one_I.md) | 数组、贪心 | Medium |
 |	0135 | Candy | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Greedy/0135.candy.md) | 数组、贪心 | Hard |
