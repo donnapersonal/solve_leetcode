@@ -200,6 +200,7 @@ Solutions to LeetCode by Python and JS.
 |	0095 | Unique Binary Search Trees II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0095.unique_binary_search_trees_II.md) | 二叉树、DFS | Medium |
 |	0096 | Unique Binary Search Trees | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0096.unique_binary_search_trees.md) | 二叉树、DFS+记忆化、动态规划 | Medium |
 |	0098 | Validate Binary Search Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0098.validate_binary_search_tree.md) | 二叉树、递归、迭代 | Medium |
+|	0099 | Recover Binary Search Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0099.recover_binary_search_tree.md) | 二叉树、中序遍历 | Medium |
 |	0102 | Binary Tree Level Order Traversal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0102.binary_tree_level_order_traversal.md) | 二叉树、BFS | Medium |
 |	0103 | Binary Tree Zigzag Level Order Traversal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0103.binary_tree_zigzag_level_order_traversal.md) | 二叉树、层次遍历 | Medium |
 |	0105 | Construct Binary Tree from Preorder and Inorder Traversal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0105.construct_binary_tree_from_preorder_and_inorder_traversal.md) | 二叉树、递归 | Medium |
