@@ -361,6 +361,7 @@ Solutions to LeetCode by Python and JS.
 |	0433 | Minimum Genetic Mutation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0433.minimum_genetic_mutation.md) | BFS | Medium |
 |	0444 | Sequence Reconstruction | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0444.sequence_reconstruction.md) | 拓扑排序 | Medium |
 |	0695 | Max Area of Island | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0695.max_area_of_island.md) | DFS、BFS | Medium |
+|	0743 | Network Delay Time | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0743.network_delay_time.md) | Dijkstra | Medium |
 |	0797 | All Paths From Source to Target | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0797.all_paths_from_source_to_target.md) | DFS | Medium |
 |	0909 | Snakes and Ladders | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0909.snakes_and_ladders.md) | BFS | Medium |
 |	0994 | Rotting Oranges | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0994.rotting_oranges.md) | BFS | Medium |
@@ -495,6 +496,7 @@ Solutions to LeetCode by Python and JS.
 |	0494 | Target Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0494.target_sum.md) | 数组、回溯、动态 | Medium |
 |	0524 | Longest Word in Dictionary through Deleting | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0524.longest_word_in_dictionary_through_deleting.md) | 字符串、双指针、排序 | Medium |
 |	0542 | 01 Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0542.01_matrix.md) | 矩阵、BFS、动态规划 | Medium |
+|	0547 | Number of Provinces | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0547.number_of_provinces.md) | DFS、并查集 | Medium |
 |	0647 | Palindromic Substrings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0647.palindromic_substrings.md) | 字符串、动态规划、双指针中心扩展、Manacher 算法 | Medium |
 |	0673 | Number of Longest Increasing Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0673.number_of_longest_increasing_subsequence.md) | 动态规划、贪心+前缀和+二分查找 | Medium |
 |	0678 | Valid Parenthesis String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0678.vali_parenthesis_string.md) | 字符串、栈、贪心 | Medium |
