@@ -222,6 +222,7 @@ Solutions to LeetCode by Python and JS.
 |	0426 | Convert Binary Search Tree to Sorted Doubly Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0426.convert_binary_search_tree_to_sorted_doubly_linked_list.md) | 二叉树、递归 | Medium |
 |	0427 | Construct Quad Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0427.construc_quad%20_tree.md) | 二叉树、递归 | Medium |
 |	0437 | Path Sum III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0437.path_sum_III.md) | 二叉树、DFS | Medium |
+|	0513 | Find Bottom Left Tree Value | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0513.find_bottom_left_tree_value.md) | 二叉树、DFS、BFS | Medium |
 |	0654 | Maximum Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0654.maximum_binary_tree.md) | 二叉树、递归 | Medium |
 |	0642 | Design Search Autocomplete System | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0642.design_search_autocomplete_system.md) | 设计、字典树 | Hard |
 |	0662 | Maximum Width of Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0662.maximum_width_of_binary_tree.md) | 二叉树、DFS、BFS | Medium |
@@ -369,6 +370,7 @@ Solutions to LeetCode by Python and JS.
 |	0127 | Word Ladder | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0127.word_ladder.md) | BFS | Hard |
 |	0212 | Word Search II | [JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0212.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2%20II.md) | DFS | Hard |
 |	0269 | Alien Dictionary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0269.alien_dictionary.md) | 拓扑排序 | Hard |
+|	0332 | Reconstruct Itinerary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0332.reconstruct_itinerary.md) | 图论、DFS、Hierholzer’s Algorithm | Hard |
 |	0815 | Bus Routes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0815.bus_routes.md) | 图论 + BFS | Hard |
 |	1203 | Sort Items by Groups Respecting Dependencies | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/1203.sort_items_by_groups_respecting_dependencies.md) | 拓扑排序 | Hard |
 |	1293 | Shortest Path in a Grid with Obstacles Elimination | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/1293.Shortest%20path_in_a_grid_with_obstacles_elimination.md) | BFS | Hard |
@@ -488,6 +490,7 @@ Solutions to LeetCode by Python and JS.
 |	0322 | Coin Change | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0322.coin_change.md) | 动态规划、BFS | Medium |
 |	0343 | Integer Break | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0343.integer_break.md) | 动态规划、数学 | Medium |
 |	0347 | Top K Frequent Elements | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0347.top_K_frequent_elements.md) | 数组、哈希表、优先级队列 | Medium |
+|	0365 | Water and Jug Problem | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0365.water_and_jug_problem.md) | 数学、BFS | Medium |
 |	0376 | Wiggle Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0376.wiggle_subsequence.md) | 数组、贪心、动态规划 | Medium |
 |	0378 | Kth Smallest Element in a Sorted Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0378.Kth_smallest_element_in_a_sorted_matrix.md) | 矩阵、链表双指针、二分查找、优先级队列（堆）| Medium |
 |	0421 | Maximum XOR of Two Numbers in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0421.maximum_XOR_of_two_numbers_in_an_array.md) | 数组、位运算、字典树、哈希表 | Medium |
