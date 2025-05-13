@@ -316,6 +316,7 @@ Solutions to LeetCode by Python and JS.
 |	0213 | House Robber II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0213.house_robber_II.md) | 动态规划 | Medium |
 |	0221 | Maximal Square | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0221.maximal_square.md) | 动态规划 | Medium |
 |	0309 | Best Time to Buy and Sell Stock with Cooldown | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/e51d766cf60177ecaf1f9fa846e484c56d471ad1/Dynamic_programming/0309.best_time_to_buy_and_sell_stock_with_cooldown.md) | 动态规划 | Medium |
+|	0337 | House Robber III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0337.house_robber_III.md) | 动态规划 | Medium |
 |	0368 | Largest Divisible Subset | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0368.largest_divisible_subset.md) | 动态规划 | Medium |
 |	0377 | Combination Sum IV | [JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0377.%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20%E2%85%A3.md) | 数组、动态规划 | Medium |
 |	0416 | Partition Equal Subset Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0416.partition_equal_subset_sum.md) | 数组、动态规划 | Medium |
@@ -365,6 +366,7 @@ Solutions to LeetCode by Python and JS.
 |	0743 | Network Delay Time | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0743.network_delay_time.md) | Dijkstra | Medium |
 |	0797 | All Paths From Source to Target | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0797.all_paths_from_source_to_target.md) | DFS | Medium |
 |	0909 | Snakes and Ladders | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0909.snakes_and_ladders.md) | BFS | Medium |
+|	0934 | Shortest Bridge | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0934.shortest_bridge.md) | DFS + BFS | Medium |
 |	0994 | Rotting Oranges | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0994.rotting_oranges.md) | BFS | Medium |
 |	1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/1334.find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold_distance.md) | Floyd、Dijkstra | Medium |
 |	0127 | Word Ladder | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0127.word_ladder.md) | BFS | Hard |
@@ -508,6 +510,7 @@ Solutions to LeetCode by Python and JS.
 |	0720 | Longest Word in Dictionary | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0720.longest_word_in_dictionary.md) | 数组、字典树、哈希表、排序 | Medium |
 |	0721 | Accounts Merge | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0721.accounts_merge.md) | 数组、BFS、DFS、并查集（Union-find） | Medium |
 |	0729 | My Calendar I | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0729.my_calendar_I.md) | 设计、直接遍历、二分查找、线段树 | Medium |
+|	0787 | Cheapest Flights Within K Stops | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0787.cheapest_flights_within_K_stops.md) | Dijkstra、Bellman Ford | Medium |
 |	0918 | Maximum Sum Circular Subarray | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0918.maximum_sum_circular_subarray.md) | 数组、环形数组、分治、动态规划、单调队列 | Medium |
 |	0921 | Minimum Add to Make Parentheses Valid | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0921.minimum_add_to_make_parentheses_valid.md) | 字符串、栈、贪心 | Medium |
 |	0973 | K Closest Points to Origin | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0973.K_closest_points_to_origin.md) | 数组、贪心、动态规划 | Medium |
