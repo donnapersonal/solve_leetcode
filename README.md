@@ -191,6 +191,8 @@ Solutions to LeetCode by Python and JS.
 |	0222 | Count Complete Tree Nodes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0222.count_complete_tree_nodes.md) | 二叉树、DFS、迭代 | Easy |
 |	0226 | Invert Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0226.invert_binary_tree.md) | 二叉树、BFS、DFS | Easy |
 |	0257 | Binary Tree Paths | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0257.binary_tree_paths.md) | 二叉树、DFS、迭代 | Easy |
+|	0404 | Sum of Left Leaves | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0404.sum_of_left_leaves.md) | 二叉树、DFS、BFS | Easy |
+|	0501 | Find Mode in Binary Search Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0501.find_mode_in_binary_search_tree.md) | 二叉树、中序、Morris 中序 | Easy |
 |	0530 | Minimum Absolute Difference in BST | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0530.minimum_absolute_difference_in_BST.md) | 二叉树、递归、迭代 | Easy |
 |	0543 | Diameter of Binary Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0543.diameter_of_binary_tree.md) | 二叉树、DFS | Easy |
 |	0572 | Subtree of Another Tree | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Tree/0572.subtree_of_another_tree.md) | 二叉树、DFS | Easy |
@@ -368,6 +370,7 @@ Solutions to LeetCode by Python and JS.
 |	0909 | Snakes and Ladders | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0909.snakes_and_ladders.md) | BFS | Medium |
 |	0934 | Shortest Bridge | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0934.shortest_bridge.md) | DFS + BFS | Medium |
 |	0994 | Rotting Oranges | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0994.rotting_oranges.md) | BFS | Medium |
+|	1162 | As Far from Land as Possible | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/1162.as_far_from_land_as_possible.md) | BFS | Medium |
 |	1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/1334.find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold_distance.md) | Floyd、Dijkstra | Medium |
 |	0127 | Word Ladder | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0127.word_ladder.md) | BFS | Hard |
 |	0212 | Word Search II | [JS/Python](https://github.com/donnapersonal/High_Freq_LC/blob/main/0212.%E5%8D%95%E8%AF%8D%E6%90%9C%E7%B4%A2%20II.md) | DFS | Hard |
