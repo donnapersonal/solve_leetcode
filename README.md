@@ -519,6 +519,7 @@ Solutions to LeetCode by Python and JS.
 |	0973 | K Closest Points to Origin | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0973.K_closest_points_to_origin.md) | 数组、贪心、动态规划 | Medium |
 |	1262 | Greatest Sum Divisible by Three | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/1262.greatest_sum_divisible_by_three.md) | 数组、数学、排序、优先级队列、快速选择 | Medium |
 |	1884 | Egg Drop With 2 Eggs and N Floors | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/1884.egg_drop_with_2_eggs_and_N_floors.md) | 数字、数学、动态规划 | Medium |
+|	2711 | Difference of Number of Distinct Values on Diagonals | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/2711.difference_of_number_of_distinct_values_on_diagonals.md) | 矩阵、模拟、前缀和 | Medium |
 |	3192 | Minimum Operations to Make Binary Array Elements Equal to One II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/3192.minimum_operations_to_make_binary_array_elements_equal_to_one_II.md) | 数组、贪心、动态规划 | Medium |
 |	3240 | Minimum Number of Flips to Make Binary Grid Palindromic II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/3240.minimum_number_of_flips_to_make_binary_grid_palindromic_II.md) | 矩阵、分组 + 贪心、动态规划 | Medium |
 |	0023 | Merge k Sorted Lists | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0023.merge_k_sorted_lists.md) | 链表、双指针、分治、优先级队列（堆）、归并排序 | Hard |
