@@ -56,6 +56,7 @@ Solutions to LeetCode by Python and JS.
 |	0328 | Odd Even Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0328.odd_even_linked_list.md) | 链表、双指针 | Medium |
 |	0611 | Valid Triangle Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0611.valid_triangle_number.md) | 数组、双指针 | Medium |
 |	0633 | Sum of Square Numbers | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0633.sum_of_square_numbers.md) | 双指针 | Medium |
+|	0826 | 826.Most Profit Assigning Work | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0633.sum_of_square_numbers.md) | 双指针 | Medium |
 |	0986 | Interval List Intersections | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0986.interval_list_intersections.md) | 数组、双指针 | Medium |
 |	3239 | Minimum Number of Flips to Make Binary Grid Palindromic I | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/3239.minimum_number_of_flips_to_make_binary_grid_palindromic_I.md) | 矩阵、双指针 | Medium |
 
@@ -370,6 +371,7 @@ Solutions to LeetCode by Python and JS.
 |	0909 | Snakes and Ladders | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0909.snakes_and_ladders.md) | BFS | Medium |
 |	0934 | Shortest Bridge | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0934.shortest_bridge.md) | DFS + BFS | Medium |
 |	0994 | Rotting Oranges | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0994.rotting_oranges.md) | BFS | Medium |
+|	1091 | Shortest Path in Binary Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/1091.shortest_path_in_binary_matrix.md) | BFS | Medium |
 |	1162 | As Far from Land as Possible | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/1162.as_far_from_land_as_possible.md) | BFS | Medium |
 |	1334 | Find the City With the Smallest Number of Neighbors at a Threshold Distance | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/1334.find_the_city_with_the_smallest_number_of_neighbors_at_a_threshold_distance.md) | Floyd、Dijkstra | Medium |
 |	0127 | Word Ladder | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Graph/0127.word_ladder.md) | BFS | Hard |
