@@ -101,6 +101,7 @@ Solutions to LeetCode by Python and JS.
 |	0852 | Peak Index in a Mountain Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0852.peak_index_in_a_mountain_array.md) | 数组、二分查找 | Medium |
 |	0875 | Koko Eating Bananas | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0875.koko_eating_bananas.md) | 数组、二分查找 | Medium |
 |	0981 | Time Based Key-Value Store | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0981.time_based_Key-Value_store.md) | 设计、二分查找 | Medium |
+|	1011 | Capacity To Ship Packages Within D Days | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/f68f2730e644b469a12866920155bd291377092f/Binary_search/1011.capacity_to_ship_packages_within_D_days.md) | 数组、二分查找 | Medium |
 |	1760 | Minimum Limit of Balls in a Bag | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/1760.minimum_limit_of_balls_in_a_bag.md) | 数组、二分查找 | Medium |
 |	2080 | Range Frequency Queries | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/2080.range_frequency_queries.md) | 设计、二分查找 | Medium |
 |	2187 | Minimum Time to Complete Trips | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/2187.minimum_time_to_complete_trips.md) | 数组、二分查找 | Medium |
