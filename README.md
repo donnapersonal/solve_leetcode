@@ -73,9 +73,11 @@ Solutions to LeetCode by Python and JS.
 |	0713 | Subarray Product Less Than K | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0713.subarray_product_less_than_K.md) | 数组、滑动窗口 | Medium |
 |	0904 | Fruit Into Baskets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0904.fruit_into_baskets.md) | 数组、滑动窗口 | Medium |
 |	1004 | Max Consecutive Ones III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/1004.max_consecutive_ones_III.md) | 数组、滑动窗口 | Medium |
-|	1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [Java/JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/1438.longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.md) | 数组、单调队列、滑动窗口 | Medium |
+|	1438 | Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/1438.longest_continuous_subarray_with_absolute_diff_less_than_or_equal_to_limit.md) | 数组、单调队列、滑动窗口 | Medium |
+|	1456 | Maximum Number of Vowels in a Substring of Given Length | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/1456.maximum_number_of_vowels_in_a_substring_of_given_length.md) | 字符串、滑动窗口 | Medium |
 |	1658 | Minimum Operations to Reduce X to Zero | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/1658.minimum_operations_to_reduce_X_to_zero.md) | 数组、滑动窗口 | Medium |
 |	2516 | Take K of Each Character From Left and Right | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/2516.take_K_of_each_characte_from_left_and_right.md) | 字符串、双指针 | Medium |
+|	2831 | Find the Longest Equal Subarray | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/2831.find_the_longest_equal_subarray.md) | 数组、滑动窗口 | Medium |
 |	0030 | Substring with Concatenation of All Words | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0030.substring_with_concatenation_of_all_words.md) | 字符串、滑动窗口 | Hard |
 |	0076 | Minimum Window Substring | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0076.minimum_window_substring.md) | 字符串、滑动窗口 | Hard |
 |	0683 | K Empty Slots | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0683.K_empty_slots.md) | 数组、滑动窗口 | Hard |
@@ -89,6 +91,7 @@ Solutions to LeetCode by Python and JS.
 |	0278 | First Bad Version | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0278.first_bad_version.md) | 数组、二分查找 | Easy |
 |	0704 | Binary Search | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0704.binary_search.md) | 数组、二分查找 | Easy |
 |	0744 | Find Smallest Letter Greater Than Target | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0744.find_smallest_letter_greater_than_target.md) | 数组、二分查找 | Easy |
+| 2389 | Longest Subsequence With Limited Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/2389.longest_subsequence_with_limited_sum.md) | 数组、二分查找 | Easy |
 |	0033 | Search in Rotated Sorted Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0033.search_in_rotated_sorted_array.md) | 数组、二分查找 | Medium |
 |	0034 | Find First and Last Position of Element in Sorted Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0034.find_first_and_last_position_of_element_in_sorted_array.md) | 数组、二分查找 | Medium |
 |	0074 | Search a 2D Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Binary_search/0074.search_a_2D_matrix.md) | 矩阵、二分查找 | Medium |
