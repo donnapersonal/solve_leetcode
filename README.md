@@ -341,6 +341,7 @@ Solutions to LeetCode by Python and JS.
 |	3291 | Minimum Number of Valid Strings to Form Target I | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/3291.minimum_number_of_valid_strings_to_form_target_I.md) | 数组、字符串、动态规划 | Medium |
 |	3332 | Maximum Points Tourist Can Earn | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/3332.maximum_points_tourist_can_earn.md) | 矩阵、动态规划 | Hard |
 |	0010 | Regular Expression Matching | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0010.regular_expression_matching.md) | 动态规划 | Hard |
+|	0115 | Distinct Subsequences | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0115.distinct_subsequences.md) | 动态规划 | Hard |
 |	0123 | Best Time to Buy and Sell Stock III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0123.best_time_to_buy_and_sell_stock_III.md) | 动态规划 | Hard |
 |	0188 | Best Time to Buy and Sell Stock IV | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0188.best_time_to_buy_and_sell_stock_IV.md) | 动态规划 | Hard |
 |	0354 | Russian Doll Envelopes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0354.russian_doll_envelopes.md) | 动态规划 | Hard |
@@ -504,6 +505,7 @@ Solutions to LeetCode by Python and JS.
 |	0365 | Water and Jug Problem | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0365.water_and_jug_problem.md) | 数学、BFS | Medium |
 |	0376 | Wiggle Subsequence | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0376.wiggle_subsequence.md) | 数组、贪心、动态规划 | Medium |
 |	0378 | Kth Smallest Element in a Sorted Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0378.Kth_smallest_element_in_a_sorted_matrix.md) | 矩阵、链表双指针、二分查找、优先级队列（堆）| Medium |
+|	0395 | Longest Substring with At Least K Repeating Characters | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0395._longest_substring_with_at_least_K_repeating_characters.md) | 字符串、哈希表、分治、滑动窗口 | Medium |
 |	0421 | Maximum XOR of Two Numbers in an Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0421.maximum_XOR_of_two_numbers_in_an_array.md) | 数组、位运算、字典树、哈希表 | Medium |
 |	0475 | Heaters | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0475.heaters.md) | 数组、排序+二分查找、排序+双指针 | Medium |
 |	0451 | Sort Characters By Frequency | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0451.sort_characters_by_frequency.md) | 字符串、优先级队列（二叉堆）、桶排序| Medium |
