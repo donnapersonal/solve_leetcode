@@ -420,6 +420,7 @@ Solutions to LeetCode by Python and JS.
 |	--- |	--- | --- | --- | --- |
 |	0066 | Plus One | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0066.plus_one.md) | 数组 | Easy |
 |	0415 | Add Strings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0415.add_strings.md) | 字符串、模拟 | Easy |
+|	0541 | Reverse String II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0541.reverse_string_II.md) | 字符串、模拟 | Easy |
 |	1700 | Number of Students Unable to Eat Lunch | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/1700.number_of_students_unable_to_eat_lunch.md) | 设计、计数法、贪心 | Easy |
 |	2022 | Convert 1D Array Into 2D Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/2022.convert_1D_array_into_2D_array.md) | 矩阵、数组 | Easy |
 |	2073 | Time Needed to Buy Tickets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/2073.time_needed_to_buy_tickets.md) | 数组、模拟队列 | Easy |
@@ -476,7 +477,6 @@ Solutions to LeetCode by Python and JS.
 |	0350 | Intersection of Two Arrays II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0350.intersection_of_two_arrays_II.md) | 数组、哈希表、双指针 | Easy |
 |	0389 | Find the Difference | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0389.find_the_difference.md) | 字符串、哈希表、位运算 | Easy |
 |	0459 | Repeated Substring Pattern | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0459.repeated_substring_pattern.md) | 字符串、移动匹配、KMP 算法 | Easy |
-|	0509 | Fibonacci Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0509.fibonacci_number.md) | 动态规划、递归 | Medium |
 |	0844 | Backspace String Compare | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0844.backspace_string_compare.md) | 字符串、栈、双指针 | Easy |
 |	1047 | Remove All Adjacent Duplicates In String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/1047.remove_all_adjacent_duplicates_in_string.md) | 字符串、栈、双指针 | Easy |
 |	1137 | N-th Tribonacci Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/1137.N-th_tribonacci_number.md) | 数字、动态规划、矩阵快速幂 | Easy |
@@ -510,6 +510,7 @@ Solutions to LeetCode by Python and JS.
 |	0475 | Heaters | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0475.heaters.md) | 数组、排序+二分查找、排序+双指针 | Medium |
 |	0451 | Sort Characters By Frequency | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0451.sort_characters_by_frequency.md) | 字符串、优先级队列（二叉堆）、桶排序| Medium |
 |	0494 | Target Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0494.target_sum.md) | 数组、回溯、动态 | Medium |
+|	0509 | Fibonacci Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0509.fibonacci_number.md) | 动态规划、递归 | Medium |
 |	0524 | Longest Word in Dictionary through Deleting | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0524.longest_word_in_dictionary_through_deleting.md) | 字符串、双指针、排序 | Medium |
 |	0542 | 01 Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0542.01_matrix.md) | 矩阵、BFS、动态规划 | Medium |
 |	0547 | Number of Provinces | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0547.number_of_provinces.md) | DFS、并查集 | Medium |
@@ -526,6 +527,7 @@ Solutions to LeetCode by Python and JS.
 |	0921 | Minimum Add to Make Parentheses Valid | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0921.minimum_add_to_make_parentheses_valid.md) | 字符串、栈、贪心 | Medium |
 |	0973 | K Closest Points to Origin | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0973.K_closest_points_to_origin.md) | 数组、贪心、动态规划 | Medium |
 |	1262 | Greatest Sum Divisible by Three | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/1262.greatest_sum_divisible_by_three.md) | 数组、数学、排序、优先级队列、快速选择 | Medium |
+|	1297 | Maximum Number of Occurrences of a Substring | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/1297.maximum_number_of_occurrences_of_a_substring.md) | 字符串、滑动窗口、滚动哈希 | Medium |
 |	1884 | Egg Drop With 2 Eggs and N Floors | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/1884.egg_drop_with_2_eggs_and_N_floors.md) | 数字、数学、动态规划 | Medium |
 |	2711 | Difference of Number of Distinct Values on Diagonals | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/2711.difference_of_number_of_distinct_values_on_diagonals.md) | 矩阵、模拟、前缀和 | Medium |
 |	3192 | Minimum Operations to Make Binary Array Elements Equal to One II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/3192.minimum_operations_to_make_binary_array_elements_equal_to_one_II.md) | 数组、贪心、动态规划 | Medium |
