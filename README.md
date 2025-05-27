@@ -343,6 +343,7 @@ Solutions to LeetCode by Python and JS.
 |	0010 | Regular Expression Matching | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0010.regular_expression_matching.md) | 动态规划 | Hard |
 |	0115 | Distinct Subsequences | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0115.distinct_subsequences.md) | 动态规划 | Hard |
 |	0123 | Best Time to Buy and Sell Stock III | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0123.best_time_to_buy_and_sell_stock_III.md) | 动态规划 | Hard |
+|	0132 | Palindrome Partitioning II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0132.palindrome_partitioning_II.md) | 动态规划 | Hard |
 |	0188 | Best Time to Buy and Sell Stock IV | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0188.best_time_to_buy_and_sell_stock_IV.md) | 动态规划 | Hard |
 |	0354 | Russian Doll Envelopes | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0354.russian_doll_envelopes.md) | 动态规划 | Hard |
 |	0828 | Count Unique Characters of All Substrings of a Given String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/0828.coun_unique_characters_of_all_substrings_of_a_given_string.md) | 字符串、动态规划 | Hard |
@@ -479,6 +480,7 @@ Solutions to LeetCode by Python and JS.
 |	0459 | Repeated Substring Pattern | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0459.repeated_substring_pattern.md) | 字符串、移动匹配、KMP 算法 | Easy |
 |	0844 | Backspace String Compare | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0844.backspace_string_compare.md) | 字符串、栈、双指针 | Easy |
 |	1047 | Remove All Adjacent Duplicates In String | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/1047.remove_all_adjacent_duplicates_in_string.md) | 字符串、栈、双指针 | Easy |
+|	1071 | Greatest Common Divisor of Strings | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/1071.greatest_common_divisor_of_strings.md) | 字符串、枚举、数学 | Easy |
 |	1137 | N-th Tribonacci Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/1137.N-th_tribonacci_number.md) | 数字、动态规划、矩阵快速幂 | Easy |
 |	0005 | Longest Palindromic Substring | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0005.longest_palindromic_substring.md) | 字符串、双指针、滑动窗口、Manacher's algorithm | Medium |
 |	0015 | 3Sum | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Multiple_ideas/0015.3Sum.md) | 数组、哈希表、双指针、排序 | Medium |
