@@ -142,6 +142,7 @@ Solutions to LeetCode by Python and JS.
 |	0456 | 132 Pattern | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0456.132_pattern.md) | 数组、单调栈 | Medium |
 |	0735 | Asteroid Collision | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0735.asteroid_collision.md) | 数组、栈 | Medium |
 |	0739 | Daily Temperatures | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0739.daily_temperatures.md) | 数组、栈、单调栈 | Medium |
+|	0856 | Score of Parentheses | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0856.score_of_parentheses.md) | 字符串、栈 | Medium |
 |	0907 | Sum of Subarray Minimums | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0907.sum_of_subarray_minimums.md) | 数组、栈、单调栈 | Medium |
 |	0946 | Validate Stack Sequences | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/11360fe51d736016d74fb8b733041d4241d8ea79/Stack/0946.validate_stack_sequences.md) | 数组、栈、单调栈 | Medium |
 |	0962 | Maximum Width Ramp | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Stack/0962.maximum_width_ramp.md) | 数组、栈、单调栈 | Medium |
@@ -450,6 +451,7 @@ Solutions to LeetCode by Python and JS.
 |	--- |	--- | --- | --- | --- |
 |	0258 | Add Digits | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0258.add_digits.md) | 数学、模拟 | Easy |
 |	2413 | Smallest Even Multiple | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/2413.smallest_even_multiple.md) | 数学 | Easy |
+|	3274 | Check if Two Chessboard Squares Have the Same Color | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/3274.check_if_two_chessboard_squares_have_the_same_color.md) | 数学 | Easy |
 |	0007 | Reverse Integer | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0007.reverse_integer.md) | 数学 | Medium |
 |	0029 | Divide Two Integers | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0029.divide_two_integers.md) | 数学、模拟 | Medium |
 |	0050 | Pow(x, n) | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0050.pow(x,%20n).md) | 数学、快速幂 | Medium |
