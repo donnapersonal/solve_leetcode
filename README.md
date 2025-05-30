@@ -352,6 +352,7 @@ Solutions to LeetCode by Python and JS.
 |	1235 | Maximum Profit in Job Scheduling | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1235.maximum_profit_in_job_scheduling.md) | 数组、动态规划 | Hard |
 |	1547 | Minimum Cost to Cut a Stick | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1547.minimum_cost_to_cut_a_stick.md) | 数组、动态规划 | Hard |
 |	1745 | Palindrome Partitioning IV | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/1745.palindrome_partitioning_IV.md) | 字符串、动态规划 | Hard |
+|	2209 | Minimum White Tiles After Covering With Carpets | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/2209.minimum_white_tiles_after_covering_with_carpets.md) | 字符串、动态规划 | Hard |
 |	2851 | String Transformation | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/2851.string_transformation.md) | 字符串、动态规划 | Hard |
 |	3181 | Maximum Total Reward Using Operations II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/3181.maximum_total_reward_using_operations_II.md) | 数组、动态规划 | Hard |
 |	3193 | Count the Number of Inversions | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Dynamic_programming/3193.count_the_numbe_of_inversions.md) | 数组、动态规划 | Hard |
@@ -437,6 +438,7 @@ Solutions to LeetCode by Python and JS.
 |	0237 | Delete Node in a Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0237.delete_node_in_a_linked_list.md) | 链表 | Medium |
 |	0289 | Game of Life | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0289.game_of_life.md) | 矩阵、模拟 | Medium |
 |	0355 | Design Twitter | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0355.design_twitter.md) | 设计 | Medium |
+|	0468 | Validate IP Address | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0468.validate_IP_address.md) | 模拟 | Medium |
 |	0498 | Diagonal Traverse | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0498.diagonal_traverse.md) | 模拟 | Medium |
 |	0707 | Design Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0707.design_linked_list.md) | 链表、设计 | Medium |
 |	1472 | Design Browser History | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/1472.design_browser_history.md) | 设计、模拟 | Medium |
