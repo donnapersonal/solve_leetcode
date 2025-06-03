@@ -77,6 +77,7 @@ Solutions to LeetCode by Python and JS.
 |	1456 | Maximum Number of Vowels in a Substring of Given Length | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/1456.maximum_number_of_vowels_in_a_substring_of_given_length.md) | 字符串、滑动窗口 | Medium |
 |	1658 | Minimum Operations to Reduce X to Zero | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/1658.minimum_operations_to_reduce_X_to_zero.md) | 数组、滑动窗口 | Medium |
 |	2516 | Take K of Each Character From Left and Right | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/2516.take_K_of_each_characte_from_left_and_right.md) | 字符串、双指针 | Medium |
+|	2730 | Find the Longest Semi-Repetitive Substring | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/2730.find_the_longes_Semi-Repetitive_substring.md) | 字符串、滑动窗口 | Medium |
 |	2831 | Find the Longest Equal Subarray | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/2831.find_the_longest_equal_subarray.md) | 数组、滑动窗口 | Medium |
 |	0030 | Substring with Concatenation of All Words | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0030.substring_with_concatenation_of_all_words.md) | 字符串、滑动窗口 | Hard |
 |	0076 | Minimum Window Substring | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Sliding_window/0076.minimum_window_substring.md) | 字符串、滑动窗口 | Hard |
@@ -435,6 +436,7 @@ Solutions to LeetCode by Python and JS.
 |	0054 | Spiral Matrix | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0054.spiral_matrix.md) | 数组、数学、矩阵 | Medium |
 |	0059 | Spiral Matrix II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0059.spiral_matrix_II.md) | 矩阵、模拟 | Medium |
 |	0146 | LRU Cache | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0146.LRU_cache.md) | 设计、数据结构 | Medium |
+|	0166 | Fraction to Recurring Decimal | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0166.fraction_to_recurring_decimal.md) | 模拟、哈希 | Medium |
 |	0237 | Delete Node in a Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0237.delete_node_in_a_linked_list.md) | 链表 | Medium |
 |	0289 | Game of Life | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0289.game_of_life.md) | 矩阵、模拟 | Medium |
 |	0355 | Design Twitter | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Simulation_and_design/0355.design_twitter.md) | 设计 | Medium |
