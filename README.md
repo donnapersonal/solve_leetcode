@@ -54,6 +54,7 @@ Solutions to LeetCode by Python and JS.
 |	0189 | Rotate Array | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0189.potate_array.md) | 数组、双指针 + 数组翻转 | Medium |
 |	0253 | Meeting Rooms II | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0253.meeting_rooms_II.md) | 数组、双指针 + 排序 | Medium |
 |	0328 | Odd Even Linked List | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0328.odd_even_linked_list.md) | 链表、双指针 | Medium |
+|	0443 | String Compression | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0443.string_compression.md) | 字符串、双指针 | Medium |
 |	0611 | Valid Triangle Number | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0611.valid_triangle_number.md) | 数组、双指针 | Medium |
 |	0633 | Sum of Square Numbers | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0633.sum_of_square_numbers.md) | 双指针 | Medium |
 |	0826 | 826.Most Profit Assigning Work | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Two_pointers/0633.sum_of_square_numbers.md) | 双指针 | Medium |
@@ -453,6 +454,7 @@ Solutions to LeetCode by Python and JS.
 
 |	No. |	Title |	Solution | Tags | Difficulty |
 |	--- |	--- | --- | --- | --- |
+|	0168 | Excel Sheet Column Title | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0168.excel_sheet_column_title.md) | 数学、模拟 | Easy |
 |	0258 | Add Digits | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/0258.add_digits.md) | 数学、模拟 | Easy |
 |	2413 | Smallest Even Multiple | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/2413.smallest_even_multiple.md) | 数学 | Easy |
 |	3274 | Check if Two Chessboard Squares Have the Same Color | [JS/Python](https://github.com/donnapersonal/solve_leetcode/blob/main/Math/3274.check_if_two_chessboard_squares_have_the_same_color.md) | 数学 | Easy |
